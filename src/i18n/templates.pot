@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: src\app\home\home.tpl.html:7
+msgid "Greetings"
+msgstr ""
+
+#: src\app\home\home.tpl.html:3
+msgid "Hello {{home.greeting}} {{home.greeted}}!"
+msgstr ""
+
+#: src\app\common\LanguageSwitcher.tpl.html:4
+msgid "Languages"
+msgstr ""
+
+#: src\app\home\home.tpl.html:15
+msgid "One thing"
+msgid_plural "{{$count}} things"
+msgstr[0] ""
+msgstr[1] ""

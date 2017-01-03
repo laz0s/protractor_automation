@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../util/style/eu-regional.xsl" type="text/xsl"?>
+<!DOCTYPE eu:eu-backbone SYSTEM "../../util/dtd/eu-regional.dtd">
+
+<eu:eu-backbone xmlns:eu="http://europa.eu.int" xmlns:xlink="http://www.w3c.org/1999/xlink" xml:lang="en" dtd-version="1.4">
+  <eu-envelope>
+    <envelope country="emea">
+      <submission type="supplemental-info">
+        <tracking>
+          <number>EMEA/H/C/002522//0000</number>
+        </tracking>
+      </submission>
+      <applicant>Genzyme Europe BV, a Sanofi company</applicant>
+      <agency code="EU-EMEA" />
+      <procedure type="centralised" />
+      <invented-name>MACI</invented-name>
+      <sequence>0001</sequence>
+      <related-sequence country="emea">0000</related-sequence>
+      <submission-description>Responses to Questions raised during validation</submission-description>
+    </envelope>
+  </eu-envelope>
+  <m1-eu>
+    <m1-0-cover>
+      <specific country="emea">
+        <leaf ID="ID1241877" application-version="PDF 1.4" version="" operation="new" checksum="7688deb37ab7d837775411e6b617f449" checksum-type="MD5" xlink:href="10-cover/emea/emea-cover.pdf">
+          <title>Cover Letter</title>
+        </leaf>
+        <leaf ID="ID1241875" application-version="PDF 1.4" version="" operation="replace" modified-file="../../../0000/m1/eu/eu-regional.xml#ID1230573" checksum="2bf430aa6f3fe8ae70c84c3be1d379b8" checksum-type="MD5" xlink:href="10-cover/emea/emea-cover-attachment1.pdf">
+          <title>Cover Letter Attachment 1</title>
+        </leaf>
+        <leaf ID="ID1243446" application-version="PDF 1.4" version="" operation="new" checksum="d2256bf3248743bcdab92d614cbdd5a9" checksum-type="MD5" xlink:href="10-cover/emea/emea-cover-attachment2.pdf">
+          <title>Cover Letter Attachment 2</title>
+        </leaf>
+      </specific>
+    </m1-0-cover>
+    <m1-2-form>
+      <specific country="emea">
+        <leaf ID="ID1242794" application-version="PDF 1.4" version="" operation="replace" modified-file="../../../0000/m1/eu/eu-regional.xml#ID1229663" checksum="42f0e2f0fcbc66d6fcd705a70695cfad" checksum-type="MD5" xlink:href="12-form/emea/emea-form.pdf">
+          <title>Application Form</title>
+        </leaf>
+        <leaf ID="ID1242790" application-version="PDF 1.4" version="" operation="replace" modified-file="../../../0000/m1/eu/eu-regional.xml#ID1228176" checksum="fc969ceee58a7b22f7ce3a30a369adb2" checksum-type="MD5" xlink:href="12-form/emea/emea-form-ax56manufauthorisationsite.pdf">
+          <title>Annex 5.6 Manufacturing Authorisation - Eurofins Biolab SRL</title>
+        </leaf>
+        <leaf ID="ID1241972" application-version="PDF 1.4" version="" operation="new" checksum="4bdfd4e1d277a9c4d624417dd221c068" checksum-type="MD5" xlink:href="12-form/emea/emea-form-ax58flowchartmanufacturingsites.pdf">
+          <title>Annex 5.8 Flow Chart of Manufacturing Sites</title>
+        </leaf>
+        <leaf ID="ID1242788" application-version="PDF 1.4" version="" operation="new" checksum="277386d4a64ccca4368b37e75b07b9d8" checksum-type="MD5" xlink:href="12-form/emea/emea-form-ax511confirmationmanufacturer.pdf">
+          <title>Annex 5.11 Written Confirmation from Manufacturer According to Annex I of Directive 2001/83/EC - Genzyme Biosurgery Aps</title>
+        </leaf>
+      </specific>
+    </m1-2-form>
+    <m1-10-paediatrics>
+      <leaf ID="ID1241873" application-version="PDF 1.4" version="" operation="replace" modified-file="../../../0000/m1/eu/eu-regional.xml#ID1225490" checksum="12455e40ac73228f04ed26d645a10602" checksum-type="MD5" xlink:href="110-paediatrics/paediatrics.pdf">
+        <title>Information Relating to Paediatrics</title>
+      </leaf>
+    </m1-10-paediatrics>
+    <m1-responses>
+      <specific country="emea">
+        <leaf ID="ID1241975" application-version="PDF 1.4" version="" operation="new" checksum="9584704a04d6741622a5186071134f36" checksum-type="MD5" xlink:href="responses/emea/emea-responses.pdf">
+          <title>Responses - Eurofins Biolab SRl Manufacturing Authorisation</title>
+        </leaf>
+        <leaf ID="ID1242798" application-version="PDF 1.4" version="" operation="new" checksum="8b07db2364b9acf3fc0073053d246e60" checksum-type="MD5" xlink:href="responses/emea/emea-responses-validation.pdf">
+          <title>Responses to Validation Questions</title>
+        </leaf>
+      </specific>
+    </m1-responses>
+  </m1-eu>
+</eu:eu-backbone>
+

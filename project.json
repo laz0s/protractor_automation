@@ -1,0 +1,19 @@
+{
+  "assets": {
+    "fonts": {
+      "sources": [
+        "./bower_components/bootstrap-sass-official/assets/fonts/bootstrap/"
+      ]
+    }
+  },
+  "client" : {
+    "url": "http://172.17.52.217:7001/tracking-tool-web/login.html",
+    "baseUrl": "http://172.17.52.217:7001/tracking-tool-web"
+  },
+  "externalData" : {
+      "import" : true
+  },
+  "environment" : {
+    "API_URL" : "http://localhost:8080/api/v2/"
+  }
+}

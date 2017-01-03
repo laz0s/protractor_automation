@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="util/style/ectd-2-0.xsl"?>
+<!DOCTYPE ectd:ectd SYSTEM "util/dtd/ich-ectd-3-2.dtd">
+<ectd:ectd xmlns:ectd="http://www.ich.org/ectd" xmlns:xlink="http://www.w3c.org/1999/xlink" dtd-version="3.2" xml:lang="en">
+  <m1-administrative-information-and-prescribing-information><leaf ID="IDD8AF76C0C5F24B2BBF0F5CFAD29FF99D" checksum="8e7993a884f0af8c6686f8e17a8c477b" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="m1/eu/eu-regional.xml" xlink:show="none" xlink:type="simple"><title>EU regional XML File</title></leaf></m1-administrative-information-and-prescribing-information>
+  
+  
+  
+  <m5-clinical-study-reports>
+    
+    
+    <m5-4-literature-references><leaf ID="ID3b286749c2abcef897fce7c8fe4e57cf" application-version="pdf-1.4" checksum="8317f7a72a088f1fdada9a5dcb647cb7" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="m5/54-lit-ref/viola-2011.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Viola, 2011, Epstein-Barr virus-related lymphoproliferative disorder induced by equine anti-thymocyte globulin therapy</title></leaf></m5-4-literature-references>
+  </m5-clinical-study-reports>
+</ectd:ectd>

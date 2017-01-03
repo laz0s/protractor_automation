@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="util/style/ectd-2-0.xsl" type="text/xsl"?>
+<!DOCTYPE ectd:ectd SYSTEM "util/dtd/ich-ectd-3-2.dtd">
+
+<ectd:ectd xmlns:ectd="http://www.ich.org/ectd" xmlns:xlink="http://www.w3c.org/1999/xlink" xml:lang="en" dtd-version="3.2">
+  <m1-administrative-information-and-prescribing-information>
+    <leaf ID="ID1747806" application-version="" version="" operation="new" checksum="b2399186055ecf902ecc143ab624d6c4" checksum-type="MD5" xlink:href="m1/eu/eu-regional.xml">
+      <title>EU Regional Backbone</title>
+    </leaf>
+  </m1-administrative-information-and-prescribing-information>
+  <m2-common-technical-document-summaries>
+    <m2-6-nonclinical-written-and-tabulated-summaries>
+      <m2-6-2-pharmacology-written-summary>
+        <leaf ID="ID1745240" application-version="" version="" operation="replace" modified-file="../0003/index.xml#ID1628748" checksum="131638fc42a86c82d5334dc2a2a9da45" checksum-type="MD5" xlink:href="m2/26-nonclin-sum/pharmacol-written-summary.pdf">
+          <title>Pharmacology Written Summary</title>
+        </leaf>
+      </m2-6-2-pharmacology-written-summary>
+      <m2-6-4-pharmacokinetics-written-summary>
+        <leaf ID="ID1745242" application-version="PDF 1.4" version="" operation="replace" modified-file="../0003/index.xml#ID1629686" checksum="d1009e7ef169cfe3177b9b17b282482a" checksum-type="MD5" xlink:href="m2/26-nonclin-sum/pharmkin-written-summary.pdf">
+          <title>Pharmacokinetics Written Summary</title>
+        </leaf>
+      </m2-6-4-pharmacokinetics-written-summary>
+      <m2-6-6-toxicology-written-summary>
+        <leaf ID="ID1745244" application-version="" version="" operation="replace" modified-file="../0003/index.xml#ID1629688" checksum="d738b9965319a68802b2724f695a0dad" checksum-type="MD5" xlink:href="m2/26-nonclin-sum/toxicology-written-summary.pdf">
+          <title>Toxicology Written Summary</title>
+        </leaf>
+      </m2-6-6-toxicology-written-summary>
+    </m2-6-nonclinical-written-and-tabulated-summaries>
+  </m2-common-technical-document-summaries>
+  <m5-clinical-study-reports>
+    <m5-4-literature-references>
+      <leaf ID="ID1745198" application-version="PDF 1.4" version="" operation="new" checksum="61f0d95a559013bdd0e80bf8f5dc0141" checksum-type="MD5" xlink:href="m5/54-lit-ref/knutsen-2004.pdf">
+        <title>Knutsen 2004 J Bone Joint Surg Am</title>
+      </leaf>
+      <leaf ID="ID1745200" application-version="PDF 1.4" version="" operation="new" checksum="0801367daa59310c88e5a81c71ff2efc" checksum-type="MD5" xlink:href="m5/54-lit-ref/knutsen-2007.pdf">
+        <title>Knutsen 2007 J Bone Joint Surg Am</title>
+      </leaf>
+      <leaf ID="ID1745202" application-version="PDF 1.4" version="" operation="new" checksum="88924ea2ce9b335b6b16406484a21dbf" checksum-type="MD5" xlink:href="m5/54-lit-ref/mainilvarlet-2010.pdf">
+        <title>MainilVarlet 2010 Am J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1745196" application-version="PDF 1.4" version="" operation="new" checksum="5049a3f5076e9e9636801a5fe559deea" checksum-type="MD5" xlink:href="m5/54-lit-ref/marlovits-2004.pdf">
+        <title>Marlovits 2004 Eur J Radiol</title>
+      </leaf>
+      <leaf ID="ID1745206" application-version="PDF 1.4" version="" operation="new" checksum="323ae48b2cfc0296bc39467b47788f8f" checksum-type="MD5" xlink:href="m5/54-lit-ref/mithoefer-2009.pdf">
+        <title>Mithoefer 2009 Am J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1745208" application-version="PDF 1.4" version="" operation="new" checksum="6e53121d3b1822c4501c3b0d9a088438" checksum-type="MD5" xlink:href="m5/54-lit-ref/mithoefer-2011.pdf">
+        <title>Mithoefer 2011 Cartilage</title>
+      </leaf>
+      <leaf ID="ID1745210" application-version="PDF 1.4" version="" operation="new" checksum="93a1caa1435cf9ebba3ee13d67f255e9" checksum-type="MD5" xlink:href="m5/54-lit-ref/nieminen-2012.pdf">
+        <title>Nieminen 2012 J Magn Reson Imaging</title>
+      </leaf>
+      <leaf ID="ID1745212" application-version="PDF 1.4" version="" operation="new" checksum="fde7866209d56e2cc5f22d39fe4d0d4a" checksum-type="MD5" xlink:href="m5/54-lit-ref/saris-2008.pdf">
+        <title>Saris 2008 Am J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1745214" application-version="PDF 1.4" version="" operation="new" checksum="be15d4cc5cc8aa4c0184e6fa5a62f90b" checksum-type="MD5" xlink:href="m5/54-lit-ref/saris-2009.pdf">
+        <title>Saris 2009 Am J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1745216" application-version="PDF 1.4" version="" operation="new" checksum="7eda33b14cf836725e118d047dc94a03" checksum-type="MD5" xlink:href="m5/54-lit-ref/steadman-1997.pdf">
+        <title>Steadman 1997 Oper Tech Orthop</title>
+      </leaf>
+      <leaf ID="ID1745218" application-version="PDF 1.4" version="" operation="new" checksum="f0ea6b9a601163ce59eb0fecb76743be" checksum-type="MD5" xlink:href="m5/54-lit-ref/steadman-2003.pdf">
+        <title>Steadman 2003 Arthroscopy</title>
+      </leaf>
+      <leaf ID="ID1745220" application-version="PDF 1.4" version="" operation="new" checksum="7c49ba9498f4b765877b7e5f5307381f" checksum-type="MD5" xlink:href="m5/54-lit-ref/vavken-2010.pdf">
+        <title>Vavken 2010 Osteoarthr Cartil</title>
+      </leaf>
+    </m5-4-literature-references>
+  </m5-clinical-study-reports>
+</ectd:ectd>
+

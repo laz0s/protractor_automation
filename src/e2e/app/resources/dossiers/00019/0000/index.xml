@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="util/style/ectd-2-0.xsl"?>
+<!DOCTYPE ectd:ectd SYSTEM "util/dtd/ich-ectd-3-2.dtd">
+<ectd:ectd xmlns:ectd="http://www.ich.org/ectd" xmlns:xlink="http://www.w3c.org/1999/xlink" dtd-version="3.2" xml:lang="en">
+  <m1-administrative-information-and-prescribing-information><leaf ID="ID6E0F3FA4055D4D06B73E8AF0EE8BF293" checksum="553f1c3cef3654a5e3e41ec55394d962" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="m1/eu/eu-regional.xml" xlink:show="none" xlink:type="simple"><title>EU regional XML File</title></leaf></m1-administrative-information-and-prescribing-information>
+  <m2-common-technical-document-summaries>
+    
+    <m2-3-quality-overall-summary>
+      <m2-3-introduction>
+        
+      <leaf ID="ID0c37fffa4a254610b7646c3ced50c98b" application-version="pdf-1.4" checksum="01c8cc6827abd01f26eb4f8bde72dac0" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="m2/23-qos/introduction.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Introduction (930057866 v1.0)</title></leaf></m2-3-introduction>
+      <m2-3-s-drug-substance manufacturer="BMS-Syracuse" substance="belatacept">
+        
+      <leaf ID="IDdc3c5e3d459556dcc64bb664b76c4071" application-version="pdf-1.4" checksum="a2e21fcb7b673c88517fbad1d20742a3" checksum-type="md5" modified-file="../0005/index.xml#ID9c763f1378b3664c97088cd2b7220aeb" operation="replace" xlink:actuate="none" xlink:href="m2/23-qos/23s-4-ctrl-drug-substance.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Control of Drug Substance (930057866 v1.0)</title></leaf></m2-3-s-drug-substance>
+      <m2-3-p-drug-product dosageform="Injection 250 mg/vial" manufacturer="BMS-Manati" product-name="belatacept">
+        
+      <leaf ID="IDdce43fcf4a27d2c1ec28e07602db4ad3" application-version="pdf-1.4" checksum="3e9b085f98b66d9d5f929d9fe833535e" checksum-type="md5" modified-file="../0005/index.xml#IDcd8d268d595a48d0833303959c19ff96" operation="replace" xlink:actuate="none" xlink:href="m2/23-qos/23p-5-ctrl-drug-product.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Control of Drug Product (930057866 v1.0)</title></leaf></m2-3-p-drug-product>
+      
+      
+    </m2-3-quality-overall-summary>
+    
+    
+    
+    
+  </m2-common-technical-document-summaries>
+  <m3-quality>
+    <m3-2-body-of-data>
+      <m3-2-s-drug-substance manufacturer="BMS-Syracuse" substance="belatacept">
+        
+        
+        
+        <m3-2-s-4-control-of-drug-substance>
+          <m3-2-s-4-1-specification>
+            
+          <leaf ID="ID2c30cfa645b9bb53e8dc4265627f9907" application-version="pdf-1.4" checksum="67da3f14c36fae2a80e9668e1710a740" checksum-type="md5" modified-file="../0005/index.xml#ID63f60d4c2925fcf1e4b4441548e56eb0" operation="replace" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s4-contr-drug-sub/32s41-spec/32s4-1-specs.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Specification-Intro (930057867 v1.0)</title></leaf></m3-2-s-4-1-specification>
+          <m3-2-s-4-2-analytical-procedures>
+            
+          <leaf ID="ID694480d7ecfde13843734a1a14799527" application-version="pdf-1.4" checksum="f19e4c19341940492df5287df2f487cc" checksum-type="md5" modified-file="../0005/index.xml#IDa359f839e3988b438ae43ac702a0d0b8" operation="replace" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s4-contr-drug-sub/32s42-analyt-proc/32s4-2-analyt-procs.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Analytical Procedures (930057867 v1.0)</title></leaf><leaf ID="ID5f8f612b00087a2e874dc7c43d98c17a" application-version="Acrobat 5 (1.4)" checksum="" checksum-type="md5" modified-file="../0000/index.xml#ID937162101320" operation="delete" xlink:actuate="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding (Surface Plasmon Resonance) 250196</title></leaf><leaf ID="IDdd222a1997ad2e93d6f1f554da407e10" application-version="pdf-1.4" checksum="ec3fb78dd81f7baa500dac08e41dfcea" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s4-contr-drug-sub/32s42-analyt-proc/250519-s-b7-binding-surface-plasmon-resonance.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding (Surface Plasmon Resonance) 250519 (930057867 v1.0)</title></leaf><leaf ID="IDc8aeecce73f42261cd913d567a88e954" application-version="pdf-1.4" checksum="b68ff83749e9fc56638e0d994b589271" checksum-type="md5" modified-file="../0005/index.xml#IDc4cc573f023a327b8904e6193383bbb0" operation="replace" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s4-contr-drug-sub/32s42-analyt-proc/32s4-2-2-analytical-procedures-development.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Analytical Procedures-Development (930057867 v1.0)</title></leaf></m3-2-s-4-2-analytical-procedures>
+          <m3-2-s-4-3-validation-of-analytical-procedures>
+            
+          <leaf ID="ID1ab5fbacc8f5bdcf12ff31efc5efd823" application-version="pdf-1.4" checksum="3798446b84c4452f54072e975d04cdb5" checksum-type="md5" modified-file="../0016/index.xml#IDabf9fcd7f9a7bda51c639b0efdcc54af" operation="replace" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s4-contr-drug-sub/32s43-val-analyt-proc/32s4-3-val-analyt-proc.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Validation of Analytical Procedures (930057867 v1.0)</title></leaf><leaf ID="ID3522e979ff2fd070ddc9e3b9e50c61cc" application-version="Acrobat 5 (1.4)" checksum="" checksum-type="md5" modified-file="../0000/index.xml#ID433743102532" operation="delete" xlink:actuate="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding (Surface Plasmon Resonance) 250196 Val Summary</title></leaf><leaf ID="ID919f607a84f62cb1a5e4e72d9b60aa25" application-version="pdf-1.4" checksum="27bccc42cb541f19ae149277f7380d90" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s4-contr-drug-sub/32s43-val-analyt-proc/250519s-b7-binding-surface-plasmon-resonance.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding (Surface Plasmon Resonance) 250519 Val Summary (930057867 v1.0)</title></leaf><leaf ID="ID40facb513beebe705d6ce7a3135bc1b0" application-version="pdf-1.4" checksum="38bc52a7356ad054638324dfafe992ae" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s4-contr-drug-sub/32s43-val-analyt-proc/b7-binding-suppl-info.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding Supplemental Information (930057867 1.0)</title></leaf><leaf ID="IDae97cebde62995b42f79fef43dec617d" application-version="Acrobat 5 (1.4)" checksum="" checksum-type="md5" modified-file="../0000/index.xml#ID526250103319" operation="delete" xlink:actuate="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding (Surface Plasmon Resonance) 250196 Val Report</title></leaf><leaf ID="IDa4b995a389d27faaf15c211f55cac6ae" application-version="pdf-1.4" checksum="0a4e6de7aed5a55e8251d9a9fc2e30e0" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s4-contr-drug-sub/32s43-val-analyt-proc/val-rep-250519s-b7-binding-surface-plasmon-resonance.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding (Surface Plasmon Resonance) 250519 Val Report (930057867 v1.0)</title></leaf></m3-2-s-4-3-validation-of-analytical-procedures>
+          
+          <m3-2-s-4-5-justification-of-specification>
+            
+          <leaf ID="IDa61a11ac43668a68ba6103d02062d247" application-version="pdf-1.4" checksum="017226d2f39bab351b6b291d361a0d12" checksum-type="md5" modified-file="../0003/index.xml#ID52b5b7b283d8e5f1b2318db9e40b91c6" operation="replace" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s4-contr-drug-sub/32s45-justif-spec/32s4-5-21-b7-ig-binding-spr-initial.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Ig Binding (SPR) (930057867 v1.0)</title></leaf></m3-2-s-4-5-justification-of-specification>
+        </m3-2-s-4-control-of-drug-substance>
+        
+        
+        <m3-2-s-7-stability>
+          
+          
+          <m3-2-s-7-3-stability-data>
+            
+          <leaf ID="ID4997b718461196376107ec6b35dfc7ca" application-version="pdf-1.4" checksum="997aab9e8bd4517ddba0da9671655102" checksum-type="md5" modified-file="../0004/index.xml#ID5913c02eaaccd8ada735a40a2aac03ef" operation="replace" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s7-stab/32s7-3-1-testing-methodology.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Methods used for testing Stability Samples (930057867 v1.0)</title></leaf></m3-2-s-7-3-stability-data>
+        </m3-2-s-7-stability>
+      </m3-2-s-drug-substance>
+      <m3-2-p-drug-product dosageform="Injection 250 mg/vial" manufacturer="BMS-Manati" product-name="belatacept">
+        
+        
+        
+        
+        <m3-2-p-5-control-of-drug-product>
+          <m3-2-p-5-1-specifications>
+            
+          <leaf ID="ID70aeed1fcbf6804e73226adac6c700b8" application-version="pdf-1.4" checksum="65d9cb2a02cbd2191efc34f3358d7fb8" checksum-type="md5" modified-file="../0005/index.xml#ID83ea9439d3190b4951c1b85a2f08338a" operation="replace" xlink:actuate="none" xlink:href="m3/32-body-data/32p-drug-prod/belatacept-injection-250-mg-vial/32p5-contr-drug-prod/32p51-spec/32p5-1-specs.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Specifications - Intro (930057869 v1.0)</title></leaf></m3-2-p-5-1-specifications>
+          <m3-2-p-5-2-analytical-procedures>
+            
+          <leaf ID="ID2081b26e4e10ac20763a5403a4d5e548" application-version="pdf-1.4" checksum="b2e8fa1b63ab37c061a3f542fc86f431" checksum-type="md5" modified-file="../0000/index.xml#ID64138620109" operation="replace" xlink:actuate="none" xlink:href="m3/32-body-data/32p-drug-prod/belatacept-injection-250-mg-vial/32p5-contr-drug-prod/32p52-analyt-proc/32p5-2-analyt-proc.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Analytical Procedures - Introduction (930057869 v1.0)</title></leaf><leaf ID="IDcbfde2a38e43ea88911a0c0db80db962" application-version="Acrobat 5 (1.4)" checksum="" checksum-type="md5" modified-file="../0000/index.xml#ID97235820559" operation="delete" xlink:actuate="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding (Surface Plasmon Resonance) 250196</title></leaf><leaf ID="ID17b4919bcae0dcc5a2d7bef95f25cafc" application-version="pdf-1.4" checksum="ec3fb78dd81f7baa500dac08e41dfcea" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s4-contr-drug-sub/32s42-analyt-proc/250519-s-b7-binding-surface-plasmon-resonance.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding (Surface Plasmon Resonance) 250519 (930057867 v1.0)</title></leaf><leaf ID="ID325727b5fd86707c7021cdc579104d87" application-version="pdf-1.4" checksum="7397d70000bba2e09a11adf81c332e88" checksum-type="md5" modified-file="../0005/index.xml#IDcc184a2ac96840c3445084c73d616f31" operation="replace" xlink:actuate="none" xlink:href="m3/32-body-data/32p-drug-prod/belatacept-injection-250-mg-vial/32p5-contr-drug-prod/32p52-analyt-proc/32p5-2-2-analyt-proc-develop.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Development Analytical Procedures (930057869 v1.0)</title></leaf></m3-2-p-5-2-analytical-procedures>
+          <m3-2-p-5-3-validation-of-analytical-procedures>
+            
+          <leaf ID="IDac75035f2c456e85dfaaa8c0299616cc" application-version="pdf-1.4" checksum="1d9b96fe2b42a193c7cb9faed4eb91f0" checksum-type="md5" modified-file="../0016/index.xml#ID8f3563dc57b9a269e57f3f8db30c2a0f" operation="replace" xlink:actuate="none" xlink:href="m3/32-body-data/32p-drug-prod/belatacept-injection-250-mg-vial/32p5-contr-drug-prod/32p53-val-analyt-proc/32p5-3-val-analyt-proc.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Validation of Analytical Procedures (930057869 v1.0)</title></leaf><leaf ID="IDe6b362b9043fd7d1aa5bd0e00803b09b" application-version="Acrobat 5 (1.4)" checksum="" checksum-type="md5" modified-file="../0000/index.xml#ID62669923743" operation="delete" xlink:actuate="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding Validation 250196</title></leaf><leaf ID="ID2744ba4a654a22521e16c6974a0329ee" application-version="pdf-1.4" checksum="27bccc42cb541f19ae149277f7380d90" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s4-contr-drug-sub/32s43-val-analyt-proc/250519s-b7-binding-surface-plasmon-resonance.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding (Surface Plasmon Resonance) 250519 Val Summary (930057867 v1.0)</title></leaf><leaf ID="ID48212ab3ad0fec9be3e22d9aac3d1aaa" application-version="pdf-1.4" checksum="38bc52a7356ad054638324dfafe992ae" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s4-contr-drug-sub/32s43-val-analyt-proc/b7-binding-suppl-info.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding Supplemental Information (930057867 1.0)</title></leaf><leaf ID="IDbfd2ae764dae20f0f412bd5d6d0b55b4" application-version="Acrobat 5 (1.4)" checksum="" checksum-type="md5" modified-file="../0000/index.xml#ID71296324902" operation="delete" xlink:actuate="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding (Surface Plasmon Resonance) 250196 Val Report</title></leaf><leaf ID="ID97272d79299072e81fa4687f745d923b" application-version="pdf-1.4" checksum="0a4e6de7aed5a55e8251d9a9fc2e30e0" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="m3/32-body-data/32s-drug-sub/belatacept-bms-syracuse/32s4-contr-drug-sub/32s43-val-analyt-proc/val-rep-250519s-b7-binding-surface-plasmon-resonance.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>B7 Binding (Surface Plasmon Resonance) 250519 Val Report (930057867 v1.0)</title></leaf></m3-2-p-5-3-validation-of-analytical-procedures>
+          
+          
+          <m3-2-p-5-6-justification-of-specifications>
+            
+          <leaf ID="ID45bcb89d77764072989801c4ce9146b1" application-version="pdf-1.4" checksum="9e4bab18fadcc86ab9913c68d98e601c" checksum-type="md5" modified-file="../0003/index.xml#ID9367bb21cae47e5388a34a4d7cd39208" operation="replace" xlink:actuate="none" xlink:href="m3/32-body-data/32p-drug-prod/belatacept-injection-250-mg-vial/32p5-contr-drug-prod/32p56-justif-spec/32p5-6-12-just-specs-b7-initial.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Binding (Surface Plasmon Resonance) (930057869 v1.0)</title></leaf></m3-2-p-5-6-justification-of-specifications>
+        </m3-2-p-5-control-of-drug-product>
+        
+        
+        <m3-2-p-8-stability>
+          
+          
+          <m3-2-p-8-3-stability-data>
+            
+          <leaf ID="ID2c7187c29fec98ba4148e3010fb8f6de" application-version="pdf-1.4" checksum="5435fe047bf027e975999d329e4def00" checksum-type="md5" modified-file="../0004/index.xml#ID6d8ae01cdd80c147b1513700d4713419" operation="replace" xlink:actuate="none" xlink:href="m3/32-body-data/32p-drug-prod/belatacept-injection-250-mg-vial/32p8-stab/32p8-3-1-stab-analyt-proc.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Analytical Methodology (930057869 v1.0)</title></leaf></m3-2-p-8-3-stability-data>
+        </m3-2-p-8-stability>
+      </m3-2-p-drug-product>
+      
+      
+    </m3-2-body-of-data>
+    
+  </m3-quality>
+  
+  
+</ectd:ectd>

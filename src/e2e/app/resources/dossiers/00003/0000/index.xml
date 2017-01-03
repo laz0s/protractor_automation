@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ectd:ectd SYSTEM "util/dtd/ich-ectd-3-2.dtd">
+<?xml-stylesheet type="text/xsl" href="util/style/ectd-2-0.xsl"?>
+<ectd:ectd xmlns:ectd="http://www.ich.org/ectd" xmlns:xlink="http://www.w3c.org/1999/xlink" dtd-version="3.2">
+  <m1-administrative-information-and-prescribing-information>
+    <leaf operation="new" xlink:href="m1/eu/eu-regional.xml" xlink:type="simple" checksum-type="md5" checksum="efb83af48a00936a198c1fdc0f82c2e5" ID="isi139441">
+      <title>eu-regional</title>
+    </leaf>
+  </m1-administrative-information-and-prescribing-information>
+  <m2-common-technical-document-summaries>
+    <m2-3-quality-overall-summary>
+      <m2-3-p-drug-product product-name="dar328" dosageform="Prolonged-release tablet" manufacturer="All">
+        <leaf operation="new" xlink:href="m2/23-qos/ren-qes-mrt-2009.pdf" xlink:type="simple" checksum-type="md5" checksum="b3fa09b0e264786ba9aa346fbc71dbf3" ID="isi137859" application-version="PDF 1.4">
+          <title>2.3.P	Drug product</title>
+        </leaf>
+      </m2-3-p-drug-product>
+    </m2-3-quality-overall-summary>
+    <m2-4-nonclinical-overview>
+      <leaf xlink:href="m2/24-nonclin-over/nonclinical-overview-updated.pdf" xlink:type="simple" operation="new" checksum-type="md5" checksum="24b055afe27ba2ce84ccac295db37dbb" ID="isi139439" application-version="PDF 1.4">
+        <title>nonclinical-overview-updated</title>
+      </leaf>
+    </m2-4-nonclinical-overview>
+    <m2-5-clinical-overview>
+      <leaf operation="new" xlink:href="m2/25-clin-over/clinical-overview.pdf" xlink:type="simple" checksum-type="md5" checksum="9b925739afc513a1891529ca251a09ef" ID="isi137863" application-version="PDF 1.4">
+        <title>2.5	Clinical overview</title>
+      </leaf>
+    </m2-5-clinical-overview>
+  </m2-common-technical-document-summaries>
+  <m5-clinical-study-reports>
+    <m5-3-clinical-study-reports>
+      <m5-3-6-reports-of-postmarketing-experience>
+        <leaf operation="new" xlink:href="m5/53-clin-stud-rep/536-postmark-exp/psur-addendum-report.pdf" xlink:type="simple" checksum-type="md5" checksum="cb0b66f68bedcc12b77b02a0d8c9d80c" ID="isi137865" application-version="PDF 1.4">
+          <title>PSUR Addendum Report Period covered: 01 Nov 2008 – 31 Jan 2009</title>
+        </leaf>
+        <leaf operation="new" xlink:href="m5/53-clin-stud-rep/536-postmark-exp/psur-bridging.pdf" xlink:type="simple" checksum-type="md5" ID="isi137867" application-version="PDF 1.4" checksum="5bb481906e9dfca6876196d8eb0ddfa9">
+          <title>PSUR Bridging Report 22-Oct-2004 to 31-Jan-2009</title>
+        </leaf>
+      </m5-3-6-reports-of-postmarketing-experience>
+    </m5-3-clinical-study-reports>
+    <m5-4-literature-references>
+      <leaf application-version="PDF 1.4" operation="new" xlink:href="m5/54-lit-ref/abrams-2007.pdf" xlink:type="simple" checksum-type="md5" checksum="27494fd2d15e89a5a31b8c44018ee20c" ID="isi137869">
+        <title>Abrams P and Andersson K-E (2007). Muscarinic receptor antagonists for overactive bladder. BJU Int; 100 (5): 987-1006.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/abrams-2003.pdf" xlink:type="simple" checksum-type="md5" checksum="370efa8e577ef94a97a15efd7f33d108" ID="isi137871" application-version="PDF 1.4">
+        <title>Abrams P, Cardozo L, Fall M, et al (2003). The standardization of terminology in lower urinary tract function: Report from the standardization sub-committee of the international continence society. Urology; 61(1): 37-49.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/abrams-2008.pdf" xlink:type="simple" checksum-type="md5" checksum="157f004b4e3b37b6ffa398b8a3fea7f7" ID="isi137873" application-version="PDF 1.4">
+        <title>Abrams P, Kelleher C, Huels J, et al (2008). Clinical relevance of health-related quality of life outcomes with darifenacin. BJU Int; 102: 208-213.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/blok-2007.pdf" xlink:type="simple" checksum-type="md5" checksum="dbf12b9012c69393ef9e6a6ee8d36b9d" ID="isi137875" application-version="PDF 1.4">
+        <title>Blok BFM and Corcos J (2007). Darifenacin for the treatment of overactive bladder. Aging Health; 3(2): 143-147.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/cardozo-2005.pdf" xlink:type="simple" checksum-type="md5" checksum="368b9f99213a23e907922f478f978a0f" ID="isi137877" application-version="PDF 1.4">
+        <title>Cardozo L and Dixon A (2005). Increased warning time with darifenacin:  a new concept in the management of urinary urgency. J Urol; 173:1214-1218.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/chancellor-2008.pdf" xlink:type="simple" checksum-type="md5" checksum="44a47c3a74c416eaa60fc97c992b1baf" ID="isi137879" application-version="PDF 1.4">
+        <title>Chancellor MB, Kianifard F, Beamer, et al (2008). A comparison of the efficacy of darifenacin alone vs. darifenacin plus a Behavioural Modification Programme upon the symptoms of overactive bladder. Int J Clin Pract; 62(4): 606-613.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/chapple-2007.pdf" xlink:type="simple" checksum-type="md5" checksum="f06d799ac48f2859e697c70fb0b0c419" ID="isi137881" application-version="PDF 1.4">
+        <title>Chapple C, DuBeau C, Ebinger U, et al (2007). Darifenacin treatment of patients ≥ 65 years with overactive bladder: results of a randomized, controlled, 12-week trial. Curr Med Res Opin; 23(10): 2347-2358.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/chapple-2005p993.pdf" xlink:type="simple" checksum-type="md5" checksum="c49bb3d55a18336c8f578ebe094331dc" ID="isi137883" application-version="PDF 1.4">
+        <title>Chapple C, Steers W, Norton P, et al (2005). A pooled analysis of three phase III studies to investigate the efficacy, tolerability and safety of darifenacin, a muscarinic M 3 selective receptor antagonist, in the treatment of overactive bladder. BJU Int; 95: 993-1001.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/chapple-2004.pdf" xlink:type="simple" checksum-type="md5" checksum="0bdc6d06416ae0b884f68c19b6708261" ID="isi137885" application-version="PDF 1.4">
+        <title>Chapple CR (2004). Darifenacin: a novel M3 muscarinic selective receptor antagonist for the treatment of overactive bladder. Expert Opin Investig Drugs; 13(11): 1493-1500.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/chapple-2005p112.pdf" xlink:type="simple" checksum-type="md5" checksum="dc55281ad76f127e37007fbe377656f0" ID="isi137887" application-version="PDF 1.4">
+        <title>Chapple CR and Abrams P (2005). Comparison of Darifenacin and Oxybutynin in Patients with Overactive Bladder: Assessment of Ambulatory Urodynamics and Impact on Salivary Flow. Eur Urol; 48: 102-109.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/chapple-2008.pdf" xlink:type="simple" checksum-type="md5" checksum="7be54cea038c24b629ed4c83423b94de" ID="isi137889" application-version="PDF 1.4">
+        <title>Chapple CR, Khullar V, Gabriel Z, et al. (2008). The Effects of Antimuscarinic Treatments in Overactive Bladder: An Update of a Systematic Review and Meta-Analysis. Eur Urol; 54(3): 543-562.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/dwyer-2008.pdf" xlink:type="simple" checksum-type="md5" checksum="f48fb722d2189ef470d3e1cb8fc487a9" ID="isi137891" application-version="PDF 1.4">
+        <title>Dwyer P, Kelleher C, Young J, et al. (2008). Long-Term Benefits of Darifenacin Treatment for Patient Quality of Life: Results From a 2-Year Extension Study. Neurourol Urodynam; 27: 540-547.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/foote-2005.pdf" xlink:type="simple" checksum-type="md5" checksum="91bddd436eb8642d71db34c68fa0c234" ID="isi137893" application-version="PDF 1.4">
+        <title>Foote J, Glavind K, Kralidis G, et al. (2005). Treatment of Overactive Bladder in the Older Patient: Pooled</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/haab-2005.pdf" xlink:type="simple" checksum-type="md5" checksum="b1bb2f4606ac808059237fb584ae33d0" ID="isi137895" application-version="PDF 1.4">
+        <title>Haab F (2005). Darifenacin for the treatment of overactive bladder. Women’s Health; 1(3): 331-343.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/haab-2006.pdf" xlink:type="simple" checksum-type="md5" checksum="77d1194a439734224489e087a015fa36" ID="isi137897" application-version="PDF 1.4">
+        <title>Haab F, Corcos J, Siami P, et al. (2006). Long-term treatment with darifenacin for overactive bladder: results of a 2-year, open-label extension study. BJU Int; 98: 1025-1032.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/haab-2004.pdf" xlink:type="simple" checksum-type="md5" checksum="aa9dd2d56d3ab368ce58a4cea737321d" ID="isi137899" application-version="PDF 1.4">
+        <title>Haab F, Stewart L, Dwyer P (2004). Darifenacin, an M3 Selective Receptor Antagonist, is an Effective and Well- Tolerated Once-DailyTreatment for Overactive Bladder. Eur Urol. Apr; 45(4): 420-9.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/hill-2007.pdf" xlink:type="simple" checksum-type="md5" checksum="326c4cf7fcb03054d369da3e6f7d3b55" ID="isi137901" application-version="PDF 1.4">
+        <title>Hill S, Elhilali M, Millard RJ, et al. (2007). Long-term darifenacin treatment for overactive bladder in patients aged 65 years and older: analysis of results from a 2-year, open-label extension study. Curr Med Res Opin; 23(11): 2697-2704.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/hill-2006.pdf" xlink:type="simple" checksum-type="md5" checksum="f8d6ae240508549c6793df77ed1701b5" ID="isi137903" application-version="PDF 1.4">
+        <title>Hill S, Khullar V, Wyndaele J-J, et al. (2006). Dose response with darifenacin, a novel once-daily M3 selective receptor antagonist for the treatment of overactive bladder: results of a fixed dose study. Int Urogynecol J; 17: 129-247.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/jha-2006.pdf" xlink:type="simple" checksum-type="md5" checksum="32295c420f5e1efffea734831574e1e7" ID="isi137905" application-version="PDF 1.4">
+        <title>Jha S and Parsons M. (2006). Treatment of overactive bladder in the aging population: focus on darifenacin. Clin Interv Aging; 14: 309-316.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/kay-2006.pdf" xlink:type="simple" checksum-type="md5" checksum="1fd0391c81a02fb6bea58073a1075054" ID="isi137907" application-version="PDF 1.4">
+        <title>Kay G, Crook T, Rekeda L, et al. (2006). Differential Effects of the Antimuscarinic Agents Darifenacin and Oxybutynin ER on Memory in Older Subjects. Eur Urol; 50(2): 317-326.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/kay-gg-and-ebinger-u--2008-.pdf" xlink:type="simple" checksum-type="md5" checksum="16774aba626232bda79c13d926682be8" ID="isi137909" application-version="PDF 1.4">
+        <title>Kay GG and Ebinger U (2008). Preserving cognitive function for patients with overactive bladder: evidence for a differential effect with darifenacin. Int J Clin Pract; 62(11): 1792-1800.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/kay-2005.pdf" xlink:type="simple" checksum-type="md5" checksum="db4810e06ce0319d05a5eb73862a94fe" ID="isi137911" application-version="PDF 1.4">
+        <title>Kay GG and Wesnes KA (2005). Pharmacodynamic effects of darifenacin, a muscarinic M3 selective receptor antagonist for the treatment of overactive bladder, in healthy volunteers. BJU Int; 96: 1055-1062.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/klausner-2007.pdf" xlink:type="simple" checksum-type="md5" checksum="f372e218159cf31012be0e99258b836d" ID="isi137913" application-version="PDF 1.4">
+        <title>Klausner AP and Steers WD. (2007). Antimuscarinics for the treatment of overactive bladder: a review of central nervous system effects. Curr Urol Rep; 8: 441-447.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/lipton-2005.pdf" xlink:type="simple" checksum-type="md5" checksum="ea777b7349791fcf6f696c44b93d9a82" ID="isi137915" application-version="PDF 1.4">
+        <title>Lipton RB, Kolodner K, Wesnes K. (2005). Assessment of cognitive function of the elderly</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/mason-2008.pdf" xlink:type="simple" checksum-type="md5" checksum="34a941de9e8f12b20fd6366cbeb9daff" ID="isi137917" application-version="PDF 1.4">
+        <title>Mason HR, Swanson JK, HO J, et al. (2008). Interstitial granulomatous dermatitis associated</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/nabi-2009.pdf" xlink:type="simple" checksum-type="md5" checksum="1e1306cb811abc5e64e7f76bee29053d" ID="isi137919" application-version="PDF 1.4">
+        <title>Nabi G, Cody JD, Ellis G, et al. (2006). Anticholinergic drugs versus placebo for overactive bladder syndrome in adults (Review). The Cochrane Library 2009, Issue 1</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/novara-2008.pdf" xlink:type="simple" checksum-type="md5" checksum="caf8a03540ed8d3b05c5a68406d0d57e" ID="isi137921" application-version="PDF 1.4">
+        <title>Novara G, Galfano A, Secco S, et al. (2008). A systematic review and meta-analysis of randomized controlled trials with antimuscarinic drugs for overactive bladder. Eur Urol; 54(4): 740-763.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/olshansky-2008.pdf" xlink:type="simple" checksum-type="md5" checksum="70a8000991deb7e52f664e4a0b74eee3" ID="isi137923" application-version="PDF 1.4">
+        <title>Olshanksy B, Ebinger U, Brum J, et al. (2008). Differential pharmacological effects of antimuscarinic drugs on heart rate: a randomized, placebo-controlled, double-blind, cross-over study with tolterodine and darifenacin in healthy participants ≥ 50 years. J Cardiovasc Pharmacol Ther; 13(4): 241-251</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/darifenacin-expert-statement---cv-safety-.pdf" xlink:type="simple" checksum-type="md5" checksum="f125c0b6a71974f27d9b59989952fc87" ID="isi137925" application-version="PDF 1.4">
+        <title>Rueegg P, Ebinger U, Mehra A, et al (2007). Enablex/Emselex (darifenacin hydrobromide) Clinical Review: Comprehensive analyses of cardiac safety data. Novartis Expert Statement. Issued: 14 November 2007.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/serra-2005.pdf" xlink:type="simple" checksum-type="md5" checksum="93ab66f20a74a904a2dc8e35eaba1bf7" ID="isi139419" application-version="PDF 1.4">
+        <title>Serra DB, Affrime MB, Bedigian MP, et al. (2005). QT and QTc interval with standard and supratherapeutic doses of darifenacin, a muscarinic M3 selective receptor antagonist for the treatment of overactive bladder. J Clin Pharmacol; 45: 1038-1047.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/staskin-2005.pdf" xlink:type="simple" checksum-type="md5" checksum="d5387a68461b6ef66091a5db5ebc5770" ID="isi139421" application-version="PDF 1.4">
+        <title>Staskin DR (2005). Overactive bladder in the elderly: a guide to pharmacological management. Drugs aging; 22(12): 1013-1028.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/steers-2005.pdf" xlink:type="simple" checksum-type="md5" checksum="91c1f4b3c9d62df87b311e7d692d2d37" ID="isi139423" application-version="PDF 1.4">
+        <title>Steers W, Corcos J, Foote, et al. (2005). An investigation of dose titration with darifenacin, an M3-selective receptor antagonist. BJU Int; 95: 580-586; erratum 2005: 95: 1385-1386.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/steers-2006.pdf" xlink:type="simple" checksum-type="md5" checksum="35174e134d14bc85c3aecfe5db14661e" ID="isi139425" application-version="PDF 1.4">
+        <title>Steers WD (2006). Darifenacin: pharmacology and clinical usage. Urol Clin N Am; 33: 475-482.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/zinner-2007.pdf" xlink:type="simple" checksum-type="md5" checksum="f42b894adada19c76886afcdb06017b0" ID="isi139427" application-version="PDF 1.4">
+        <title>Zinner N (2007). Darifenacin: a muscarinic M3-selective receptor antagonist for the treatment of overactive bladder. Expert Opin Pharmacother; 8(4): 511-523.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/zinner-2006.pdf" xlink:type="simple" checksum-type="md5" checksum="a0dcd907c8941164896ba505a00cfb72" ID="isi139429" application-version="PDF 1.4">
+        <title>Zinner N, Susset J, Gittelman M, et al. (2006). Efficacy, tolerability and safety of darifenacin, an M3 selective receptor antagonist: an investigation of warning time in patients with OAB. Int J Clin Pract; 60(1): 119-126.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/zinner-2005.pdf" xlink:type="simple" checksum-type="md5" checksum="664f31ee172411be714a45285eb56de7" ID="isi139431" application-version="PDF 1.4">
+        <title>Zinner N, Tuttle J, Marks L (2005). Efficacy and tolerability of darifenacin, a muscarinic M3 selective receptor antagonist (M3 SRA), compared with oxybutynin in the treatment of patients with overactive bladder. World J Urol; 23: 248-252.</title>
+      </leaf>
+      <leaf operation="new" xlink:href="m5/54-lit-ref/zinner-2008.pdf" xlink:type="simple" checksum-type="md5" checksum="3a32e2c108334eb1d02353b8dff05858" ID="isi139433" application-version="PDF 1.4">
+        <title>Zinner N, Kobashi KC, Ebinger U, et al. (2008). Darifenacin treatment for overactive bladder in patients who expressed dissatisfaction with prior extended-release antimuscarinic therapy. Int J Clin Pract. t. Nov;62(11):1664-74.</title>
+      </leaf>
+    </m5-4-literature-references>
+  </m5-clinical-study-reports>
+</ectd:ectd>

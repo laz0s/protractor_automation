@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE eu:eu-backbone SYSTEM "../../util/dtd/eu-regional.dtd">
+<?xml-stylesheet type="text/xsl" href="../../util/style/eu-regional.xsl"?>
+<eu:eu-backbone xmlns:eu="http://europa.eu.int" xmlns:xlink="http://www.w3c.org/1999/xlink" dtd-version="2.0">
+  <eu-envelope>
+    <envelope country="ema">
+      <submission type="supplemental-info">
+        <number>EMEA/H/C/2324</number>
+        <tracking>
+          <number>EMEA/H/C/2324/R/001</number>
+        </tracking>
+      </submission>
+      <applicant>Actavis Group PTC ehf</applicant>
+      <agency code="EU-EMA" />
+      <procedure type="centralised" />
+      <invented-name>Pioglitazone Actavis</invented-name>
+      <inn>Pioglitazone hydrochloride              </inn>
+      <sequence>0030</sequence>
+      <related-sequence>0029</related-sequence>
+      <submission-description>Renewal - RSI</submission-description>
+    </envelope>
+  </eu-envelope>
+  <m1-eu>
+    <m1-0-cover>
+      <specific country="ema">
+        <leaf operation="new" xlink:href="10-cover/ema/ema-cover.pdf" xlink:type="simple" checksum-type="md5" ID="isi-89324-1658871" application-version="PDF 1.4" checksum="b6f1e24ae22f0e26459289b973d9366a">
+          <title>ema-cover</title>
+        </leaf>
+        <leaf operation="new" xlink:href="10-cover/ema/ema-tracking.pdf" xlink:type="simple" checksum-type="md5" ID="isi-89324-1658872" application-version="PDF 1.4" checksum="4c4e3c26c5941b217f63867dacacda15">
+          <title>ema-tracking</title>
+        </leaf>
+      </specific>
+    </m1-0-cover>
+    <m1-2-form>
+      <specific country="ema">
+        <leaf operation="replace" modified-file="../../../0029/m1/eu/eu-regional.xml#isi-88782-1647572" xlink:href="12-form/ema/ema-form-contact-persons-details.pdf" xlink:type="simple" checksum-type="md5" ID="isi-89324-1658873" application-version="PDF 1.4" checksum="1eab52f30a590abefbc80870e80cb8fe">
+          <title>ema-form-contact-persons-details</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/ema/ema-form-specimen-declaration.pdf" xlink:type="simple" checksum-type="md5" ID="isi-89324-1658874" application-version="PDF 1.4" checksum="f1ecd24759894451b90da14727a3268a">
+          <title>ema-form-specimen-declaration</title>
+        </leaf>
+      </specific>
+    </m1-2-form>
+    <m1-4-expert>
+      <m1-4-1-quality>
+        <leaf operation="replace" modified-file="../../../0029/m1/eu/eu-regional.xml#isi-88782-1647577" xlink:href="14-expert/141-quality/quality.pdf" xlink:type="simple" checksum-type="md5" ID="isi-89324-1658876" application-version="PDF 1.4" checksum="f3811f082e5975596cf289b0b7778b7b">
+          <title>quality</title>
+        </leaf>
+      </m1-4-1-quality>
+      <m1-4-3-clinical>
+        <leaf operation="replace" modified-file="../../../0029/m1/eu/eu-regional.xml#isi-88782-1647578" xlink:href="14-expert/143-clinical/clinical.pdf" xlink:type="simple" checksum-type="md5" ID="isi-89324-1658875" application-version="PDF 1.4" checksum="e96e8118c79627f746d7beb23e9f5dc0">
+          <title>clinical</title>
+        </leaf>
+      </m1-4-3-clinical>
+    </m1-4-expert>
+    <m1-responses>
+      <specific country="ema">
+        <leaf operation="new" xlink:href="responses/ema/ema-responses.pdf" xlink:type="simple" checksum-type="md5" ID="isi-89324-1658877" application-version="PDF 1.4" checksum="2bd9aee51266ce523fcfe718eebed332">
+          <title>ema-responses</title>
+        </leaf>
+      </specific>
+    </m1-responses>
+  </m1-eu>
+</eu:eu-backbone>

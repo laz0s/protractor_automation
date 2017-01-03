@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="util/style/ectd-2-0.xsl" type="text/xsl"?>
+<!DOCTYPE ectd:ectd SYSTEM "util/dtd/ich-ectd-3-2.dtd">
+
+<ectd:ectd xmlns:ectd="http://www.ich.org/ectd" xmlns:xlink="http://www.w3c.org/1999/xlink" xml:lang="en" dtd-version="3.2">
+  <m1-administrative-information-and-prescribing-information>
+    <leaf ID="ID1642572" application-version="" version="" operation="new" checksum="927272f6fcdc25dfc5a86ceb4e4e2dff" checksum-type="MD5" xlink:href="m1/eu/eu-regional.xml">
+      <title>EU Regional Backbone</title>
+    </leaf>
+  </m1-administrative-information-and-prescribing-information>
+  <m2-common-technical-document-summaries>
+    <m2-3-quality-overall-summary>
+      <m2-3-s-drug-substance substance="Autologous Cultured Chondrocytes" manufacturer="Genzyme Biosurgery ApS">
+        <leaf ID="ID1629010" application-version="" version="" operation="replace" modified-file="../0001/index.xml#ID1241919" checksum="09ff8f361354a0d50254ee84f162c807" checksum-type="MD5" xlink:href="m2/23-qos/drug-substance.pdf">
+          <title>Drug Substance</title>
+        </leaf>
+      </m2-3-s-drug-substance>
+      <m2-3-p-drug-product product-name="MACI" dosageform="implant 500 000 to 1 000 000 cells/cm2" manufacturer="Genzyme Biosurgery ApS">
+        <leaf ID="ID1629012" application-version="PDF 1.4" version="" operation="replace" modified-file="../0001/index.xml#ID1241921" checksum="10217053f557bf7907c8bdde1b732353" checksum-type="MD5" xlink:href="m2/23-qos/drug-product.pdf">
+          <title>Drug Product</title>
+        </leaf>
+      </m2-3-p-drug-product>
+      <m2-3-a-appendices>
+        <leaf ID="ID1629014" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1227647" checksum="5f1f24deb7b44daf84668ce86adde12e" checksum-type="MD5" xlink:href="m2/23-qos/appendices.pdf">
+          <title>Appendices</title>
+        </leaf>
+      </m2-3-a-appendices>
+    </m2-3-quality-overall-summary>
+    <m2-4-nonclinical-overview>
+      <leaf ID="ID1628758" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1221700" checksum="7658556778a8886bcd4d3a76f554b263" checksum-type="MD5" xlink:href="m2/24-nonclin-over/nonclinical-overview.pdf">
+        <title>Nonclinical Overview</title>
+      </leaf>
+    </m2-4-nonclinical-overview>
+    <m2-6-nonclinical-written-and-tabulated-summaries>
+      <m2-6-1-introduction>
+        <leaf ID="ID1628746" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223688" checksum="a08e5e3a189dd94abb0dc118d825eef2" checksum-type="MD5" xlink:href="m2/26-nonclin-sum/introduction.pdf">
+          <title>Introduction</title>
+        </leaf>
+      </m2-6-1-introduction>
+      <m2-6-2-pharmacology-written-summary>
+        <leaf ID="ID1628748" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223690" checksum="3a46b8011d643599ac70ab41fc058bb7" checksum-type="MD5" xlink:href="m2/26-nonclin-sum/pharmacol-written-summary.pdf">
+          <title>Pharmacology Written Summary</title>
+        </leaf>
+      </m2-6-2-pharmacology-written-summary>
+      <m2-6-3-pharmacology-tabulated-summary>
+        <leaf ID="ID1628750" application-version="" version="" operation="replace" modified-file="../0000/index.xml#ID1223692" checksum="d7ebe12ecf00c88c06ba4e807eed3220" checksum-type="MD5" xlink:href="m2/26-nonclin-sum/pharmacol-tabulated-summary.pdf">
+          <title>Pharmacology Tabulated Summary</title>
+        </leaf>
+      </m2-6-3-pharmacology-tabulated-summary>
+      <m2-6-4-pharmacokinetics-written-summary>
+        <leaf ID="ID1629686" application-version="" version="" operation="replace" modified-file="../0000/index.xml#ID1223694" checksum="74ffaf8892a2f06d5c7c8dea571d0cea" checksum-type="MD5" xlink:href="m2/26-nonclin-sum/pharmkin-written-summary.pdf">
+          <title>Pharmacokinetics Written Summary</title>
+        </leaf>
+      </m2-6-4-pharmacokinetics-written-summary>
+      <m2-6-5-pharmacokinetics-tabulated-summary>
+        <leaf ID="ID1628752" application-version="" version="" operation="replace" modified-file="../0000/index.xml#ID1223696" checksum="c7579f9c96e2c360a3c646744c4154a6" checksum-type="MD5" xlink:href="m2/26-nonclin-sum/pharmkin-tabulated-summary.pdf">
+          <title>Pharmacokinetics Tabulated Summary</title>
+        </leaf>
+      </m2-6-5-pharmacokinetics-tabulated-summary>
+      <m2-6-6-toxicology-written-summary>
+        <leaf ID="ID1629688" application-version="" version="" operation="replace" modified-file="../0000/index.xml#ID1223698" checksum="d7244cf4d4b171a17d18e20a528c5d10" checksum-type="MD5" xlink:href="m2/26-nonclin-sum/toxicology-written-summary.pdf">
+          <title>Toxicology Written Summary</title>
+        </leaf>
+      </m2-6-6-toxicology-written-summary>
+      <m2-6-7-toxicology-tabulated-summary>
+        <leaf ID="ID1628756" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223700" checksum="dfac4c7b4b979dff882b473e2f62d2aa" checksum-type="MD5" xlink:href="m2/26-nonclin-sum/toxicology-tabulated-summary.pdf">
+          <title>Toxicology Tabulated Summary</title>
+        </leaf>
+      </m2-6-7-toxicology-tabulated-summary>
+    </m2-6-nonclinical-written-and-tabulated-summaries>
+    <m2-7-clinical-summary>
+      <m2-7-6-synopses-of-individual-studies>
+        <leaf ID="ID1639194" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1227644" checksum="65676e1e44ab8388a558c1abfffaf7e4" checksum-type="MD5" xlink:href="m2/27-clin-sum/synopses-indiv-studies.pdf">
+          <title>Synopses of Individual Studies</title>
+        </leaf>
+      </m2-7-6-synopses-of-individual-studies>
+    </m2-7-clinical-summary>
+  </m2-common-technical-document-summaries>
+  <m3-quality>
+    <m3-2-body-of-data>
+      <m3-2-s-drug-substance substance="Autologous Cultured Chondrocytes" manufacturer="Genzyme Biosurgery ApS">
+        <m3-2-s-2-manufacture>
+          <m3-2-s-2-1-manufacturer>
+            <leaf ID="ID1639200" application-version="PDF 1.4" version="" operation="replace" modified-file="../0001/index.xml#ID1241879" checksum="578df2596d166c2720c646a17637ef7f" checksum-type="MD5" xlink:href="m3/32-body-data/32s-drug-sub/autologous-cartilage/32s2-manuf/manufacturer.pdf">
+              <title>Manufacturer</title>
+            </leaf>
+          </m3-2-s-2-1-manufacturer>
+          <m3-2-s-2-2-description-of-manufacturing-process-and-process-controls>
+            <leaf ID="ID1639202" application-version="" version="" operation="replace" modified-file="../0000/index.xml#ID1226796" checksum="ec8d5dd0e86811fdb46a2d9ddf83dd0c" checksum-type="MD5" xlink:href="m3/32-body-data/32s-drug-sub/autologous-cartilage/32s2-manuf/manuf-process-and-controls.pdf">
+              <title>Description of Manufacturing Process and Process Controls</title>
+            </leaf>
+          </m3-2-s-2-2-description-of-manufacturing-process-and-process-controls>
+          <m3-2-s-2-3-control-of-materials>
+            <leaf ID="ID1639204" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1226797" checksum="4b283d25e80771a740002933a52d69c1" checksum-type="MD5" xlink:href="m3/32-body-data/32s-drug-sub/autologous-cartilage/32s2-manuf/control-of-materials.pdf">
+              <title>Control of Materials</title>
+            </leaf>
+          </m3-2-s-2-3-control-of-materials>
+          <m3-2-s-2-4-controls-of-critical-steps-and-intermediates>
+            <leaf ID="ID1639206" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1226798" checksum="80726336041a3ff256a82b73fbbdb0a5" checksum-type="MD5" xlink:href="m3/32-body-data/32s-drug-sub/autologous-cartilage/32s2-manuf/control-critical-steps.pdf">
+              <title>Controls of Critical Steps and Intermediates</title>
+            </leaf>
+          </m3-2-s-2-4-controls-of-critical-steps-and-intermediates>
+          <m3-2-s-2-5-process-validation-and-or-evaluation>
+            <leaf ID="ID1639208" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1226799" checksum="b43b56e7e8243d68ac3e33833f2ad667" checksum-type="MD5" xlink:href="m3/32-body-data/32s-drug-sub/autologous-cartilage/32s2-manuf/process-validation.pdf">
+              <title>Process Validation and/or Evaluation</title>
+            </leaf>
+          </m3-2-s-2-5-process-validation-and-or-evaluation>
+          <m3-2-s-2-6-manufacturing-process-development>
+            <leaf ID="ID1639210" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1226800" checksum="6a10e1826e2d8a279f433ead841a1837" checksum-type="MD5" xlink:href="m3/32-body-data/32s-drug-sub/autologous-cartilage/32s2-manuf/manuf-process-development.pdf">
+              <title>Manufacturing Process Development</title>
+            </leaf>
+          </m3-2-s-2-6-manufacturing-process-development>
+        </m3-2-s-2-manufacture>
+        <m3-2-s-4-control-of-drug-substance>
+          <m3-2-s-4-2-analytical-procedures>
+            <leaf ID="ID1639212" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223755" checksum="4d6ace8fb084523d92d10355573277f3" checksum-type="MD5" xlink:href="m3/32-body-data/32s-drug-sub/autologous-cartilage/32s4-contr-drug-sub/32s42-analyt-proc/analytical-procedures.pdf">
+              <title>Analytical Procedures</title>
+            </leaf>
+          </m3-2-s-4-2-analytical-procedures>
+          <m3-2-s-4-3-validation-of-analytical-procedures>
+            <leaf ID="ID1639216" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223756" checksum="87b8aeb339819bb323f23096770c94aa" checksum-type="MD5" xlink:href="m3/32-body-data/32s-drug-sub/autologous-cartilage/32s4-contr-drug-sub/32s43-val-analyt-proc/validation-analytical-procedures.pdf">
+              <title>Validation of Analytical Procedures</title>
+            </leaf>
+          </m3-2-s-4-3-validation-of-analytical-procedures>
+          <m3-2-s-4-4-batch-analyses>
+            <leaf ID="ID1639218" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223757" checksum="30013847c773a22e7e340a963886d542" checksum-type="MD5" xlink:href="m3/32-body-data/32s-drug-sub/autologous-cartilage/32s4-contr-drug-sub/32s44-batch-analys/batch-analyses.pdf">
+              <title>Batch Analyses</title>
+            </leaf>
+          </m3-2-s-4-4-batch-analyses>
+          <m3-2-s-4-5-justification-of-specification>
+            <leaf ID="ID1639220" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223758" checksum="e6d2373ee3af98a5a0d2b9b9504c8f88" checksum-type="MD5" xlink:href="m3/32-body-data/32s-drug-sub/autologous-cartilage/32s4-contr-drug-sub/32s45-justif-spec/justification-of-specification.pdf">
+              <title>Justification of Specification</title>
+            </leaf>
+          </m3-2-s-4-5-justification-of-specification>
+        </m3-2-s-4-control-of-drug-substance>
+        <m3-2-s-5-reference-standards-or-materials>
+          <leaf ID="ID1639222" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223750" checksum="a13bf573ec5542a9dbd74c2ffaa71bd4" checksum-type="MD5" xlink:href="m3/32-body-data/32s-drug-sub/autologous-cartilage/32s5-ref-stand/reference-standards.pdf">
+            <title>Reference Standards or Materials</title>
+          </leaf>
+        </m3-2-s-5-reference-standards-or-materials>
+      </m3-2-s-drug-substance>
+      <m3-2-p-drug-product product-name="MACI" dosageform="implant 500 000 to 1 000 000 cells/cm2" manufacturer="Genzyme Biosurgery ApS">
+        <m3-2-p-2-pharmaceutical-development>
+          <leaf ID="ID1639196" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223942" checksum="e9494b6bb4c9b7b9b477642f77926bd8" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p2-pharm-dev/pharmaceutical-development-drugprodcomp.pdf">
+            <title>Components of the Drug Product</title>
+          </leaf>
+          <leaf ID="ID1639198" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223944" checksum="0792f8f00a94d49625ea5c8fdd5297b8" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p2-pharm-dev/pharmaceutical-development-drugprod.pdf">
+            <title>Drug Product</title>
+          </leaf>
+          <leaf ID="ID1630683" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1229944" checksum="d130634fcd071b1ba258a790ba184658" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p2-pharm-dev/pharmaceutical-development-containclos-08003.pdf">
+            <title>08003 - GLP Report</title>
+          </leaf>
+          <leaf ID="ID1630684" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1229946" checksum="e0c4f895decdb6c5a67ebd7d98264dee" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p2-pharm-dev/pharmaceutical-development-containclos-08004.pdf">
+            <title>08004 - GLP Report</title>
+          </leaf>
+          <leaf ID="ID1630685" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1229948" checksum="362a99aa7680c5ccbaa3bb1fc6e22988" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p2-pharm-dev/pharmaceutical-development-containclos-08005.pdf">
+            <title>08005 - GLP Report</title>
+          </leaf>
+          <leaf ID="ID1630686" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1229951" checksum="cd9272ac5fd660b7573b89789ca8fc3c" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p2-pharm-dev/pharmaceutical-development-containclos-08006.pdf">
+            <title>08006 - GLP Report</title>
+          </leaf>
+          <leaf ID="ID1630687" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1229955" checksum="dc3f40f9696833438408e43939e7e12b" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p2-pharm-dev/pharmaceutical-development-containclos-09002.pdf">
+            <title>09002 - GLP Report</title>
+          </leaf>
+          <leaf ID="ID1630688" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1229958" checksum="a503bab3e94f2a2b3c73d21aa7b5e2dd" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p2-pharm-dev/pharmaceutical-development-containclos-09003.pdf">
+            <title>09003 - GLP Report</title>
+          </leaf>
+          <leaf ID="ID1631339" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1229910" checksum="30b9636030546b50561808e93887f7b1" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p2-pharm-dev/pharmaceutical-development-drugprod-rr07010.pdf">
+            <title>RR07010 - Research Report</title>
+          </leaf>
+          <leaf ID="ID1631340" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1229924" checksum="58a0e831d9f067839025ba3e7358e834" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p2-pharm-dev/pharmaceutical-development-manufprocdev-rr07009.pdf">
+            <title>RR07009 - Research Report</title>
+          </leaf>
+        </m3-2-p-2-pharmaceutical-development>
+        <m3-2-p-3-manufacture>
+          <m3-2-p-3-2-batch-formula>
+            <leaf ID="ID1639224" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223956" checksum="8a3b7887e2fda99965fe6ff8ebd40622" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p3-manuf/batch-formula.pdf">
+              <title>Batch Formula</title>
+            </leaf>
+          </m3-2-p-3-2-batch-formula>
+          <m3-2-p-3-3-description-of-manufacturing-process-and-process-controls>
+            <leaf ID="ID1639226" application-version="" version="" operation="replace" modified-file="../0000/index.xml#ID1223958" checksum="717342db8161bdb6b128d79ae82cfcd7" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p3-manuf/manuf-process-and-controls.pdf">
+              <title>Description of Manufacturing Process and Process Controls</title>
+            </leaf>
+          </m3-2-p-3-3-description-of-manufacturing-process-and-process-controls>
+          <m3-2-p-3-4-controls-of-critical-steps-and-intermediates>
+            <leaf ID="ID1639228" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223960" checksum="6850f01a4213b301d9cb30fc20bc9a14" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p3-manuf/control-critical-steps.pdf">
+              <title>Controls of Critical Steps and Intermediates</title>
+            </leaf>
+          </m3-2-p-3-4-controls-of-critical-steps-and-intermediates>
+        </m3-2-p-3-manufacture>
+        <m3-2-p-4-control-of-excipients excipient="Compendial">
+          <m3-2-p-4-2-analytical-procedures>
+            <leaf ID="ID1639230" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223966" checksum="fa758e6047676f4a32dc90f9df369f2c" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p4-contr-excip/compendial/analytical-procedures.pdf">
+              <title>Analytical Procedures</title>
+            </leaf>
+          </m3-2-p-4-2-analytical-procedures>
+        </m3-2-p-4-control-of-excipients>
+        <m3-2-p-5-control-of-drug-product>
+          <m3-2-p-5-1-specifications>
+            <leaf ID="ID1639232" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223976" checksum="64bdeee6983aede95fe7a776b42c6d54" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p5-contr-drug-prod/32p51-spec/specifications.pdf">
+              <title>Specifications</title>
+            </leaf>
+          </m3-2-p-5-1-specifications>
+          <m3-2-p-5-2-analytical-procedures>
+            <leaf ID="ID1639234" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223978" checksum="d8fb0d659ad86fdc0f73b384b56a5693" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p5-contr-drug-prod/32p52-analyt-proc/analytical-procedures.pdf">
+              <title>Analytical Procedures</title>
+            </leaf>
+          </m3-2-p-5-2-analytical-procedures>
+          <m3-2-p-5-3-validation-of-analytical-procedures>
+            <leaf ID="ID1630732" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1230002" checksum="6c2030c3cab7d674b5727ca5bdecf78f" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p5-contr-drug-prod/32p53-val-analyt-proc/qoc102-1-rr07029.pdf">
+              <title>RR07029 - Research Report</title>
+            </leaf>
+          </m3-2-p-5-3-validation-of-analytical-procedures>
+          <m3-2-p-5-4-batch-analyses>
+            <leaf ID="ID1639238" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223982" checksum="dc7e9a8c5a9b192d01e536392c4466ca" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p5-contr-drug-prod/32p54-batch-analys/batch-analyses.pdf">
+              <title>Batch Analyses</title>
+            </leaf>
+          </m3-2-p-5-4-batch-analyses>
+          <m3-2-p-5-6-justification-of-specifications>
+            <leaf ID="ID1639240" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223986" checksum="735f046375007896c4384856b5e06937" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p5-contr-drug-prod/32p56-justif-spec/justification-of-specifications.pdf">
+              <title>Justification of Specifications</title>
+            </leaf>
+            <leaf ID="ID1631509" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1230015" checksum="4281914374a7bfb5dba70ef70725d9b2" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p5-contr-drug-prod/32p56-justif-spec/justification-of-specifications-rr06019a.pdf">
+              <title>RR06019 - Research Report</title>
+            </leaf>
+            <leaf ID="ID1631511" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1230014" checksum="ef2286b2440fb44a6dfe2c7f67745e1e" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p5-contr-drug-prod/32p56-justif-spec/justification-of-specifications-gtr5430602.pdf">
+              <title>GTR-543-06-02 - Validation Report</title>
+            </leaf>
+          </m3-2-p-5-6-justification-of-specifications>
+        </m3-2-p-5-control-of-drug-product>
+        <m3-2-p-7-container-closure-system>
+          <leaf ID="ID1639242" application-version="" version="" operation="replace" modified-file="../0000/index.xml#ID1223990" checksum="22885e70612b949338de2f6bbd878211" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p7-cont-closure-sys/container-closure-system.pdf">
+            <title>Container Closure System</title>
+          </leaf>
+        </m3-2-p-7-container-closure-system>
+        <m3-2-p-8-stability>
+          <m3-2-p-8-1-stability-summary-and-conclusion>
+            <leaf ID="ID1639244" application-version="" version="" operation="replace" modified-file="../0000/index.xml#ID1223992" checksum="d46fb301f0051145198c7f1dab05727c" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p8-stab/stability-summary.pdf">
+              <title>Stability Summary and Conclusion</title>
+            </leaf>
+          </m3-2-p-8-1-stability-summary-and-conclusion>
+          <m3-2-p-8-3-stability-data>
+            <leaf ID="ID1639246" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223996" checksum="2dfb9749f3b9c5189b0e373753222785" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p8-stab/stability-data.pdf">
+              <title>Stability Data</title>
+            </leaf>
+          </m3-2-p-8-3-stability-data>
+        </m3-2-p-8-stability>
+      </m3-2-p-drug-product>
+      <m3-2-a-appendices>
+        <m3-2-a-2-adventitious-agents-safety-evaluation manufacturer="Genzyme Biosurgery ApS" substance="Autologous Cultured Chondrocytes" dosageform="implant 500 000 to 1 000 000 cells/cm2" product-name="MACI">
+          <leaf ID="ID1639248" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1227242" checksum="d06e3d3d979577d6bee8f509865221b1" checksum-type="MD5" xlink:href="m3/32-body-data/32a-app/32a2-advent-agent/adventitious-agents.pdf">
+            <title>Adventitious Agents Safety Evaluation</title>
+          </leaf>
+        </m3-2-a-2-adventitious-agents-safety-evaluation>
+      </m3-2-a-appendices>
+    </m3-2-body-of-data>
+    <m3-3-literature-references>
+      <leaf ID="ID1643071" application-version="PDF 1.4" version="" operation="new" checksum="99addfe277327cc3f8ead77f524945bd" checksum-type="MD5" xlink:href="m3/33-lit-ref/lit-refs.pdf">
+        <title>Literature References</title>
+      </leaf>
+      <leaf ID="ID1643072" application-version="PDF 1.4" version="" operation="new" checksum="4b11e008c06903a29a77a98bb8482712" checksum-type="MD5" xlink:href="m3/33-lit-ref/archer-1994.pdf">
+        <title>Archer 1994 J Anat</title>
+      </leaf>
+      <leaf ID="ID1643073" application-version="PDF 1.4" version="" operation="new" checksum="cd9dcf8971b4b4ba11e645b0c63a112f" checksum-type="MD5" xlink:href="m3/33-lit-ref/archer-2008.pdf">
+        <title>Archer 2008 Osteoarthritis Cartilage</title>
+      </leaf>
+      <leaf ID="ID1643074" application-version="PDF 1.4" version="" operation="new" checksum="bc867354457901c9279730ea14a0bd7b" checksum-type="MD5" xlink:href="m3/33-lit-ref/baron-2006.pdf">
+        <title>Baron 2006 Epigenetics</title>
+      </leaf>
+      <leaf ID="ID1643075" application-version="PDF 1.4" version="" operation="new" checksum="430dc2c052785b97324cbdeac9ae3844" checksum-type="MD5" xlink:href="m3/33-lit-ref/dowthwaite-2004.pdf">
+        <title>Dowthwaite 2004 J Cell Sci</title>
+      </leaf>
+      <leaf ID="ID1643076" application-version="PDF 1.4" version="" operation="new" checksum="b7dd741721542fba716e75591637f305" checksum-type="MD5" xlink:href="m3/33-lit-ref/fda-1993.pdf">
+        <title>FDA 1993</title>
+      </leaf>
+      <leaf ID="ID1643077" application-version="PDF 1.4" version="" operation="new" checksum="72c8002fadcc770839c9542eae30919d" checksum-type="MD5" xlink:href="m3/33-lit-ref/good-1966.pdf">
+        <title>Good 1966 Biochemistry</title>
+      </leaf>
+      <leaf ID="ID1643078" application-version="PDF 1.4" version="" operation="new" checksum="f864208118018015cd844784095a4621" checksum-type="MD5" xlink:href="m3/33-lit-ref/gorti-2003.pdf">
+        <title>Gorti 2003 Arch Otolaryngol Head Neck Surg</title>
+      </leaf>
+      <leaf ID="ID1643079" application-version="PDF 1.4" version="" operation="new" checksum="dd61711b916c28cf89f8c3de85ef3c77" checksum-type="MD5" xlink:href="m3/33-lit-ref/grant-2000.pdf">
+        <title>Grant 2000 Vox Sang</title>
+      </leaf>
+      <leaf ID="ID1643080" application-version="PDF 1.4" version="" operation="new" checksum="d2c643174a7b5d93d477f6abc2ba70e5" checksum-type="MD5" xlink:href="m3/33-lit-ref/hunziker-2006.pdf">
+        <title>Hunziker 2006 Osteoarthritis Cartilage</title>
+      </leaf>
+      <leaf ID="ID1643081" application-version="PDF 1.4" version="" operation="new" checksum="36e1d3e9f734b18d83bede658c1f5a2f" checksum-type="MD5" xlink:href="m3/33-lit-ref/kirilak-2006.pdf">
+        <title>Kirilak 2006 Int J Mol Med</title>
+      </leaf>
+      <leaf ID="ID1643082" application-version="PDF 1.4" version="" operation="new" checksum="6f6c8dc429111a3fb77825d79027f12e" checksum-type="MD5" xlink:href="m3/33-lit-ref/martin-2003.pdf">
+        <title>Martin 2003 Arthritis &amp; Rheumatism</title>
+      </leaf>
+      <leaf ID="ID1643083" application-version="PDF 1.4" version="" operation="new" checksum="ab392f0aa03698df639fc6a808c42b99" checksum-type="MD5" xlink:href="m3/33-lit-ref/melero-martin-2005.pdf">
+        <title>Melero Martin 2005 Biotechnol Prog</title>
+      </leaf>
+      <leaf ID="ID1643084" application-version="PDF 1.4" version="" operation="new" checksum="955ce84e1b4060653c469148d61b7b2e" checksum-type="MD5" xlink:href="m3/33-lit-ref/moriya-2009.pdf">
+        <title>Moriya et al 2009 International Cartiliage Repair Society</title>
+      </leaf>
+      <leaf ID="ID1643085" application-version="" version="" operation="new" checksum="827655cad1ed0353cfb22b623750f694" checksum-type="MD5" xlink:href="m3/33-lit-ref/rapko-2007.pdf">
+        <title>Rapko 2007 Tissue Eng</title>
+      </leaf>
+      <leaf ID="ID1643086" application-version="PDF 1.4" version="" operation="new" checksum="8f1f5ffd97633ec2edcf3d16f434c8bd" checksum-type="MD5" xlink:href="m3/33-lit-ref/rapko-2007a.pdf">
+        <title>Rapko et al 2007a DNA Methylation Study of Chondrocytes and Synovial Fibroblast Cultures</title>
+      </leaf>
+      <leaf ID="ID1643087" application-version="PDF 1.4" version="" operation="new" checksum="9517ca7ebdb407076119d0ccc9044c6a" checksum-type="MD5" xlink:href="m3/33-lit-ref/rapko-2008.pdf">
+        <title>Rapko 2008 DNA Methylation Study of Chondrocytes and Synovial Fibroblast Cultures</title>
+      </leaf>
+      <leaf ID="ID1643088" application-version="PDF 1.4" version="" operation="new" checksum="0dc370a8257a11b972da65f897d440d5" checksum-type="MD5" xlink:href="m3/33-lit-ref/rapko-2010.pdf">
+        <title>Rapko 2010 Tissue Eng</title>
+      </leaf>
+      <leaf ID="ID1643089" application-version="PDF 1.4" version="" operation="new" checksum="a9d2f5012cd33d524ce9c558c1e9d0fa" checksum-type="MD5" xlink:href="m3/33-lit-ref/rendal-vazquez-2001.pdf">
+        <title>Rendal-Vázquez 2001 Cryobiology</title>
+      </leaf>
+      <leaf ID="ID1643090" application-version="PDF 1.4" version="" operation="new" checksum="808e92508d3a55b4856466db7b32ea43" checksum-type="MD5" xlink:href="m3/33-lit-ref/rieppo-2003.pdf">
+        <title>Rieppo 2003 Orthopaed Res Soc</title>
+      </leaf>
+      <leaf ID="ID1643091" application-version="PDF 1.4" version="" operation="new" checksum="c1801f6fe20da59570b2e1c6e556b2fc" checksum-type="MD5" xlink:href="m3/33-lit-ref/seddighi-2007.pdf">
+        <title>Seddighi 2007 The Veterinary Journal</title>
+      </leaf>
+      <leaf ID="ID1643092" application-version="PDF 1.4" version="" operation="new" checksum="75a5b0cb6917b8685fc06b2ca11580f4" checksum-type="MD5" xlink:href="m3/33-lit-ref/stewart-2008.pdf">
+        <title>Stewart et al 2008 Comparison of Stromal Cells Derived from Bone Marrow and Dermis</title>
+      </leaf>
+      <leaf ID="ID1643093" application-version="PDF 1.4" version="" operation="new" checksum="d6ee23a11909b5ea01d8963d225338c6" checksum-type="MD5" xlink:href="m3/33-lit-ref/tanzil-2008.pdf">
+        <title>Schulze-Tanzil 2008 Histochem Cell Biol</title>
+      </leaf>
+      <leaf ID="ID1643094" application-version="PDF 1.4" version="" operation="new" checksum="8e8563e374ccd9bf760572dca94d741e" checksum-type="MD5" xlink:href="m3/33-lit-ref/teng-2008.pdf">
+        <title>Teng 2008 Clin Orthop Relat Res</title>
+      </leaf>
+      <leaf ID="ID1643095" application-version="" version="" operation="new" checksum="f91742ada61d681a759fbd3cc0dc697c" checksum-type="MD5" xlink:href="m3/33-lit-ref/vich-gl34.pdf">
+        <title>VICH GL34</title>
+      </leaf>
+    </m3-3-literature-references>
+  </m3-quality>
+  <m4-nonclinical-study-reports>
+    <m4-2-study-reports>
+      <m4-2-1-pharmacology>
+        <m4-2-1-1-primary-pharmacodynamics>
+          <leaf ID="ID1633462" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1222893" checksum="d30a4162f7771b6930cea70dff4b26db" checksum-type="MD5" xlink:href="m4/42-stud-rep/421-pharmacol/4211-prim-pd/09-4417.pdf">
+            <title>Study 09-4417 - Study Report</title>
+          </leaf>
+          <leaf ID="ID1633464" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1222897" checksum="a20a7447b3cc2e0b8762333e7433526c" checksum-type="MD5" xlink:href="m4/42-stud-rep/421-pharmacol/4211-prim-pd/06-0239.pdf">
+            <title>Study 06-0239 - Study Report</title>
+          </leaf>
+        </m4-2-1-1-primary-pharmacodynamics>
+      </m4-2-1-pharmacology>
+    </m4-2-study-reports>
+    <m4-3-literature-references>
+      <leaf ID="ID1518191" application-version="PDF 1.4" version="" operation="new" checksum="fc84b98dad3fc0a882ec240b4b295622" checksum-type="MD5" xlink:href="m4/43-lit-ref/chu-2010.pdf">
+        <title>Chu 2010 Tissue Engineering</title>
+      </leaf>
+      <leaf ID="ID1518193" application-version="PDF 1.4" version="" operation="new" checksum="c6e7bd9fb32c576eb5106b57c2cb87c5" checksum-type="MD5" xlink:href="m4/43-lit-ref/laverty-2006.pdf">
+        <title>Laverty 2006 European Cells and Materials</title>
+      </leaf>
+    </m4-3-literature-references>
+  </m4-nonclinical-study-reports>
+  <m5-clinical-study-reports>
+    <m5-2-tabular-listing-of-all-clinical-studies>
+      <leaf ID="ID1639255" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1228030" checksum="8298b16a02ba36376857971173723b7f" checksum-type="MD5" xlink:href="m5/52-tab-list/tabular-listing.pdf">
+        <title>Tabular Listing of All Clinical Studies</title>
+      </leaf>
+    </m5-2-tabular-listing-of-all-clinical-studies>
+    <m5-3-clinical-study-reports>
+      <m5-3-5-reports-of-efficacy-and-safety-studies indication="For the Repair of Symptomatic Cartilage Defects of the Knee (Modified Outerbridge Grade III or IV) in Skeletally Mature Patients">
+        <m5-3-5-1-study-reports-of-controlled-clinical-studies-pertinent-to-the-claimed-indication>
+          <leaf ID="ID1639517" application-version="PDF 1.4" version="" operation="new" checksum="35cb26eaee4a986aa30c5928be1748d6" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-synopsis.pdf">
+            <title>Study MACI00206 - Synopsis</title>
+          </leaf>
+          <leaf ID="ID1639515" application-version="PDF 1.4" version="" operation="new" checksum="649e200ad637c1bfb0a45f6416a008d6" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-body-final.pdf">
+            <title>Study MACI00206 - Study Report Body</title>
+          </leaf>
+          <leaf ID="ID1639471" application-version="PDF 1.4" version="" operation="new" checksum="0303eb0b55c2f5a5180f2afa0df5a664" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-1-1.pdf">
+            <title>Study MACI00206 - Protocol</title>
+          </leaf>
+          <leaf ID="ID1639473" application-version="PDF 1.4" version="" operation="new" checksum="15063a59c014bed759f8ac9652b4f78d" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-1-2.pdf">
+            <title>Study MACI00206 - Sample Case Report Form</title>
+          </leaf>
+          <leaf ID="ID1639475" application-version="PDF 1.4" version="" operation="new" checksum="a4757dcc84ebf1d21c5208b90d0d149e" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-1-3.pdf">
+            <title>Study MACI00206 - IEC and IRB and Consent Form Listings</title>
+          </leaf>
+          <leaf ID="ID1639477" application-version="PDF 1.4" version="" operation="new" checksum="7c16bff1f31f9f34ee838579a219bb77" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-1-4.pdf">
+            <title>Study MACI00206 - Description of Investigators and Sites</title>
+          </leaf>
+          <leaf ID="ID1639479" application-version="PDF 1.4" version="" operation="new" checksum="cf972a8fa847ca1906d91b07fa8dbf35" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-1-5.pdf">
+            <title>Study MACI00206 - Signatures of Principal or Coordinating Investigator(s) or Sponsor’s Responsible Officer</title>
+          </leaf>
+          <leaf ID="ID1639481" application-version="PDF 1.4" version="" operation="new" checksum="4d637ae5dd4189c195f735c1ae2bdfd2" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-1-6.pdf">
+            <title>Study MACI00206 - Listing Of Patients Receiving Test Drug(s) From Specified Batch</title>
+          </leaf>
+          <leaf ID="ID1639483" application-version="PDF 1.4" version="" operation="new" checksum="a2a088d46e8b5c723bfa2c70709da4c6" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-1-7.pdf">
+            <title>Study MACI00206 - Randomisation Scheme</title>
+          </leaf>
+          <leaf ID="ID1639485" application-version="PDF 1.4" version="" operation="new" checksum="710c3d1f02a75f6592a3efda24aa0005" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-1-8.pdf">
+            <title>Study MACI00206 - Audit Certificates</title>
+          </leaf>
+          <leaf ID="ID1639487" application-version="PDF 1.4" version="" operation="new" checksum="5fb15e968dabdbf424d88d0884065321" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-1-9.pdf">
+            <title>Study MACI00206 - Documentation of Statistical Methods and Interim Analysis Plans</title>
+          </leaf>
+          <leaf ID="ID1639489" application-version="PDF 1.4" version="" operation="new" checksum="51822ceb8706f6d624f4a4634e73cb90" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-1-10.pdf">
+            <title>Study MACI00206 - Documentation of Inter Laboratory Standardization Methods and Quality Assurance or Similar Documentation</title>
+          </leaf>
+          <leaf ID="ID1639491" application-version="PDF 1.4" version="" operation="new" checksum="64ed4cbe496c153c10a185ab9891cc0f" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-1-11.pdf">
+            <title>Study MACI00206 - Publications Based on the Study</title>
+          </leaf>
+          <leaf ID="ID1639493" application-version="PDF 1.4" version="" operation="new" checksum="412c144697caa519e096b02e24b56205" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-1-12.pdf">
+            <title>Study MACI00206 - Important Publications Referenced in the Study Report</title>
+          </leaf>
+          <leaf ID="ID1639495" application-version="PDF 1.4" version="" operation="new" checksum="5f7a5c3582a3e244332d84972970679b" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-2-1.pdf">
+            <title>Study MACI00206 - Discontinued Patients Listing</title>
+          </leaf>
+          <leaf ID="ID1639497" application-version="PDF 1.4" version="" operation="new" checksum="30c16b415d99ae8e1e283a7ce390645e" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-2-2.pdf">
+            <title>Study MACI00206 - Protocol Deviations Listing</title>
+          </leaf>
+          <leaf ID="ID1639499" application-version="PDF 1.4" version="" operation="new" checksum="4bca87bd2f98ce43aa57d6cea2e7c27d" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-2-3.pdf">
+            <title>Study MACI00206 - Patients Excluded From The Efficacy Analysis Listing</title>
+          </leaf>
+          <leaf ID="ID1639501" application-version="PDF 1.4" version="" operation="new" checksum="f1a4964e9a603e48016daa0a2adf92a9" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-2-4.pdf">
+            <title>Study MACI00206 - Demographic Data Listing</title>
+          </leaf>
+          <leaf ID="ID1639503" application-version="PDF 1.4" version="" operation="new" checksum="48b705a35662254dba27d55a318e7023" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-2-5.pdf">
+            <title>Study MACI00206 - Compliance And/Or Drug Concentration Data Listing</title>
+          </leaf>
+          <leaf ID="ID1639505" application-version="PDF 1.4" version="" operation="new" checksum="57dc3e56b106b58b2216a39b0f4a04f3" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-2-6.pdf">
+            <title>Study MACI00206 - Individual Efficacy Response Data Listing</title>
+          </leaf>
+          <leaf ID="ID1639507" application-version="PDF 1.4" version="" operation="new" checksum="60aed496a9c7626293b4042423898e42" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-2-7.pdf">
+            <title>Study MACI00206 - Adverse Event Listings</title>
+          </leaf>
+          <leaf ID="ID1639509" application-version="PDF 1.4" version="" operation="new" checksum="1fe3cd8f85ba0dfcf274b2b43da2c783" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-2-8.pdf">
+            <title>Study MACI00206 - Listing Of Individual Laboratory Measurements By Patient</title>
+          </leaf>
+          <leaf ID="ID1639511" application-version="PDF 1.4" version="" operation="new" checksum="7013952e9515eeca1c80b1e8a2a1ba4c" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-3-1.pdf">
+            <title>Study MACI00206 - CRFs for Deaths, Other Serious Adverse Events, and Withdrawals for AE</title>
+          </leaf>
+          <leaf ID="ID1639513" application-version="PDF 1.4" version="" operation="new" checksum="f0befbfad5e932b8cc3eff16a8693859" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5351-stud-rep-contr/maci100206/maci00206-16-3-2.pdf">
+            <title>Study MACI00206 - Other CRFs Submitted</title>
+          </leaf>
+        </m5-3-5-1-study-reports-of-controlled-clinical-studies-pertinent-to-the-claimed-indication>
+        <m5-3-5-2-study-reports-of-uncontrolled-clinical-studies>
+          <leaf ID="ID1643244" application-version="PDF 1.4" version="" operation="new" checksum="8ca2165790326544f9445af3d6ed09d0" checksum-type="MD5" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/knee/5352-stud-rep-uncontr/studycode-no-stf/marlovits-2012.pdf">
+            <title>Marlovits 2012 Am J Sports Med</title>
+          </leaf>
+        </m5-3-5-2-study-reports-of-uncontrolled-clinical-studies>
+      </m5-3-5-reports-of-efficacy-and-safety-studies>
+    </m5-3-clinical-study-reports>
+    <m5-4-literature-references>
+      <leaf ID="ID1642309" application-version="PDF 1.4" version="" operation="new" checksum="7ed7a021d91368ddb3ef845b501df734" checksum-type="MD5" xlink:href="m5/54-lit-ref/ahmed-2010.pdf">
+        <title>Ahmed 2010 Tissue Eng</title>
+      </leaf>
+      <leaf ID="ID1642310" application-version="PDF 1.4" version="" operation="new" checksum="a50d609d0c6b80ae88c48d92bbdbdd12" checksum-type="MD5" xlink:href="m5/54-lit-ref/aurich-2012.pdf">
+        <title>Aurich 2012 Knee</title>
+      </leaf>
+      <leaf ID="ID1642311" application-version="PDF 1.4" version="" operation="new" checksum="c27eee06d5b6e5f91c52a3527e8de179" checksum-type="MD5" xlink:href="m5/54-lit-ref/barbero-2004.pdf">
+        <title>Barbero 2004 Osteoarthritis Cartilage</title>
+      </leaf>
+      <leaf ID="ID1642312" application-version="PDF 1.4" version="" operation="new" checksum="8d109ded7f008c3cd937cf462e56a7b5" checksum-type="MD5" xlink:href="m5/54-lit-ref/bedi-2010.pdf">
+        <title>Bedi 2010 J Bone Joint Surg Am</title>
+      </leaf>
+      <leaf ID="ID1642313" application-version="PDF 1.4" version="" operation="new" checksum="d8e03a5ec71d5764d80abc8695924539" checksum-type="MD5" xlink:href="m5/54-lit-ref/behrens-2006.pdf">
+        <title>Behrens 2006 Knee</title>
+      </leaf>
+      <leaf ID="ID1642314" application-version="PDF 1.4" version="" operation="new" checksum="e0d5fae064a7d92b1b3b74a78ecb20d4" checksum-type="MD5" xlink:href="m5/54-lit-ref/bekkers-2009.pdf">
+        <title>Bekkers 2009 Osteo Arthr Cartil</title>
+      </leaf>
+      <leaf ID="ID1642315" application-version="PDF 1.4" version="" operation="new" checksum="3d371c78cfcf5c5f8067c9deeabccb69" checksum-type="MD5" xlink:href="m5/54-lit-ref/bubenik-2001.pdf">
+        <title>Bubenik 2001</title>
+      </leaf>
+      <leaf ID="ID1642316" application-version="PDF 1.4" version="" operation="new" checksum="1feb4c1b32d2a68a08390938b7f4fd96" checksum-type="MD5" xlink:href="m5/54-lit-ref/buckwalter-1997.pdf">
+        <title>Buckwalter 1997</title>
+      </leaf>
+      <leaf ID="ID1642317" application-version="PDF 1.4" version="" operation="new" checksum="53d0fde63139e38331a2f295a28b1614" checksum-type="MD5" xlink:href="m5/54-lit-ref/cainl-2001.pdf">
+        <title>Cain 2001 Clin Sports Med</title>
+      </leaf>
+      <leaf ID="ID1642318" application-version="PDF 1.4" version="" operation="new" checksum="f506770bc0a3e2801e47adf0366ca80a" checksum-type="MD5" xlink:href="m5/54-lit-ref/cdc-2010.pdf">
+        <title>CDC 2010 MMWR</title>
+      </leaf>
+      <leaf ID="ID1642319" application-version="PDF 1.4" version="" operation="new" checksum="82b448f9058be796512bb22e2522c696" checksum-type="MD5" xlink:href="m5/54-lit-ref/cole-2012.pdf">
+        <title>Cole 2012  Manuscript Submitted For Publication</title>
+      </leaf>
+      <leaf ID="ID1642321" application-version="PDF 1.4" version="" operation="new" checksum="b2d5b92dd353b18cd64b2a3ce02d13f6" checksum-type="MD5" xlink:href="m5/54-lit-ref/emu-2009.pdf">
+        <title>EMU 2009 Cat</title>
+      </leaf>
+      <leaf ID="ID1642322" application-version="PDF 1.4" version="" operation="new" checksum="23864ab7aaaf155f5020fa41deb3cde3" checksum-type="MD5" xlink:href="m5/54-lit-ref/farr-2011.pdf">
+        <title>Farr 2011 Clin Orthop Relat Res</title>
+      </leaf>
+      <leaf ID="ID1642323" application-version="PDF 1.4" version="" operation="new" checksum="08f3237fa875fdecd9b292fb79992714" checksum-type="MD5" xlink:href="m5/54-lit-ref/fda-2011.pdf">
+        <title>FDA 2011 Guidance</title>
+      </leaf>
+      <leaf ID="ID1642324" application-version="PDF 1.4" version="" operation="new" checksum="11a628eea0f7d5c44d68a472b903e900" checksum-type="MD5" xlink:href="m5/54-lit-ref/felson-1987.pdf">
+        <title>Felson 1987 Arthritis Rheum</title>
+      </leaf>
+      <leaf ID="ID1642325" application-version="PDF 1.4" version="" operation="new" checksum="aa1470e202f012fd572b87b27a1f3aa0" checksum-type="MD5" xlink:href="m5/54-lit-ref/genovese-2010.pdf">
+        <title>Genovese 2010 Skeletal Radiol</title>
+      </leaf>
+      <leaf ID="ID1642326" application-version="PDF 1.4" version="" operation="new" checksum="aa84de66c6cd04986d2a30587596be9e" checksum-type="MD5" xlink:href="m5/54-lit-ref/giuliani-2009.pdf">
+        <title>Giuliani 2009 Ameracad Ortho Surg</title>
+      </leaf>
+      <leaf ID="ID1642327" application-version="PDF 1.4" version="" operation="new" checksum="a5eb6130ead85c7aa6025b21237ed2e9" checksum-type="MD5" xlink:href="m5/54-lit-ref/gooding-2006.pdf">
+        <title>Gooding 2006 Knee</title>
+      </leaf>
+      <leaf ID="ID1642328" application-version="PDF 1.4" version="" operation="new" checksum="049baf08c5097a8c740353bd29c1a654" checksum-type="MD5" xlink:href="m5/54-lit-ref/harris-2011.pdf">
+        <title>Harris 2011 Osteoarthritis Cartilage</title>
+      </leaf>
+      <leaf ID="ID1642329" application-version="PDF 1.4" version="" operation="new" checksum="f475b8f75fe7c10534455925843fbbc2" checksum-type="MD5" xlink:href="m5/54-lit-ref/hollander-2006.pdf">
+        <title>Hollander 2006 Tissue Eng</title>
+      </leaf>
+      <leaf ID="ID1642330" application-version="PDF 1.4" version="" operation="new" checksum="cb098efcbab733ac6e704581c8f063e7" checksum-type="MD5" xlink:href="m5/54-lit-ref/jansen-2007.pdf">
+        <title>Jansen 2007 Arthritis &amp; Rheumatism</title>
+      </leaf>
+      <leaf ID="ID1642331" application-version="PDF 1.4" version="" operation="new" checksum="f4b3798989ecdeb8f59d9077d92f629b" checksum-type="MD5" xlink:href="m5/54-lit-ref/katta-2008.pdf">
+        <title>Katta 2008 Med Eng Phys</title>
+      </leaf>
+      <leaf ID="ID1642332" application-version="PDF 1.4" version="" operation="new" checksum="61f0d95a559013bdd0e80bf8f5dc0141" checksum-type="MD5" xlink:href="m5/54-lit-ref/knutsen-2004.pdf">
+        <title>Knutsen 2004 J Bone Joint Surg Am</title>
+      </leaf>
+      <leaf ID="ID1642333" application-version="PDF 1.4" version="" operation="new" checksum="0801367daa59310c88e5a81c71ff2efc" checksum-type="MD5" xlink:href="m5/54-lit-ref/knutsen-2007.pdf">
+        <title>Knutsen 2007 J Bone Joint Surg Am</title>
+      </leaf>
+      <leaf ID="ID1642334" application-version="PDF 1.4" version="" operation="new" checksum="f7c8c604fcd29461d3a5f7e03eebc342" checksum-type="MD5" xlink:href="m5/54-lit-ref/lima-2006.pdf">
+        <title>Lima 2006</title>
+      </leaf>
+      <leaf ID="ID1642335" application-version="PDF 1.4" version="" operation="new" checksum="f750250db5ae7b510be67448f684cc5f" checksum-type="MD5" xlink:href="m5/54-lit-ref/loken-2010.pdf">
+        <title>Loken 2010 Natur Hist Surg Rep</title>
+      </leaf>
+      <leaf ID="ID1642336" application-version="PDF 1.4" version="" operation="new" checksum="1432fafae27a96aa3ea3c4d49baadc00" checksum-type="MD5" xlink:href="m5/54-lit-ref/luyten-2011.pdf">
+        <title>Luyten 2011 Bone</title>
+      </leaf>
+      <leaf ID="ID1642337" application-version="PDF 1.4" version="" operation="new" checksum="8e67956ba4e8abc5d40e81d2aa483d9a" checksum-type="MD5" xlink:href="m5/54-lit-ref/macmull-2012.pdf">
+        <title>Macmull 2012 Int Orthop</title>
+      </leaf>
+      <leaf ID="ID1642338" application-version="PDF 1.4" version="" operation="new" checksum="dd6e1346416f6ea113b65b1d55c9f229" checksum-type="MD5" xlink:href="m5/54-lit-ref/mainilvarlet-2010.pdf">
+        <title>Mainilvarlet 2010 Am J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1642339" application-version="PDF 1.4" version="" operation="new" checksum="741156e9619481cc95bd06179ce966be" checksum-type="MD5" xlink:href="m5/54-lit-ref/marlovits-2005.pdf">
+        <title>Marlovits 2005 Knee Surg Sports Traumatol Arthrosc</title>
+      </leaf>
+      <leaf ID="ID1642341" application-version="PDF 1.4" version="" operation="new" checksum="bf627a065d480e9ca71238bc2a57c7a7" checksum-type="MD5" xlink:href="m5/54-lit-ref/mika-2011.pdf">
+        <title>Mika 2011 Am J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1642342" application-version="PDF 1.4" version="" operation="new" checksum="66f129ef8d02c5977df4e68f4614529f" checksum-type="MD5" xlink:href="m5/54-lit-ref/mithoefer-2009.pdf">
+        <title>Mithoefer 2009 Am J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1642343" application-version="PDF 1.4" version="" operation="new" checksum="7dfc8ae218ce774c91e66523774ffde4" checksum-type="MD5" xlink:href="m5/54-lit-ref/mithoefer-2011.pdf">
+        <title>Mithoefer 2011 Cartilage</title>
+      </leaf>
+      <leaf ID="ID1642344" application-version="PDF 1.4" version="" operation="new" checksum="00c75bb10d021ab0360adb5cb8cc4e0a" checksum-type="MD5" xlink:href="m5/54-lit-ref/morita-2006.pdf">
+        <title>Morita 2006 J Biomech</title>
+      </leaf>
+      <leaf ID="ID1642345" application-version="PDF 1.4" version="" operation="new" checksum="ad9f5723d34c0f109a84ff6e3c4e2954" checksum-type="MD5" xlink:href="m5/54-lit-ref/pascualgarrido-2010.pdf">
+        <title>Pascual-Garrido 2010 Int Orthop</title>
+      </leaf>
+      <leaf ID="ID1642346" application-version="PDF 1.4" version="" operation="new" checksum="5182132c0d652af22f0ed47b208dd7e1" checksum-type="MD5" xlink:href="m5/54-lit-ref/pestka-2011.pdf">
+        <title>Pestka 2011 Arch Orthop Trauma Surg</title>
+      </leaf>
+      <leaf ID="ID1642347" application-version="PDF 1.4" version="" operation="new" checksum="0378e82f1548202593ab133ec4dd8051" checksum-type="MD5" xlink:href="m5/54-lit-ref/peterson-2005.pdf">
+        <title>Peterson 2005 Am J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1642348" application-version="PDF 1.4" version="" operation="new" checksum="613f13f4103940ec3e061f3eb4aa9cda" checksum-type="MD5" xlink:href="m5/54-lit-ref/petrie-1977.pdf">
+        <title>Petrie 1977 J Bone Joint Surg Am</title>
+      </leaf>
+      <leaf ID="ID1642349" application-version="PDF 1.4" version="" operation="new" checksum="d392795431d220e92e82244fa6f53ef9" checksum-type="MD5" xlink:href="m5/54-lit-ref/pietschmann-2011.pdf">
+        <title>Pietschmann 2011 Am J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1642350" application-version="PDF 1.4" version="" operation="new" checksum="7d266b4cbe40b9c0c094d11f888fddcf" checksum-type="MD5" xlink:href="m5/54-lit-ref/piper-2011.pdf">
+        <title>Piper 2011 Am J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1642351" application-version="PDF 1.4" version="" operation="new" checksum="b43c947b085cb1d995548ac1a027ac21" checksum-type="MD5" xlink:href="m5/54-lit-ref/plainfosse-2007.pdf">
+        <title>Plainfosse 2007</title>
+      </leaf>
+      <leaf ID="ID1642352" application-version="PDF 1.4" version="" operation="new" checksum="e6ef58f380fed6de556d5576c4f3befa" checksum-type="MD5" xlink:href="m5/54-lit-ref/ronga-2005.pdf">
+        <title>Ronga 2005 J Foot Ankle Surg</title>
+      </leaf>
+      <leaf ID="ID1642353" application-version="PDF 1.4" version="" operation="new" checksum="1f653a0e074fccd4310baf0e26331828" checksum-type="MD5" xlink:href="m5/54-lit-ref/roos-2003.pdf">
+        <title>Roos 2003 Health Qual Life Outcomes</title>
+      </leaf>
+      <leaf ID="ID1642354" application-version="PDF 1.4" version="" operation="new" checksum="b0e396c8091711619d6d905e8a02ae34" checksum-type="MD5" xlink:href="m5/54-lit-ref/saris-2008.pdf">
+        <title>Saris 2008 Am J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1642355" application-version="PDF 1.4" version="" operation="new" checksum="461df76978e4e06864907a9b9299b9a0" checksum-type="MD5" xlink:href="m5/54-lit-ref/saris-2009.pdf">
+        <title>Saris 2009 Am J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1642356" application-version="PDF 1.4" version="" operation="new" checksum="6ee99ae14357bc7835fa0d4187a3e0b3" checksum-type="MD5" xlink:href="m5/54-lit-ref/schindler-2011.pdf">
+        <title>Schindler 2011 Acta Orthop Belg</title>
+      </leaf>
+      <leaf ID="ID1642357" application-version="PDF 1.4" version="" operation="new" checksum="1386b1710f6b986b6fbf85e3ac90f567" checksum-type="MD5" xlink:href="m5/54-lit-ref/sosio-2011.pdf">
+        <title>Sosio 2011 Knee Surg Sports Traumatol Arthrosc</title>
+      </leaf>
+      <leaf ID="ID1642358" application-version="PDF 1.4" version="" operation="new" checksum="e49ba4e2616e452bb83d59dad950a19a" checksum-type="MD5" xlink:href="m5/54-lit-ref/stattin-2010.pdf">
+        <title>Stattin 2010 Am J Hum Genet</title>
+      </leaf>
+      <leaf ID="ID1642359" application-version="PDF 1.4" version="" operation="new" checksum="614dbcbd158182f5d1696c4cbfc3d015" checksum-type="MD5" xlink:href="m5/54-lit-ref/steadman-2010.pdf">
+        <title>Steadman 2010 Cartilage</title>
+      </leaf>
+      <leaf ID="ID1642360" application-version="PDF 1.4" version="" operation="new" checksum="c651e995765804e614b28daf8f274222" checksum-type="MD5" xlink:href="m5/54-lit-ref/suh-1997.pdf">
+        <title>Suh 1997 Oper Tech Orthop</title>
+      </leaf>
+      <leaf ID="ID1642361" application-version="PDF 1.4" version="" operation="new" checksum="348d5f3bb418b421e0e189a40c19839d" checksum-type="MD5" xlink:href="m5/54-lit-ref/takeda-2011.pdf">
+        <title>Takeda 2011 Br J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1642364" application-version="PDF 1.4" version="" operation="new" checksum="c9ee6245e5672cad09e03f8cd54ae3fa" checksum-type="MD5" xlink:href="m5/54-lit-ref/trattnig-2011.pdf">
+        <title>Trattnig 2011 Cartilage</title>
+      </leaf>
+      <leaf ID="ID1642365" application-version="PDF 1.4" version="" operation="new" checksum="b231cd86293d06f0721fe37e96d36f50" checksum-type="MD5" xlink:href="m5/54-lit-ref/vavken-2010.pdf">
+        <title>Vavken 2010 Osteoarthr Cartil</title>
+      </leaf>
+      <leaf ID="ID1642366" application-version="PDF 1.4" version="" operation="new" checksum="0f9cf5161b60ecff5be4a78a1ca59a76" checksum-type="MD5" xlink:href="m5/54-lit-ref/ventura-2011.pdf">
+        <title>Ventura 2011 Knee Surg Sports Traumatol Arthrosc</title>
+      </leaf>
+      <leaf ID="ID1642368" application-version="PDF 1.4" version="" operation="new" checksum="a6dc6b5b29fa0f5f02b062db4c27722c" checksum-type="MD5" xlink:href="m5/54-lit-ref/wood-2006.pdf">
+        <title>Wood 2006</title>
+      </leaf>
+      <leaf ID="ID1642369" application-version="PDF 1.4" version="" operation="new" checksum="e82abfdd42e95304620350c08123f873" checksum-type="MD5" xlink:href="m5/54-lit-ref/zaslav-2009.pdf">
+        <title>Zaslav 2009 Am J Sports Med</title>
+      </leaf>
+      <leaf ID="ID1642370" application-version="PDF 1.4" version="" operation="new" checksum="42525c49cab06871063b5ca028cf0365" checksum-type="MD5" xlink:href="m5/54-lit-ref/zheng-2007.pdf">
+        <title>Zheng 2007 Tissue Eng</title>
+      </leaf>
+    </m5-4-literature-references>
+  </m5-clinical-study-reports>
+</ectd:ectd>
+

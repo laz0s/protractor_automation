@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../util/style/eu-regional.xsl" type="text/xsl"?>
+<!DOCTYPE eu:eu-backbone SYSTEM "../../util/dtd/eu-regional.dtd">
+
+<eu:eu-backbone xmlns:eu="http://europa.eu.int" xmlns:xlink="http://www.w3c.org/1999/xlink" xml:lang="en" dtd-version="1.4">
+  <eu-envelope>
+    <envelope country="emea">
+      <submission type="supplemental-info">
+        <tracking>
+          <number>EMEA/H/C/002522//0000</number>
+        </tracking>
+      </submission>
+      <applicant>Genzyme Europe BV, a Sanofi company</applicant>
+      <agency code="EU-EMEA" />
+      <procedure type="centralised" />
+      <invented-name>MACI</invented-name>
+      <sequence>0002</sequence>
+      <related-sequence country="emea">0000</related-sequence>
+      <submission-description>Responses to Questions raised during validation</submission-description>
+    </envelope>
+  </eu-envelope>
+  <m1-eu>
+    <m1-0-cover>
+      <specific country="emea">
+        <leaf ID="ID1268803" application-version="PDF 1.4" version="" operation="new" checksum="d8ba32b588e38b2e5846635bd7614a16" checksum-type="MD5" xlink:href="10-cover/emea/emea-cover.pdf">
+          <title>Cover Letter</title>
+        </leaf>
+        <leaf ID="ID1268807" application-version="PDF 1.4" version="" operation="replace" modified-file="../../../0001/m1/eu/eu-regional.xml#ID1241875" checksum="50f89a9cc40d9354ac7f441e94e31387" checksum-type="MD5" xlink:href="10-cover/emea/emea-cover-attachment1.pdf">
+          <title>Cover Letter Attachment 1</title>
+        </leaf>
+        <leaf ID="ID1269182" application-version="PDF 1.4" version="" operation="new" checksum="e4af0c339b24ee69678a7f31ad893941" checksum-type="MD5" xlink:href="10-cover/emea/emea-cover-attachment2.pdf">
+          <title>Cover Letter Attachment 2</title>
+        </leaf>
+      </specific>
+    </m1-0-cover>
+    <m1-2-form>
+      <specific country="emea">
+        <leaf ID="ID1268799" application-version="PDF 1.4" version="" operation="replace" modified-file="../../../0001/m1/eu/eu-regional.xml#ID1242794" checksum="74825998229f1448dfbd36f9c4f38648" checksum-type="MD5" xlink:href="12-form/emea/emea-form.pdf">
+          <title>Application Form</title>
+        </leaf>
+        <leaf ID="ID1268797" application-version="PDF 1.4" version="" operation="replace" modified-file="../../../0000/m1/eu/eu-regional.xml#ID1228186" checksum="d45d4c2e56f37115ec48742cdd60ff3a" checksum-type="MD5" xlink:href="12-form/emea/emea-form-anx522qpdecgenzyme.pdf">
+          <title>Annex 5.22 Declaration from the QP at Genzyme for MACI</title>
+        </leaf>
+      </specific>
+    </m1-2-form>
+    <m1-responses>
+      <specific country="emea">
+        <leaf ID="ID1268801" application-version="PDF 1.4" version="" operation="new" checksum="337f5dd49674c7564368b2b2019ff989" checksum-type="MD5" xlink:href="responses/emea/emea-responses-validation.pdf">
+          <title>Responses to Validation Questions</title>
+        </leaf>
+      </specific>
+    </m1-responses>
+  </m1-eu>
+</eu:eu-backbone>
+

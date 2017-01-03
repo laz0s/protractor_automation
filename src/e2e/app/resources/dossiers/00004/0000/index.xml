@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ectd:ectd SYSTEM "util/dtd/ich-ectd-3-2.dtd">
+<?xml-stylesheet type="text/xsl" href="util/style/ectd-2-0.xsl"?>
+<ectd:ectd xmlns:ectd="http://www.ich.org/ectd" dtd-version="3.2" xmlns:xlink="http://www.w3c.org/1999/xlink">
+
+  <m1-administrative-information-and-prescribing-information>
+    <leaf ID="ID00250529" checksum="206ab93c7205b87b50866a09c6f26360" checksum-type="MD5" operation="new" xlink:href="m1/eu/eu-regional.xml">
+      <title>eu-regional.xml</title>
+    </leaf>
+  </m1-administrative-information-and-prescribing-information>
+
+  <m2-common-technical-document-summaries>
+    <m2-2-introduction>
+      <leaf ID="ID00251937" application-version="PDF 1.7" checksum="8e13388146429078ee7e07158cf8f806" checksum-type="MD5" operation="new" xlink:href="m2/22-intro/introduction.pdf">
+        <title>Medicinal product introduction</title>
+      </leaf>
+    </m2-2-introduction>
+    <m2-3-quality-overall-summary>
+      <m2-3-s-drug-substance manufacturer="Basaluzzo" substance="Chenodeoxycholic Acid">
+        <leaf ID="ID00251883" application-version="PDF 1.7" checksum="ce64bb4813a69886623792537aa8d37f" checksum-type="MD5" operation="new" xlink:href="m2/23-qos/drug-substance-cdca.pdf">
+          <title>QOS Chenodeoxycholic Acid</title>
+        </leaf>
+      </m2-3-s-drug-substance>
+      <m2-3-p-drug-product dosageform="Capsule" manufacturer="Madrid" product-name="Chenodeoxycholic Acid" xml:lang="en">
+        <leaf ID="ID00251885" application-version="PDF 1.7" checksum="eb6022ec8bd6c37d602a6cf19e81fb32" checksum-type="MD5" operation="new" xlink:href="m2/23-qos/drug-product-cdca.pdf">
+          <title>QOS Chenodeoxycholic Acid</title>
+        </leaf>
+      </m2-3-p-drug-product>
+      <m2-3-a-appendices>
+        <leaf ID="ID00251886" application-version="PDF 1.7" checksum="288cea50f3c15b27660df72adb11f5d2" checksum-type="MD5" operation="new" xlink:href="m2/23-qos/appendices-cdca.pdf">
+          <title>QOS A.2 Adventitious Agents Chenodeoxycholic Acid</title>
+        </leaf>
+      </m2-3-a-appendices>
+      <m2-3-r-regional-information>
+        <leaf ID="ID00251904" application-version="PDF 1.7" checksum="02547cc1a64880773a10e4d0f5897d52" checksum-type="MD5" operation="new" xlink:href="m2/23-qos/regional-information.pdf">
+          <title>Regional Information</title>
+        </leaf>
+      </m2-3-r-regional-information>
+    </m2-3-quality-overall-summary>
+    <m2-4-nonclinical-overview>
+      <leaf ID="ID00250834" application-version="PDF 1.7" checksum="907288d11903f7c71c9e24aa19618edc" checksum-type="MD5" operation="new" xlink:href="m2/24-nonclin-over/nonclinical-overview.pdf">
+        <title>Non-clinical Overview</title>
+      </leaf>
+    </m2-4-nonclinical-overview>
+    <m2-5-clinical-overview>
+      <leaf ID="ID00251934" application-version="PDF 1.7" checksum="eaa9312dc52e3481352430d6e46837b8" checksum-type="MD5" operation="new" xlink:href="m2/25-clin-over/clinical-overview.pdf">
+        <title>Clinical Overview</title>
+      </leaf>
+      <leaf ID="ID00253687" application-version="PDF 1.7" checksum="defffcf28329d3f187ab9380a7080675" checksum-type="MD5" operation="new" xlink:href="m2/25-clin-over/clinical-overview-appendixnathisuntreatctx.pdf">
+        <title>Natural History of Untreated Cerebrotendinous xanthomatosis (CTX)</title>
+      </leaf>
+    </m2-5-clinical-overview>
+    <m2-6-nonclinical-written-and-tabulated-summaries>
+      <m2-6-1-introduction>
+        <leaf ID="ID00250835" application-version="PDF 1.7" checksum="353bb35f6609bb522f885dfc15dffb80" checksum-type="MD5" operation="new" xlink:href="m2/26-nonclin-sum/introduction.pdf">
+          <title>Non-clinical Introduction</title>
+        </leaf>
+      </m2-6-1-introduction>
+      <m2-6-2-pharmacology-written-summary>
+        <leaf ID="ID00250836" application-version="PDF 1.7" checksum="5b9842c3f1b2999c61cf388ff4c44311" checksum-type="MD5" operation="new" xlink:href="m2/26-nonclin-sum/pharmacol-written-summary.pdf">
+          <title>Pharmacology Written Summary</title>
+        </leaf>
+      </m2-6-2-pharmacology-written-summary>
+      <m2-6-3-pharmacology-tabulated-summary>
+        <leaf ID="ID00250808" application-version="PDF 1.7" checksum="5e37a2d0ddba75834efe971939db2865" checksum-type="MD5" operation="new" xlink:href="m2/26-nonclin-sum/pharmacol-tabulated-summary.pdf">
+          <title>Pharmacology Tabulated Summary</title>
+        </leaf>
+      </m2-6-3-pharmacology-tabulated-summary>
+      <m2-6-4-pharmacokinetics-written-summary>
+        <leaf ID="ID00250838" application-version="PDF 1.7" checksum="e5f457d1e225642ca1b80acadee4a65f" checksum-type="MD5" operation="new" xlink:href="m2/26-nonclin-sum/pharmkin-written-summary.pdf">
+          <title>Pharmacokinetics Written Summary</title>
+        </leaf>
+      </m2-6-4-pharmacokinetics-written-summary>
+      <m2-6-5-pharmacokinetics-tabulated-summary>
+        <leaf ID="ID00250809" application-version="PDF 1.7" checksum="ac8cf8dc6e8f890cb81e1e3d8658e459" checksum-type="MD5" operation="new" xlink:href="m2/26-nonclin-sum/pharmkin-tabulated-summary.pdf">
+          <title>Pharmacokinetics Tabulated Summary</title>
+        </leaf>
+      </m2-6-5-pharmacokinetics-tabulated-summary>
+      <m2-6-6-toxicology-written-summary>
+        <leaf ID="ID00250837" application-version="PDF 1.7" checksum="76f3d786de10ba5f5f1d85f881e8439a" checksum-type="MD5" operation="new" xlink:href="m2/26-nonclin-sum/toxicology-written-summary.pdf">
+          <title>Toxicology Written Summary</title>
+        </leaf>
+      </m2-6-6-toxicology-written-summary>
+      <m2-6-7-toxicology-tabulated-summary>
+        <leaf ID="ID00250810" application-version="PDF 1.7" checksum="1dcd1e74d3d7b9d7f49bf5f5efd39a72" checksum-type="MD5" operation="new" xlink:href="m2/26-nonclin-sum/toxicology-tabulated-summary.pdf">
+          <title>Toxicology Tabulated Summary</title>
+        </leaf>
+      </m2-6-7-toxicology-tabulated-summary>
+    </m2-6-nonclinical-written-and-tabulated-summaries>
+    <m2-7-clinical-summary>
+      <m2-7-1-summary-of-biopharmaceutic-studies-and-associated-analytical-methods>
+        <leaf ID="ID00251935" application-version="PDF 1.7" checksum="4f72c53a6224eb40272a9c41e13d8e12" checksum-type="MD5" operation="new" xlink:href="m2/27-clin-sum/summary-biopharm.pdf">
+          <title>Summary of Biopharmaceutic Studies and Associated Analytical Methods</title>
+        </leaf>
+      </m2-7-1-summary-of-biopharmaceutic-studies-and-associated-analytical-methods>
+      <m2-7-3-summary-of-clinical-efficacy indication="CTX" xml:lang="en">
+        <leaf ID="ID00251939" application-version="PDF 1.7" checksum="d30bb4ff0e10c74f7c422f58c5d2eac0" checksum-type="MD5" operation="new" xlink:href="m2/27-clin-sum/summary-clin-efficacy-ctx.pdf">
+          <title>Summary of Clinical Efficacy</title>
+        </leaf>
+      </m2-7-3-summary-of-clinical-efficacy>
+      <m2-7-4-summary-of-clinical-safety>
+        <leaf ID="ID00251940" application-version="PDF 1.7" checksum="a8250fcad2fda26e03eeae1013cc1b08" checksum-type="MD5" operation="new" xlink:href="m2/27-clin-sum/summary-clin-safety.pdf">
+          <title>Summary of Clinical Safety</title>
+        </leaf>
+      </m2-7-4-summary-of-clinical-safety>
+      <m2-7-5-literature-references>
+        <leaf ID="ID00251941" application-version="PDF 1.7" checksum="5df6de8bf2fe65e29d2b3437f86b9c06" checksum-type="MD5" operation="new" xlink:href="m2/27-clin-sum/literature-references.pdf">
+          <title>Literature References</title>
+        </leaf>
+      </m2-7-5-literature-references>
+      <m2-7-6-synopses-of-individual-studies>
+        <leaf ID="ID00253639" application-version="PDF 1.7" checksum="21fab5978e404329184ae38fb34c25e7" checksum-type="MD5" operation="new" xlink:href="m2/27-clin-sum/synopses-indiv-studies-listing.pdf">
+          <title>Tabular Listing of All Clinical Studies</title>
+        </leaf>
+        <leaf ID="ID00251942" application-version="PDF 1.7" checksum="c9dff89109148a2171cbd197b5ade74d" checksum-type="MD5" operation="new" xlink:href="m2/27-clin-sum/synopses-indiv-studies.pdf">
+          <title>All Synopses of Individual Studies</title>
+        </leaf>
+      </m2-7-6-synopses-of-individual-studies>
+    </m2-7-clinical-summary>
+  </m2-common-technical-document-summaries>
+
+  <m3-quality>
+    <m3-2-body-of-data>
+      <m3-2-s-drug-substance manufacturer="Basaluzzo" substance="Chenodeoxycholic Acid" xml:lang="en">
+        <m3-2-s-1-general-information>
+          <m3-2-s-1-1-nomenclature>
+            <leaf ID="ID00251049" application-version="PDF 1.7" checksum="06243826a0ab23ff7bb9770497c449f5" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s1-gen-info/nomenclature.pdf">
+              <title>Nomenclature</title>
+            </leaf>
+          </m3-2-s-1-1-nomenclature>
+          <m3-2-s-1-2-structure>
+            <leaf ID="ID00251050" application-version="PDF 1.7" checksum="20e0ee6b673b0f0f9cb5ce3bf81a871b" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s1-gen-info/structure.pdf">
+              <title>Structure</title>
+            </leaf>
+          </m3-2-s-1-2-structure>
+          <m3-2-s-1-3-general-properties>
+            <leaf ID="ID00251051" application-version="PDF 1.7" checksum="4bb222d51c1f8017d957bec994a7f0b0" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s1-gen-info/general-properties.pdf">
+              <title>General Nomenclature</title>
+            </leaf>
+          </m3-2-s-1-3-general-properties>
+        </m3-2-s-1-general-information>
+        <m3-2-s-2-manufacture>
+          <m3-2-s-2-1-manufacturer>
+            <leaf ID="ID00251052" application-version="PDF 1.7" checksum="8ffc6971c6d92e220d689a943b81e4de" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s2-manuf/manufacturer.pdf">
+              <title>Manufacturer(s)</title>
+            </leaf>
+          </m3-2-s-2-1-manufacturer>
+          <m3-2-s-2-2-description-of-manufacturing-process-and-process-controls>
+            <leaf ID="ID00251053" application-version="PDF 1.7" checksum="e1b5da730e978edf41a7079dc9eabfbd" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s2-manuf/manuf-process-and-controls.pdf">
+              <title>Description of Manufacturing Process and Process Controls</title>
+            </leaf>
+          </m3-2-s-2-2-description-of-manufacturing-process-and-process-controls>
+          <m3-2-s-2-3-control-of-materials>
+            <leaf ID="ID00251054" application-version="PDF 1.7" checksum="789d57691a61102801854faa70956bf2" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s2-manuf/control-of-materials.pdf">
+              <title>Control of Materials (RP)</title>
+            </leaf>
+          </m3-2-s-2-3-control-of-materials>
+          <m3-2-s-2-4-controls-of-critical-steps-and-intermediates>
+            <leaf ID="ID00251055" application-version="PDF 1.7" checksum="247a06b1ebc64374a2fd89f2beaf4b5f" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s2-manuf/control-critical-steps.pdf">
+              <title>Controls of Critical Steps and Intermediates (RP)</title>
+            </leaf>
+          </m3-2-s-2-4-controls-of-critical-steps-and-intermediates>
+          <m3-2-s-2-5-process-validation-and-or-evaluation>
+            <leaf ID="ID00251056" application-version="PDF 1.7" checksum="e1a320359d456c6167c2a06058a778c6" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s2-manuf/process-validation.pdf">
+              <title>Process Validation and Evaluation (RP)</title>
+            </leaf>
+          </m3-2-s-2-5-process-validation-and-or-evaluation>
+          <m3-2-s-2-6-manufacturing-process-development>
+            <leaf ID="ID00251057" application-version="PDF 1.7" checksum="899a1582a97ad60c51aae2a71bdf4160" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s2-manuf/manuf-process-development.pdf">
+              <title>Manufacturing Process Development (RP)</title>
+            </leaf>
+          </m3-2-s-2-6-manufacturing-process-development>
+        </m3-2-s-2-manufacture>
+        <m3-2-s-3-characterisation>
+          <m3-2-s-3-1-elucidation-of-structure-and-other-characteristics>
+            <leaf ID="ID00251088" application-version="PDF 1.7" checksum="74bc8980328bfcc43ba85b6aac9b1fa3" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s3-charac/elucidation-of-structure.pdf">
+              <title>Elucidation of Structure and other Characteristics</title>
+            </leaf>
+          </m3-2-s-3-1-elucidation-of-structure-and-other-characteristics>
+          <m3-2-s-3-2-impurities>
+            <leaf ID="ID00251087" application-version="PDF 1.7" checksum="23ad75322f4185fe82be9385d48615b2" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s3-charac/impurities.pdf">
+              <title>Impurities</title>
+            </leaf>
+          </m3-2-s-3-2-impurities>
+        </m3-2-s-3-characterisation>
+        <m3-2-s-4-control-of-drug-substance>
+          <m3-2-s-4-1-specification>
+            <leaf ID="ID00251089" application-version="PDF 1.7" checksum="9913322b68f6e8bb45136c0b88aba7ec" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s4-contr-drug-sub/32s41-spec/specification.pdf">
+              <title>Specification</title>
+            </leaf>
+          </m3-2-s-4-1-specification>
+          <m3-2-s-4-2-analytical-procedures>
+            <leaf ID="ID00251090" application-version="PDF 1.7" checksum="6f750ec68c918a1ffcdd8ca0f41903fa" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s4-contr-drug-sub/32s42-analyt-proc/32s42-analytical-procedures.pdf">
+              <title>Analytical Procedures</title>
+            </leaf>
+          </m3-2-s-4-2-analytical-procedures>
+          <m3-2-s-4-3-validation-of-analytical-procedures>
+            <leaf ID="ID00251091" application-version="PDF 1.7" checksum="edabe0b4b6ae61e5f99eb4df777de411" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s4-contr-drug-sub/32s43-val-analyt-proc/32s43-validation-of-analytical-procedures.pdf">
+              <title>Validation of Analytical Procedures</title>
+            </leaf>
+          </m3-2-s-4-3-validation-of-analytical-procedures>
+          <m3-2-s-4-4-batch-analyses>
+            <leaf ID="ID00251092" application-version="PDF 1.7" checksum="59fb5fbefc0bbf5d7a97e8a855d5a2cb" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s4-contr-drug-sub/32s44-batch-analys/batch-analyses.pdf">
+              <title>Batch Analyses</title>
+            </leaf>
+          </m3-2-s-4-4-batch-analyses>
+          <m3-2-s-4-5-justification-of-specification>
+            <leaf ID="ID00251093" application-version="PDF 1.7" checksum="f18a17deeb7cd588edd775c13d612965" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s4-contr-drug-sub/32s45-justif-spec/justification-of-specification.pdf">
+              <title>Justification of Specification</title>
+            </leaf>
+          </m3-2-s-4-5-justification-of-specification>
+        </m3-2-s-4-control-of-drug-substance>
+        <m3-2-s-5-reference-standards-or-materials>
+          <leaf ID="ID00251094" application-version="PDF 1.7" checksum="df9b985db2a76d189487fe519bec1a7f" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s5-ref-stand/reference-standards.pdf">
+            <title>Reference Standards or Materials</title>
+          </leaf>
+        </m3-2-s-5-reference-standards-or-materials>
+        <m3-2-s-6-container-closure-system>
+          <leaf ID="ID00251095" application-version="PDF 1.7" checksum="c46e2abb28b1f0b7ead52e56ba97d507" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s6-cont-closure-sys/container-closure-system.pdf">
+            <title>Container Closure System</title>
+          </leaf>
+        </m3-2-s-6-container-closure-system>
+        <m3-2-s-7-stability>
+          <m3-2-s-7-1-stability-summary-and-conclusions>
+            <leaf ID="ID00251096" application-version="PDF 1.7" checksum="9b55df7826659a3de5cfeae7f41ba35e" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s7-stab/stability-summary.pdf">
+              <title>Stability Summary and Conclusions</title>
+            </leaf>
+          </m3-2-s-7-1-stability-summary-and-conclusions>
+          <m3-2-s-7-2-post-approval-stability-protocol-and-stability-commitment>
+            <leaf ID="ID00251097" application-version="PDF 1.7" checksum="2decf72e63e236ea6cbbf5f29b6569f2" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s7-stab/postapproval-stability.pdf">
+              <title>Post-approval Stability Protocol and Stability Commitment</title>
+            </leaf>
+          </m3-2-s-7-2-post-approval-stability-protocol-and-stability-commitment>
+          <m3-2-s-7-3-stability-data>
+            <leaf ID="ID00251098" application-version="PDF 1.7" checksum="a29b9644dd35ae0ac335328628350c24" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/chenodeoxycholicacid-basaluzzo/32s7-stab/stability-data.pdf">
+              <title>Stability Data</title>
+            </leaf>
+          </m3-2-s-7-3-stability-data>
+        </m3-2-s-7-stability>
+      </m3-2-s-drug-substance>
+      <m3-2-p-drug-product dosageform="Capsule" manufacturer="Madrid" product-name="Chenodeoxycholic acid" xml:lang="en">
+        <m3-2-p-1-description-and-composition-of-the-drug-product>
+          <leaf ID="ID00250774" application-version="PDF 1.7" checksum="ae201b253c4e2491774a966631f216bf" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p1-desc-comp/description-and-composition.pdf">
+            <title>Description and Composition of the Drug Product</title>
+          </leaf>
+        </m3-2-p-1-description-and-composition-of-the-drug-product>
+        <m3-2-p-2-pharmaceutical-development>
+          <leaf ID="ID00250775" application-version="PDF 1.7" checksum="7069c85e5259392bf5f5061691ad856a" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p2-pharm-dev/pharmaceutical-development-1.pdf">
+            <title>Components of the Drug Product</title>
+          </leaf>
+          <leaf ID="ID00250776" application-version="PDF 1.7" checksum="d83d8d9a958f3a47cc176f90be860e6f" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p2-pharm-dev/pharmaceutical-development-2.pdf">
+            <title>Drug Product</title>
+          </leaf>
+          <leaf ID="ID00251099" application-version="PDF 1.7" checksum="52962fc2f225161730855ac5577a3eda" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p2-pharm-dev/pharmaceutical-development-coacdca250mgrefprod.pdf">
+            <title>CoA CDCA 250mg Reference product</title>
+          </leaf>
+          <leaf ID="ID00251100" application-version="PDF 1.7" checksum="b1285f71a330df1cd06682f9c4fabac3" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p2-pharm-dev/pharmaceutical-development-dissolutionprofilereport.pdf">
+            <title>Dissolution profile report</title>
+          </leaf>
+          <leaf ID="ID00250777" application-version="PDF 1.7" checksum="27035b0b0b97db64cbc4005565f92b87" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p2-pharm-dev/pharmaceutical-development-manufprocdev.pdf">
+            <title>Manufacturing Process Development</title>
+          </leaf>
+          <leaf ID="ID00250778" application-version="PDF 1.7" checksum="ab4022eecf3dba6ba2bf260adbbb32a0" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p2-pharm-dev/pharmaceutical-development-containerclosuresystem.pdf">
+            <title>Container Closure System</title>
+          </leaf>
+        </m3-2-p-2-pharmaceutical-development>
+        <m3-2-p-3-manufacture>
+          <m3-2-p-3-1-manufacturers>
+            <leaf ID="ID00250779" application-version="PDF 1.7" checksum="0a69d19e4c9bc9d052b7456c019d9921" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p3-manuf/manufacturers.pdf">
+              <title>Manufacturer(s)</title>
+            </leaf>
+          </m3-2-p-3-1-manufacturers>
+          <m3-2-p-3-2-batch-formula>
+            <leaf ID="ID00250780" application-version="PDF 1.7" checksum="edc1b25493c71caae86b6dd32acf4bbc" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p3-manuf/batch-formula.pdf">
+              <title>Batch Formula</title>
+            </leaf>
+          </m3-2-p-3-2-batch-formula>
+          <m3-2-p-3-3-description-of-manufacturing-process-and-process-controls>
+            <leaf ID="ID00250781" application-version="PDF 1.7" checksum="537095a6201ea317c50f51e318f53bba" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p3-manuf/manuf-process-and-controls.pdf">
+              <title>Description of Manufacturing Process and Process Controls</title>
+            </leaf>
+          </m3-2-p-3-3-description-of-manufacturing-process-and-process-controls>
+          <m3-2-p-3-4-controls-of-critical-steps-and-intermediates>
+            <leaf ID="ID00250782" application-version="PDF 1.7" checksum="cad5971139f1e2960a2010643b0df298" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p3-manuf/control-critical-steps.pdf">
+              <title>Controls of Critical Steps and Intermediates</title>
+            </leaf>
+          </m3-2-p-3-4-controls-of-critical-steps-and-intermediates>
+          <m3-2-p-3-5-process-validation-and-or-evaluation>
+            <leaf ID="ID00250783" application-version="PDF 1.7" checksum="d2411083c4cfd9698e9ce2aee1f4f25a" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p3-manuf/process-validation.pdf">
+              <title>Process Validatioin and/or Evaluation</title>
+            </leaf>
+          </m3-2-p-3-5-process-validation-and-or-evaluation>
+        </m3-2-p-3-manufacture>
+        <m3-2-p-4-control-of-excipients excipient="common" xml:lang="en">
+          <m3-2-p-4-1-specifications>
+            <leaf ID="ID00250791" application-version="PDF 1.7" checksum="5bf5dc2713e73a8a02ceaab0c00cc424" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p4-contr-excip/common/specifications.pdf">
+              <title>Specifications</title>
+            </leaf>
+            <leaf ID="ID00252360" application-version="PDF 1.7" checksum="8b639b377888bc6cdd03323b6338d6af" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p4-contr-excip/common/specifications-coa-maizestarch.pdf">
+              <title>CoA Maize Starch Lot.14078</title>
+            </leaf>
+            <leaf ID="ID00252361" application-version="PDF 1.7" checksum="ed4ddd2457849963c502c5a44a8e209d" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p4-contr-excip/common/specifications-coa-colloidalsilica.pdf">
+              <title>CoA Colloidal Silica Lot.13042</title>
+            </leaf>
+            <leaf ID="ID00252362" application-version="PDF 1.7" checksum="c54bb30d433b9ae6652af6f00b8d1987" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p4-contr-excip/common/specifications-coa-magnesiumstearate.pdf">
+              <title>CoA Magnesium Stearate Lot.14012</title>
+            </leaf>
+          </m3-2-p-4-1-specifications>
+          <m3-2-p-4-2-analytical-procedures>
+            <leaf ID="ID00250792" application-version="PDF 1.7" checksum="9b2c796d23fd871473308bf85e4e66e0" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p4-contr-excip/common/analytical-procedures.pdf">
+              <title>Analytical Procedures</title>
+            </leaf>
+          </m3-2-p-4-2-analytical-procedures>
+          <m3-2-p-4-3-validation-of-analytical-procedures>
+            <leaf ID="ID00250793" application-version="PDF 1.7" checksum="762c6685dc96cc3e90257cdebe057ee5" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p4-contr-excip/common/validation-analyt-procedures.pdf">
+              <title>Validation of Analytical Procedures</title>
+            </leaf>
+          </m3-2-p-4-3-validation-of-analytical-procedures>
+          <m3-2-p-4-4-justification-of-specifications>
+            <leaf ID="ID00250794" application-version="PDF 1.7" checksum="708932d57ecb2473e34d469d767bdf07" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p4-contr-excip/common/justification-of-specifications.pdf">
+              <title>Justification of Specifications</title>
+            </leaf>
+          </m3-2-p-4-4-justification-of-specifications>
+          <m3-2-p-4-5-excipients-of-human-or-animal-origin>
+            <leaf ID="ID00250795" application-version="PDF 1.7" checksum="2806f9bb81461f6b5e44f074c5268f64" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p4-contr-excip/excipients-human-animal.pdf">
+              <title>Exicpients of Animal or Human Origin</title>
+            </leaf>
+          </m3-2-p-4-5-excipients-of-human-or-animal-origin>
+          <m3-2-p-4-6-novel-excipients>
+            <leaf ID="ID00250796" application-version="PDF 1.7" checksum="1c8995be66981ff264c6c119018c566e" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p4-contr-excip/novel-excipients.pdf">
+              <title>Novel Exicpients</title>
+            </leaf>
+          </m3-2-p-4-6-novel-excipients>
+        </m3-2-p-4-control-of-excipients>
+        <m3-2-p-5-control-of-drug-product>
+          <m3-2-p-5-1-specifications>
+            <leaf ID="ID00250797" application-version="PDF 1.7" checksum="b90a359699ea24e6691dee72e4b5a424" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p5-contr-drug-prod/32p51-spec/specifications.pdf">
+              <title>Specifications</title>
+            </leaf>
+          </m3-2-p-5-1-specifications>
+          <m3-2-p-5-2-analytical-procedures>
+            <leaf ID="ID00250798" application-version="PDF 1.7" checksum="7a126359413c7b48aacb07fd0815b31f" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p5-contr-drug-prod/32p52-analyt-proc/32p52-analytical-procedure.pdf">
+              <title>Analytical Procedures</title>
+            </leaf>
+          </m3-2-p-5-2-analytical-procedures>
+          <m3-2-p-5-3-validation-of-analytical-procedures>
+            <leaf ID="ID00250799" application-version="PDF 1.7" checksum="8ca274942de93597a47a168d38fe8914" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p5-contr-drug-prod/32p53-val-analyt-proc/32p53-validation-analytical-procedures.pdf">
+              <title>Validation of Analytical Procedures</title>
+            </leaf>
+          </m3-2-p-5-3-validation-of-analytical-procedures>
+          <m3-2-p-5-4-batch-analyses>
+            <leaf ID="ID00250800" application-version="PDF 1.7" checksum="7d0afe3d921c98d4cf9a4de504334832" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p5-contr-drug-prod/32p54-batch-analys/batch-analyses.pdf">
+              <title>Batch Analyses</title>
+            </leaf>
+          </m3-2-p-5-4-batch-analyses>
+          <m3-2-p-5-5-characterisation-of-impurities>
+            <leaf ID="ID00250801" application-version="PDF 1.7" checksum="46fc37b93f752f900b5c80422e982e00" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p5-contr-drug-prod/32p55-charac-imp/characterisation-impurities.pdf">
+              <title>Characterisation of Impurities</title>
+            </leaf>
+          </m3-2-p-5-5-characterisation-of-impurities>
+          <m3-2-p-5-6-justification-of-specifications>
+            <leaf ID="ID00250811" application-version="PDF 1.7" checksum="5227e79a604be388ac4c1ca1f6db708f" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p5-contr-drug-prod/32p56-justif-spec/justification-of-specifications.pdf">
+              <title>Justification of Specifications</title>
+            </leaf>
+          </m3-2-p-5-6-justification-of-specifications>
+        </m3-2-p-5-control-of-drug-product>
+        <m3-2-p-6-reference-standards-or-materials>
+          <leaf ID="ID00250802" application-version="PDF 1.7" checksum="971e9e6793afd63620e908e36da6d71b" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p6-ref-stand/reference-standards.pdf">
+            <title>Reference Standards or Materials</title>
+          </leaf>
+        </m3-2-p-6-reference-standards-or-materials>
+        <m3-2-p-7-container-closure-system>
+          <leaf ID="ID00250803" application-version="PDF 1.7" checksum="ff80f5c81b7ad54e9211fce042797700" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p7-cont-closure-sys/container-closure-system.pdf">
+            <title>Container Closure System</title>
+          </leaf>
+          <leaf ID="ID00251105" application-version="PDF 1.7" checksum="cdcbc15eb72727f8020fc814c3b44435" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p7-cont-closure-sys/container-closure-system-supplierir.pdf">
+            <title>Supplier IR</title>
+          </leaf>
+          <leaf ID="ID00251103" application-version="PDF 1.7" checksum="ab40ea7151a1a6f83d7f6e176cbf56ab" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p7-cont-closure-sys/container-closure-system-alufoiltechdata.pdf">
+            <title>Aluminium foil technical data sheet</title>
+          </leaf>
+          <leaf ID="ID00251104" application-version="PDF 1.7" checksum="6df181da221ac701dbff97d29571ce6d" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p7-cont-closure-sys/container-closure-system-pvctechdata.pdf">
+            <title>PVC technical data sheet</title>
+          </leaf>
+        </m3-2-p-7-container-closure-system>
+        <m3-2-p-8-stability>
+          <m3-2-p-8-1-stability-summary-and-conclusion>
+            <leaf ID="ID00251106" application-version="PDF 1.7" checksum="02d3c618568f199ba3ce5b63e7fd8238" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p8-stab/stability-summary.pdf">
+              <title>Stability Summary and Conclusion</title>
+            </leaf>
+          </m3-2-p-8-1-stability-summary-and-conclusion>
+          <m3-2-p-8-2-post-approval-stability-protocol-and-stability-commitment>
+            <leaf ID="ID00250804" application-version="PDF 1.7" checksum="1c70aacb787585078023337738e67748" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p8-stab/postapproval-stability.pdf">
+              <title>Post-approval Stability Protocol and Stability Commitment</title>
+            </leaf>
+          </m3-2-p-8-2-post-approval-stability-protocol-and-stability-commitment>
+          <m3-2-p-8-3-stability-data>
+            <leaf ID="ID00251107" application-version="PDF 1.7" checksum="d9e5c09577a0a99f68487a3bc615fcf0" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/chenodeoxycholicacid-capsule/32p8-stab/stability-data.pdf">
+              <title>Stability Data</title>
+            </leaf>
+          </m3-2-p-8-3-stability-data>
+        </m3-2-p-8-stability>
+      </m3-2-p-drug-product>
+      <m3-2-a-appendices>
+        <m3-2-a-2-adventitious-agents-safety-evaluation dosageform="capsule" manufacturer="common" product-name="Chenodeoxycholic acid" substance="common" xml:lang="en">
+          <leaf ID="ID00251881" application-version="PDF 1.7" checksum="3652ff750f692eb512c8b89e522b59fa" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32a-app/32a2-advent-agent/32a2-adventitious-agents-report-pca.pdf">
+            <title>Adventitious Agents Safety Evaluation - Prodotti Chimici e Alimentari</title>
+          </leaf>
+          <leaf ID="ID00251944" application-version="PDF 1.7" checksum="2584a9b4d968dfc07e5ec8cd7f7a0e35" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32a-app/32a2-advent-agent/32a2-adventitious-agents-report-attachmentspca.pdf">
+            <title>Adventitious Agents Safety Evaluation - Attachments Prodotti Chimici e Alimentari</title>
+          </leaf>
+          <leaf ID="ID00250807" application-version="PDF 1.7" checksum="689c37c7d15c9f12eeb49e5a7886bd0d" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32a-app/32a2-advent-agent/32a2-adventitious-agents-report-stes.pdf">
+            <title>Adventitious Agents Safety Evaluation - Sigma Tau Espana</title>
+          </leaf>
+        </m3-2-a-2-adventitious-agents-safety-evaluation>
+      </m3-2-a-appendices>
+      <m3-2-r-regional-information>
+        <leaf ID="ID00250805" application-version="PDF 1.7" checksum="bad057a257984090cf4dd76a55000573" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32r-reg-info/regional-information.pdf">
+          <title>Regional Information</title>
+        </leaf>
+      </m3-2-r-regional-information>
+    </m3-2-body-of-data>
+  </m3-quality>
+
+  <m4-nonclinical-study-reports>
+    <m4-2-study-reports>
+      <m4-2-3-toxicology>
+        <m4-2-3-1-single-dose-toxicity>
+          <leaf ID="ID00250812" application-version="PDF 1.7" checksum="4ae1030185f966a2143727973c267e5e" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4231-single-dose-tox/irdc-338-004-1974.pdf">
+            <title>IRDC-338-004, 1974</title>
+          </leaf>
+          <leaf ID="ID00250813" application-version="PDF 1.7" checksum="f685d2be409e020ac4973d33e88c674b" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4231-single-dose-tox/irdc-338-005-1974.pdf">
+            <title>IRDC-338-005, 1974</title>
+          </leaf>
+          <leaf ID="ID00250814" application-version="PDF 1.7" checksum="ebdabd1be7e3e43b1cc83c3fc3f2dc94" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4231-single-dose-tox/irdc-338-006-1974.pdf">
+            <title>IRDC-338-006, 1974</title>
+          </leaf>
+          <leaf ID="ID00250815" application-version="PDF 1.7" checksum="443cff64329f9b7d2a7ef2723d250d3d" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4231-single-dose-tox/irdc-338-007-1974.pdf">
+            <title>IRDC-338-007, 1974</title>
+          </leaf>
+          <leaf ID="ID00250816" application-version="PDF 1.7" checksum="26a9fc8f1627fc9a51373629d2d6e6cd" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4231-single-dose-tox/rowelllabs-rabbit-1974.pdf">
+            <title>Rowell Labs-Rabbit, 1974</title>
+          </leaf>
+          <leaf ID="ID00250817" application-version="PDF 1.7" checksum="5de318e52a7908ce9c13abdeadbbc185" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4231-single-dose-tox/rowelllabs-rat-1974.pdf">
+            <title>Rowell Labs - Rat, 1974</title>
+          </leaf>
+        </m4-2-3-1-single-dose-toxicity>
+        <m4-2-3-2-repeat-dose-toxicity>
+          <leaf ID="ID00250818" application-version="PDF 1.7" checksum="71d76328fdfd7706a3b424364009632a" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/bergman-1973.pdf">
+            <title>Bergman 1973</title>
+          </leaf>
+          <leaf ID="ID00250819" application-version="PDF 1.7" checksum="aaae6b6e1362bd717b4f06fd37ae6d5e" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/dyrszka-1975.pdf">
+            <title>Dyrszka 1975</title>
+          </leaf>
+          <leaf ID="ID00250820" application-version="PDF 1.7" checksum="0fb44eeba2f6511d47b77b4c5c78f52a" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/dyrszka-1976.pdf">
+            <title>Dyrszka 1976</title>
+          </leaf>
+          <leaf ID="ID00250821" application-version="PDF 1.7" checksum="25fd71d97cfb31b872e7941a170aa7e0" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/huntingdon-rhesus-1972.pdf">
+            <title>Huntingdon-Rhesus, 1972</title>
+          </leaf>
+          <leaf ID="ID00250822" application-version="PDF 1.7" checksum="c6611074ed6187727960bdcd3f783a72" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/huntingdon-rhesus-1973.pdf">
+            <title>Huntingdon-Rhesus, 1973</title>
+          </leaf>
+          <leaf ID="ID00250823" application-version="PDF 1.7" checksum="86c37753fb2062171da303d1ef997e8a" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/huntingdon-rhesus-1974.pdf">
+            <title>Huntingdon-Rhesus, 1974</title>
+          </leaf>
+          <leaf ID="ID00250824" application-version="PDF 1.7" checksum="97a6e321e103291ac469c3eebc1c0915" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/huntingdon-uic9-74116-1974.pdf">
+            <title>Huntingdon-UCI9-74116, 1974</title>
+          </leaf>
+          <leaf ID="ID00250825" application-version="PDF 1.7" checksum="ae15c2bec6e000f47a518bb236a5beac" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/irdc-338-001-1976.pdf">
+            <title>IRDC-338-001, 1976</title>
+          </leaf>
+          <leaf ID="ID00250826" application-version="PDF 1.7" checksum="dc824de68eadb48d845dbd25a88e7e18" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/irdc-338-002-1976.pdf">
+            <title>IRDC-338-002, 1976</title>
+          </leaf>
+          <leaf ID="ID00250827" application-version="PDF 1.7" checksum="0bd44f5f4c5dd4a8ac6e8002bda408c8" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/irdc-338-003-1977.pdf">
+            <title>IRDC-338-003, 1977</title>
+          </leaf>
+          <leaf ID="ID00250828" application-version="PDF 1.7" checksum="75ce3f48b28f490a35fdf19ee45845e4" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/irdc-338-008-1974.pdf">
+            <title>IRDC-338-008, 1974</title>
+          </leaf>
+          <leaf ID="ID00250829" application-version="PDF 1.7" checksum="11435d1ca66fec131a6106ab9fa137f0" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/irdc-338-015-1974.pdf">
+            <title>IRDC-338-015, 1974</title>
+          </leaf>
+          <leaf ID="ID00250830" application-version="PDF 1.7" checksum="788d25e35ca03445116896b14e4e8a35" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/irdc-338-018-1974.pdf">
+            <title>IRDC-338-018, 1974</title>
+          </leaf>
+          <leaf ID="ID00250831" application-version="PDF 1.7" checksum="45f81965a0ff0cf41b96ade9274ae72d" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/morrissey-1975.pdf">
+            <title>Morrissey 1975</title>
+          </leaf>
+          <leaf ID="ID00250832" application-version="PDF 1.7" checksum="ae3a56cb74226dc6610992619a023930" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/shefer-1983.pdf">
+            <title>Shefer 1983</title>
+          </leaf>
+          <leaf ID="ID00250833" application-version="PDF 1.7" checksum="491f9d8ad9d4b923a35941a2a5f158c7" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4232-repeat-dose-tox/song-2011.pdf">
+            <title>Song 2011</title>
+          </leaf>
+        </m4-2-3-2-repeat-dose-toxicity>
+        <m4-2-3-3-genotoxicity>
+          <m4-2-3-3-1-in-vitro>
+            <leaf ID="ID00250840" application-version="PDF 1.7" checksum="5a128f927deb07aced748defd6dff5a3" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4233-genotox/42331-in-vitro/silverman-1977.pdf">
+              <title>Silverman and Andrews, 1977</title>
+            </leaf>
+            <leaf ID="ID00250841" application-version="PDF 1.7" checksum="9faa1aad71574500bdc61c403349517c" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4233-genotox/42331-in-vitro/venitt-1987.pdf">
+              <title>Venitt 1987</title>
+            </leaf>
+            <leaf ID="ID00250842" application-version="PDF 1.7" checksum="4eac2a003da7cef6c6acce8886931ba6" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4233-genotox/42331-in-vitro/watabe-1985.pdf">
+              <title>Watabe 1985</title>
+            </leaf>
+          </m4-2-3-3-1-in-vitro>
+          <m4-2-3-3-2-in-vivo>
+            <leaf ID="ID00250839" application-version="PDF 1.7" checksum="8c30804b1213ebf3827b67f3238e42e8" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4233-genotox/42332-in-vivo/irdc-338-014-1975.pdf">
+              <title>IRDC-338-014, 1976</title>
+            </leaf>
+          </m4-2-3-3-2-in-vivo>
+        </m4-2-3-3-genotoxicity>
+        <m4-2-3-4-carcinogenicity>
+          <m4-2-3-4-1-long-term-studies>
+            <leaf ID="ID00250844" application-version="PDF 1.7" checksum="aa59319d86c5d8bdb93d384eb682dc91" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4234-carcigen/42341-lt-stud/hazleton-2090-101-vol1-1982.pdf">
+              <title>Hazleton-2090-101-Vol I, 1982</title>
+            </leaf>
+            <leaf ID="ID00250845" application-version="PDF 1.7" checksum="8605b19dc18753ac4be17e961f99249c" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4234-carcigen/42341-lt-stud/hazleton-2090-101-vol2-1982.pdf">
+              <title>Hazleton-2090-101-Vol II, 1982</title>
+            </leaf>
+            <leaf ID="ID00250846" application-version="PDF 1.7" checksum="e01e7d81614685da063f57a6ea2e41c4" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4234-carcigen/42341-lt-stud/hazleton-2090-101-vol3-1982.pdf">
+              <title>Hazleton-2090-101-Vol III, 1982</title>
+            </leaf>
+            <leaf ID="ID00250847" application-version="PDF 1.7" checksum="9f6d5174e9b764d19a8f667dc4a79778" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4234-carcigen/42341-lt-stud/irdc-338-009-1976.pdf">
+              <title>IRDC-338-009, 1976</title>
+            </leaf>
+          </m4-2-3-4-1-long-term-studies>
+          <m4-2-3-4-3-other-studies>
+            <leaf ID="ID00250843" application-version="PDF 1.7" checksum="4f7d92aba90ecc27cb4f5fc2bec94425" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4234-carcigen/42343-other-stud/blair-1991.pdf">
+              <title>Blair 1991</title>
+            </leaf>
+            <leaf ID="ID00250848" application-version="PDF 1.7" checksum="c700c3990a5e5f1a62844b16e2be27f3" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4234-carcigen/42343-other-stud/martin-1981.pdf">
+              <title>Martin 1981</title>
+            </leaf>
+            <leaf ID="ID00250849" application-version="PDF 1.7" checksum="ace0822cdd884a0977fcd1745de0f1c5" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4234-carcigen/42343-other-stud/sarwal-1979.pdf">
+              <title>Sarwal 1979</title>
+            </leaf>
+            <leaf ID="ID00250850" application-version="PDF 1.7" checksum="5b26524e207011b8b17b704d61493ebe" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4234-carcigen/42343-other-stud/sutherland-1994.pdf">
+              <title>Sutherland and Bird, 1994</title>
+            </leaf>
+          </m4-2-3-4-3-other-studies>
+        </m4-2-3-4-carcinogenicity>
+        <m4-2-3-5-reproductive-and-developmental-toxicity>
+          <m4-2-3-5-1-fertility-and-early-embryonic-development>
+            <leaf ID="ID00250856" application-version="PDF 1.7" checksum="1bc5573649d43a2bfd2dfd2348ea49d0" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4235-repro-dev-tox/42351-fert-embryo-dev/irdc-338-010-1975.pdf">
+              <title>IRDC-338-010, 1975</title>
+            </leaf>
+            <leaf ID="ID00250857" application-version="PDF 1.7" checksum="f82dadbdd240fe57ba902f80c8f13afb" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4235-repro-dev-tox/42351-fert-embryo-dev/mcsherry-1976.pdf">
+              <title>McSherry 1976</title>
+            </leaf>
+          </m4-2-3-5-1-fertility-and-early-embryonic-development>
+          <m4-2-3-5-2-embryo-fetal-development>
+            <leaf ID="ID00250855" application-version="PDF 1.7" checksum="7c15786a687be5444e13f786bfada994" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4235-repro-dev-tox/42352-embryo-fetal-dev/huntingdon-uic4-75783-1973.pdf">
+              <title>Huntingdon-UIC4-75783, 1973</title>
+            </leaf>
+            <leaf ID="ID00250854" application-version="PDF 1.7" checksum="d94a93f6506e7d19a9d4d31bbd68b7af" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4235-repro-dev-tox/42352-embryo-fetal-dev/huntingdon-uic10-75588-1975.pdf">
+              <title>Huntingdon-UIC10-75588, 1975</title>
+            </leaf>
+            <leaf ID="ID00250852" application-version="PDF 1.7" checksum="40a9c7d5c7636bb1e61e964efe15cdec" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4235-repro-dev-tox/42352-embryo-fetal-dev/irdc-338-011-1975.pdf">
+              <title>IRDC-338-011, 1975</title>
+            </leaf>
+            <leaf ID="ID00250853" application-version="PDF 1.7" checksum="3890662e19bd84162990af51fd942b6d" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4235-repro-dev-tox/42352-embryo-fetal-dev/irdc-338-012-1975.pdf">
+              <title>IRDC-338-012, 1975</title>
+            </leaf>
+          </m4-2-3-5-2-embryo-fetal-development>
+          <m4-2-3-5-3-prenatal-and-postnatal-development-including-maternal-function>
+            <leaf ID="ID00250851" application-version="PDF 1.7" checksum="80ba78c64281afa24b8b39cf0d4b0412" checksum-type="MD5" operation="new" xlink:href="m4/42-stud-rep/423-tox/4235-repro-dev-tox/42353-pre-postnatal-dev/irdc-338-013-1975.pdf">
+              <title>IRDC-338-013, 1975</title>
+            </leaf>
+          </m4-2-3-5-3-prenatal-and-postnatal-development-including-maternal-function>
+        </m4-2-3-5-reproductive-and-developmental-toxicity>
+      </m4-2-3-toxicology>
+    </m4-2-study-reports>
+    <m4-3-literature-references>
+      <leaf ID="ID00251058" application-version="PDF 1.7" checksum="cfc9d43b56bfe143e212a85bb80bdda4" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/alnouti-2009.pdf">
+        <title>Alnouti 2009</title>
+      </leaf>
+      <leaf ID="ID00251059" application-version="PDF 1.7" checksum="e983e7b64926de2a29768dad17ef0a6e" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/barth-2006.pdf">
+        <title>Barth 2006</title>
+      </leaf>
+      <leaf ID="ID00251060" application-version="PDF 1.7" checksum="3a80a8558d0953151327943cc67f6371" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/bell-1974.pdf">
+        <title>Bell 1974</title>
+      </leaf>
+      <leaf ID="ID00251061" application-version="PDF 1.7" checksum="f008de63967cbdc9f5d57229dd9ef595" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/bhattacharyya-2007.pdf">
+        <title>Bhattacharyya 2007</title>
+      </leaf>
+      <leaf ID="ID00251062" application-version="PDF 1.7" checksum="e2c0b25c2189150b7ec113dadebb5c9e" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/clayton-2011.pdf">
+        <title>Clayton 2011</title>
+      </leaf>
+      <leaf ID="ID00251063" application-version="PDF 1.7" checksum="be5d40361b2c8dd2ae87f87fe2856c18" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/crosignani-1996.pdf">
+        <title>Crosignani 1996</title>
+      </leaf>
+      <leaf ID="ID00251064" application-version="PDF 1.7" checksum="ff1602130ae1e05261b9b9b72f819d2c" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/de-aguair-vallim-2013.pdf">
+        <title>De Aguiar Vallim 2013</title>
+      </leaf>
+      <leaf ID="ID00251065" application-version="PDF 1.7" checksum="4147f47883d15050e1f1aaa01b2bb85b" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/federico-2013.pdf">
+        <title>Federico 2013</title>
+      </leaf>
+      <leaf ID="ID00251083" application-version="PDF 1.7" checksum="f95ee8a9407e095ec8a4ef92c4df473f" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/fraidakis-2013.pdf">
+        <title>Fraidakis 2013</title>
+      </leaf>
+      <leaf ID="ID00251066" application-version="PDF 1.7" checksum="eaaf191c56ca22182bd2072bf5c8862c" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/gadacz-1976.pdf">
+        <title>Gadacz 1976</title>
+      </leaf>
+      <leaf ID="ID00251067" application-version="PDF 1.7" checksum="ac00f0339a3caa1c6dc86aa1f23170b6" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/iser-1981.pdf">
+        <title>Iser 1981</title>
+      </leaf>
+      <leaf ID="ID00251068" application-version="PDF 1.7" checksum="60bc0e397d1bd283b8273545045d8e0c" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/jain-2012.pdf">
+        <title>Jain 2012</title>
+      </leaf>
+      <leaf ID="ID00251069" application-version="PDF 1.7" checksum="dde49dc002cabbe92916db62966dbb73" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/leitersdorf-1994.pdf">
+        <title>Leitersdorf 1994</title>
+      </leaf>
+      <leaf ID="ID00251070" application-version="PDF 1.7" checksum="afb3c11ebe581eb00e530cd7b1ce3b92" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/moghadasian-2002.pdf">
+        <title>Moghadasian 2002</title>
+      </leaf>
+      <leaf ID="ID00251084" application-version="PDF 1.7" checksum="051efe0a75d6a7715672281c8fdcc82b" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/monson-2011.pdf">
+        <title>Monson 2011</title>
+      </leaf>
+      <leaf ID="ID00251071" application-version="PDF 1.7" checksum="e37af105f38c8db8d0fd5ba4bebf03ff" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/narisawa-1974.pdf">
+        <title>Narisawa 1974</title>
+      </leaf>
+      <leaf ID="ID00251072" application-version="PDF 1.7" checksum="d40a838951cb83689aa0f1f6a0a7f3a9" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/okun-1982.pdf">
+        <title>Okun 1982</title>
+      </leaf>
+      <leaf ID="ID00251073" application-version="PDF 1.7" checksum="bb23145227ee7db7f31864f3d1eb6c33" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/palmer-1974.pdf">
+        <title>Palmer 1974</title>
+      </leaf>
+      <leaf ID="ID00251074" application-version="PDF 1.7" checksum="60b9d7a247dafb89a3962051d64583a1" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/rao-2010.pdf">
+        <title>Rao 2010</title>
+      </leaf>
+      <leaf ID="ID00251110" application-version="PDF 1.7" checksum="825a185866eca810f0a1bed45010bb11" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/reddy-1975.pdf">
+        <title>Reddy 1975</title>
+      </leaf>
+      <leaf ID="ID00251075" application-version="PDF 1.7" checksum="1659c24ce19aeb0cabc861f8709b79c8" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/salen-1974.pdf">
+        <title>Salen 1974</title>
+      </leaf>
+      <leaf ID="ID00251076" application-version="PDF 1.7" checksum="2cec7702ab28e9eafb1ebce01b457c0f" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/stamp-2008.pdf">
+        <title>Stamp 2008</title>
+      </leaf>
+      <leaf ID="ID00251077" application-version="PDF 1.7" checksum="d6b2a36cdfeee4dfe93a59e5962e849f" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/suzuki-1977.pdf">
+        <title>Suzuki 1977</title>
+      </leaf>
+      <leaf ID="ID00251078" application-version="PDF 1.7" checksum="d94aec911c383898774d4a540c6dcdc0" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/suzuki-1985.pdf">
+        <title>Suzuki 1985</title>
+      </leaf>
+      <leaf ID="ID00251086" application-version="PDF 1.7" checksum="ad79adb8e5d3b7df32eaae1fe0136d73" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/valdivielso-2004.pdf">
+        <title>Valdivielso 2004</title>
+      </leaf>
+      <leaf ID="ID00251079" application-version="PDF 1.7" checksum="bb438a61a16521fb3e8872bf1097b84a" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/venitt-1987.pdf">
+        <title>Venitt 1987</title>
+      </leaf>
+      <leaf ID="ID00251013" application-version="PDF 1.7" checksum="7ae02567fa365a546996a8a3ab0aad15" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/verrips-2000.pdf">
+        <title>Verrips 2000 Brain</title>
+      </leaf>
+      <leaf ID="ID00251080" application-version="PDF 1.7" checksum="8923ddd21adc72c33ba522d8f4b77884" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/von-bahr-2005.pdf">
+        <title>Von Bahr 2005</title>
+      </leaf>
+      <leaf ID="ID00251081" application-version="PDF 1.7" checksum="4b8e174c2f9e488a21c438489c584b8c" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/yahalom-2013.pdf">
+        <title>Yahalom 2013</title>
+      </leaf>
+    </m4-3-literature-references>
+  </m4-nonclinical-study-reports>
+
+  <m5-clinical-study-reports>
+    <m5-2-tabular-listing-of-all-clinical-studies>
+      <leaf ID="ID00253662" checksum="21fab5978e404329184ae38fb34c25e7" checksum-type="MD5" operation="new" xlink:href="m2/27-clin-sum/synopses-indiv-studies-listing.pdf">
+        <title>Tabular Listing of All Clinical Studies</title>
+      </leaf>
+    </m5-2-tabular-listing-of-all-clinical-studies>
+    <m5-3-clinical-study-reports>
+      <m5-3-5-reports-of-efficacy-and-safety-studies indication="CTX" xml:lang="en">
+        <m5-3-5-2-study-reports-of-uncontrolled-clinical-studies>
+          <node-extension ID="ID00252342">
+            <title>CDCA-STRCH-CR-14-001</title>
+            <leaf ID="ID00252321" application-version="PDF 1.7" checksum="f9c44db1ab4a4d0993987315dce56cc6" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-clinical-study-report-body.pdf">
+              <title>CDCA-STRCH-CR-14-001 Clinical Study Report Body</title>
+            </leaf>
+            <leaf ID="ID00252333" application-version="PDF 1.7" checksum="dc7760b74e05882e5968db4b6e2ddb06" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-protocol.pdf">
+              <title>CDCA-STRCH-CR-14-001 Protocol</title>
+            </leaf>
+            <leaf ID="ID00252337" application-version="PDF 1.7" checksum="86b5efd7a53f3725f208fd237c8aff4b" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-sample-case-report-form.pdf">
+              <title>CDCA-STRCH-CR-14-001 Sample CRF</title>
+            </leaf>
+            <leaf ID="ID00252324" application-version="PDF 1.7" checksum="9108ffce4bd1bf0e825cdf6e70862bd8" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-iec-irb-consent-form-list-en.pdf">
+              <title>CDCA-STRCH-CR-14-001 IEC and IRB and Consent Form Listings - English</title>
+            </leaf>
+            <leaf ID="ID00252325" application-version="PDF 1.7" checksum="1304e963611364c2e17c7d864d424c57" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-iec-irb-consent-form-list-it.pdf">
+              <title>CDCA-STRCH-CR-14-001 IEC and IRB and Consent Form Listings - Italian</title>
+            </leaf>
+            <leaf ID="ID00252328" application-version="PDF 1.7" checksum="68a710d817e052ccbc8e5eb32e76b4a1" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-list-description-investigator-site.pdf">
+              <title>CDCA-STRCH-CR-14-001 Description of Investigators and Sites</title>
+            </leaf>
+            <leaf ID="ID00252338" application-version="PDF 1.7" checksum="3fb7f426dfaa64be45ae58543e3c1ed1" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-signatures-investigators.pdf">
+              <title>CDCA-STRCH-CR-14-001 Signatures of principal or coordinating investigator or sponsors responsible officer</title>
+            </leaf>
+            <leaf ID="ID00252329" application-version="PDF 1.7" checksum="7df1e50561d10342b6bc0fddc51d216b" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-list-patients-with-batches.pdf">
+              <title>CDCA-STRCH-CR-14-001 Listing of patients receiving test drug(s) from specified batch</title>
+            </leaf>
+            <leaf ID="ID00252336" application-version="PDF 1.7" checksum="3ded88a0a4c2354b5ba11b9d89ad2b97" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-randomisation-scheme.pdf">
+              <title>CDCA-STRCH-CR-14-001 Randomisation Scheme</title>
+            </leaf>
+            <leaf ID="ID00252322" application-version="PDF 1.7" checksum="443dd8a40f0b4f384a9f9eb8adc3aad4" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-audit-certificates-report.pdf">
+              <title>CDCA-STRCH-CR-14-001 Audit Certificates or similar documentation</title>
+            </leaf>
+            <leaf ID="ID00252340" application-version="PDF 1.7" checksum="ebd1312664141b97f7e78d132fd27d89" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-statistical-methods-int-anal-plan.pdf">
+              <title>CDCA-STRCH-CR-14-001 Documentation of statistical methods and interim analysis plans - Observational study</title>
+            </leaf>
+            <leaf ID="ID00252339" application-version="PDF 1.7" checksum="8804c8bd6663163a91ac1109e1adc5f2" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-statistical-analysis.pdf">
+              <title>CDCA-STRCH-CR-14-001 Documentation of statistical methods and interim analysis plans - Statistical analysis</title>
+            </leaf>
+            <leaf ID="ID00252330" application-version="PDF 1.7" checksum="ebf7d694a2fcc849daf91fee6252fd6c" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-listings-statistical-analysis.pdf">
+              <title>CDCA-STRCH-CR-14-001 Documentation of statistical methods and interim analysis plans - Listing for statistical analysis</title>
+            </leaf>
+            <leaf ID="ID00252327" application-version="PDF 1.7" checksum="3f51314d840d3e5a8f873362289ba338" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-inter-laboratory-standardisation.pdf">
+              <title>CDCA-STRCH-CR-14-001 Documentation of Inter-laboratory Standardisation Methods and Quality Assurance or similar documentation</title>
+            </leaf>
+            <leaf ID="ID00252334" application-version="PDF 1.7" checksum="26ce15ad09cd2b270cd4070b3b165ef1" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-publications-based-on-study.pdf">
+              <title>CDCA-STRCH-CR-14-001 Publications Based on the Study</title>
+            </leaf>
+            <leaf ID="ID00252335" application-version="PDF 1.7" checksum="916683b09c2265d11b9bdb7d4fb8f8c8" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-publications-referenced-in-report.pdf">
+              <title>CDCA-STRCH-CR-14-001 Publications Referenced in the Study Report</title>
+            </leaf>
+            <leaf ID="ID00252332" application-version="PDF 1.7" checksum="0530afa709997444e35406191d8eaa3c" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-patient-data-listings.pdf">
+              <title>CDCA-STRCH-CR-14-001 Patient data listing</title>
+            </leaf>
+            <leaf ID="ID00252323" application-version="PDF 1.7" checksum="8c163e0c9b8efe03e7f36fec48fe1a1e" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-case-report-forms.pdf">
+              <title>CDCA-STRCH-CR-14-001 CRFs</title>
+            </leaf>
+            <leaf ID="ID00252331" application-version="PDF 1.7" checksum="8421221b07d7e7366659ea2efc46b176" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-other-crf.pdf">
+              <title>CDCA-STRCH-CR-14-001 Other CRFs</title>
+            </leaf>
+            <leaf ID="ID00252326" application-version="PDF 1.7" checksum="fbaf221b9b5707bd8a2e257a58b6227d" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-strch-cr-14-001/cdca-strch-cr-14-001-individual-patient-data-listings.pdf">
+              <title>CDCA-STRCH-CR-14-001 Individual patient data listings</title>
+            </leaf>
+          </node-extension>
+          <node-extension ID="ID00253641">
+            <title>CDCA-STUK-15-001</title>
+            <leaf ID="ID00253642" application-version="PDF 1.7" checksum="d8e6ba3ce0b1d417754b34cf85f807de" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-clinical-study-report-body.pdf">
+              <title>CDCA-STUK-15-001 Clinical Study Report Body</title>
+            </leaf>
+            <leaf ID="ID00253653" application-version="PDF 1.7" checksum="5fc6798604873ba7922a3f9660fe3027" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-protocol.pdf">
+              <title>CDCA-STUK-15-001 Protocol</title>
+            </leaf>
+            <leaf ID="ID00253657" application-version="PDF 1.7" checksum="23b58e785c745950c8f66d3f77cc81ef" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-sample-case-report-form.pdf">
+              <title>CDCA-STUK-15-001 Sample CRF</title>
+            </leaf>
+            <leaf ID="ID00253646" application-version="PDF 1.7" checksum="8696453849a328729edd2568876b2a7b" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-iec-irb-consent-form-list.pdf">
+              <title>CDCA-STUK-15-001 IEC and IRB Consent Form Listings</title>
+            </leaf>
+            <leaf ID="ID00253649" application-version="PDF 1.7" checksum="4d80088cefa85f4e5b8f8bb7799f077b" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-list-description-investigator-site.pdf">
+              <title>CDCA-STUK-15-001 Description of Investigators and Sites</title>
+            </leaf>
+            <leaf ID="ID00253658" application-version="PDF 1.7" checksum="636ead895a440abd2c6e2be0fdfe1671" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-signatures-investigators.pdf">
+              <title>CDCA-STUK-15-001 Signatures of principal or coordinating investigator or sponsors responsible officer</title>
+            </leaf>
+            <leaf ID="ID00253650" application-version="PDF 1.7" checksum="45e86b67ba6fc0e8eb111f471063406e" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-list-patients-with-batches.pdf">
+              <title>CDCA-STUK-15-001 Listing of patients receiving test drug(s) from specified batch</title>
+            </leaf>
+            <leaf ID="ID00253656" application-version="PDF 1.7" checksum="b43a0dc6461769be5d3bf605bbea6f03" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-randomisation-scheme.pdf">
+              <title>CDCA-STUK-15-001 Randomisation Scheme</title>
+            </leaf>
+            <leaf ID="ID00253644" application-version="PDF 1.7" checksum="e44b5300bf28c692c1f6244efe0b5027" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-audit-certificates-report.pdf">
+              <title>CDCA-STUK-15-001 Audit Certificates or similar documentation</title>
+            </leaf>
+            <leaf ID="ID00253659" application-version="PDF 1.7" checksum="77a8ae2eae3b5a656f6c954cbdf96048" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-statistical-methods-interim-analysis-plan.pdf">
+              <title>CDCA-STUK-15-001 Documentation of statistical methods and interim analysis plans - Observational study</title>
+            </leaf>
+            <leaf ID="ID00253648" application-version="PDF 1.7" checksum="b9ad21f2629caba296353d14263077c4" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-inter-laboratory-standardisation.pdf">
+              <title>CDCA-STUK-15-001 Documentation of Inter-laboratory Standardisation Methods and Quality Assurance or similar documentation</title>
+            </leaf>
+            <leaf ID="ID00253654" application-version="PDF 1.7" checksum="3035af20d9474b2a39816662cd29beb3" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-publications-based-on-study.pdf">
+              <title>CDCA-STUK-15-001 Publications Based on the Study</title>
+            </leaf>
+            <leaf ID="ID00253655" application-version="PDF 1.7" checksum="d7fb075f7e52101026b02404f96ff2ef" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-publications-referenced-in-report.pdf">
+              <title>CDCA-STUK-15-001 Publications Referenced in the Study Report</title>
+            </leaf>
+            <leaf ID="ID00253652" application-version="PDF 1.7" checksum="bfb421d8a41f44f22fd1ee547e1a7c22" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-patient-data-listings.pdf">
+              <title>CDCA-STUK-15-001 Patient data listing</title>
+            </leaf>
+            <leaf ID="ID00253645" application-version="PDF 1.7" checksum="47f57cb54613c5b17b45fcea56ec4208" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-case-report-forms.pdf">
+              <title>CDCA-STUK-15-001 CRFs</title>
+            </leaf>
+            <leaf ID="ID00253651" application-version="PDF 1.7" checksum="dc63aef4a86507965b00971764f2a5ce" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-other-crf.pdf">
+              <title>CDCA-STUK-15-001 Other CRFs</title>
+            </leaf>
+            <leaf ID="ID00253647" application-version="PDF 1.7" checksum="67f84b2b10caec8a76471d764cc32dd5" checksum-type="MD5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/ctx/5352-stud-rep-uncontr/cdca-stuk-15-001/cdca-stuk-15-001-individual-patient-data-listings.pdf">
+              <title>CDCA-STUK-15-001 Individual patient data listings</title>
+            </leaf>
+          </node-extension>
+        </m5-3-5-2-study-reports-of-uncontrolled-clinical-studies>
+      </m5-3-5-reports-of-efficacy-and-safety-studies>
+    </m5-3-clinical-study-reports>
+    <m5-4-literature-references>
+      <leaf ID="ID00250864" application-version="PDF 1.7" checksum="d23b44d0dc87846a8e6b5b8fdf1f5540" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/agrawal-2012.pdf">
+        <title>Agrawal 2012</title>
+      </leaf>
+      <leaf ID="ID00253663" application-version="PDF 1.7" checksum="437a809d8a8faf074832d3766b36442b" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/ahmed-2013.pdf">
+        <title>Ahmed 2013</title>
+      </leaf>
+      <leaf ID="ID00253664" application-version="PDF 1.7" checksum="3fe33de1cd742778d021a5778e86ca42" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/akobeng-1999.pdf">
+        <title>Akobeng 1999</title>
+      </leaf>
+      <leaf ID="ID00250865" application-version="PDF 1.7" checksum="c33d739920f4268414b01d2db34c13f0" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bajaj-2013.pdf">
+        <title>Bajaj 2013</title>
+      </leaf>
+      <leaf ID="ID00250866" application-version="PDF 1.7" checksum="7531da0283bbd4af51fdd168f421f705" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/ballantyne-1987.pdf">
+        <title>Ballantyne 1987</title>
+      </leaf>
+      <leaf ID="ID00250867" application-version="PDF 1.7" checksum="13de7b0328fb8e29db9af442b4e28173" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/barkhof-2000.pdf">
+        <title>Barkhof 2000</title>
+      </leaf>
+      <leaf ID="ID00250868" application-version="PDF 1.7" checksum="b5aec6b0c0fad22c2d05ae2e3904dff2" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bartholdi-2004.pdf">
+        <title>Bartholdi 2004</title>
+      </leaf>
+      <leaf ID="ID00250869" application-version="PDF 1.7" checksum="c217edb39871af828e3656de4686569a" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/batta-1985.pdf">
+        <title>Batta 1985</title>
+      </leaf>
+      <leaf ID="ID00250870" application-version="PDF 1.7" checksum="271efd8ae5415e0eebc7936534791ed0" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/batta-1987.pdf">
+        <title>Batta 1987</title>
+      </leaf>
+      <leaf ID="ID00253683" application-version="PDF 1.7" checksum="4f4c5eb388bccf6ddaef35a2b1ce04b5" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/batta-2004.pdf">
+        <title>Batta 2004</title>
+      </leaf>
+      <leaf ID="ID00250871" application-version="PDF 1.7" checksum="9803fc39a85e1ae6f455e7ca1b0f0d6d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bel-2001.pdf">
+        <title>Bel 2001</title>
+      </leaf>
+      <leaf ID="ID00250872" application-version="PDF 1.7" checksum="adf48b6b2eda3d069f91ebd894ec7d05" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bencze-1990.pdf">
+        <title>Bencze 1990</title>
+      </leaf>
+      <leaf ID="ID00250873" application-version="PDF 1.7" checksum="db7c5374be33e3d52b064b47e339d396" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/beppu-1982.pdf">
+        <title>Beppu 1982</title>
+      </leaf>
+      <leaf ID="ID00250874" application-version="PDF 1.7" checksum="f58a237fd8cf3c5f0414ce0f73c79266" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/berginer-1982.pdf">
+        <title>Berginer 1982</title>
+      </leaf>
+      <leaf ID="ID00250875" application-version="PDF 1.7" checksum="9e5b3f767602d91c53a688c0e96bc6b8" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/berginer-1984.pdf">
+        <title>Berginer 1984</title>
+      </leaf>
+      <leaf ID="ID00253665" application-version="PDF 1.7" checksum="6f807e5dad0e20c9022e809b690bba76" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/berginer-1988-1.pdf">
+        <title>Berginer 1988</title>
+      </leaf>
+      <leaf ID="ID00250876" application-version="PDF 1.7" checksum="50f2d2a2ba1a45fb21bf40118966bcb6" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/berginer-1988-2.pdf">
+        <title>Berginer 1988</title>
+      </leaf>
+      <leaf ID="ID00250877" application-version="PDF 1.7" checksum="74bfba6100e5c729eb4a03fcb26d915e" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/berginer-1994.pdf">
+        <title>Berginer 1994</title>
+      </leaf>
+      <leaf ID="ID00250878" application-version="PDF 1.7" checksum="cdcd7577a32af3c599e9fbd3a8caec74" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/berginer-2009.pdf">
+        <title>Berginer 2009</title>
+      </leaf>
+      <leaf ID="ID00253697" checksum="f008de63967cbdc9f5d57229dd9ef595" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/bhattacharyya-2007.pdf">
+        <title>Bhattacharyya 2007</title>
+      </leaf>
+      <leaf ID="ID00250879" application-version="PDF 1.7" checksum="5a0b86ef610a0e56b2df385dcb081a41" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bhojwani-2010.pdf">
+        <title>Bhojwani 2010</title>
+      </leaf>
+      <leaf ID="ID00250880" application-version="PDF 1.7" checksum="b1b7d81a0599f8a9a396e9628cfe0a01" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bindl-2001.pdf">
+        <title>Bindl 2001</title>
+      </leaf>
+      <leaf ID="ID00250881" application-version="PDF 1.7" checksum="96196079caa7e7fe77297e0fd4e89748" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bjorkhem-1981.pdf">
+        <title>Bjorkhem 1981</title>
+      </leaf>
+      <leaf ID="ID00250882" application-version="PDF 1.7" checksum="1ea328cd4b07feafa7987781d6f9178b" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bjorkhem-1983.pdf">
+        <title>Bjorkhem 1983</title>
+      </leaf>
+      <leaf ID="ID00250884" application-version="PDF 1.7" checksum="09ad3e4a7057d228083eab25481267da" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bjorkhem-1987.pdf">
+        <title>Bjorkhem 1987</title>
+      </leaf>
+      <leaf ID="ID00250885" application-version="PDF 1.7" checksum="2d4f698f0d17d5503a2a8e1afecd2d9c" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bonnot-2010.pdf">
+        <title>Bonnot 2010</title>
+      </leaf>
+      <leaf ID="ID00250886" application-version="PDF 1.7" checksum="1e027ace83e3582676854f0f39b316ee" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bouwes-bavinck-1986.pdf">
+        <title>Bouwes Bavinck 1986</title>
+      </leaf>
+      <leaf ID="ID00250887" application-version="PDF 1.7" checksum="5eb0ed6893c99420018278f7265db228" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/burnett-2001.pdf">
+        <title>Burnett 2001</title>
+      </leaf>
+      <leaf ID="ID00253703" application-version="PDF 1.7" checksum="2d241630ed2ff2cdc3f4d33da1636b90" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/cali-1991.pdf">
+        <title>Cali 1991</title>
+      </leaf>
+      <leaf ID="ID00250888" application-version="PDF 1.7" checksum="d1a3a9d75434445c23623cc95bc5d54f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/caroppo-2012.pdf">
+        <title>Caroppo 2012</title>
+      </leaf>
+      <leaf ID="ID00250889" application-version="PDF 1.7" checksum="1b3b376105afa6c4b28f0a6efe654e64" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/cerquiera-2010.pdf">
+        <title>Cerquiera 2010</title>
+      </leaf>
+      <leaf ID="ID00250890" application-version="PDF 1.7" checksum="dd7e5e545d66be756b18117e63400a4b" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/chang-2010.pdf">
+        <title>Chang 2010</title>
+      </leaf>
+      <leaf ID="ID00250891" application-version="PDF 1.7" checksum="0ff5f051f1e67faaf5aa7df5d082c99c" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/chen-1998.pdf">
+        <title>Chen 1998</title>
+      </leaf>
+      <leaf ID="ID00250892" application-version="PDF 1.7" checksum="56c171ca4de733ce2e3aa35ab4d8297d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/chen-2011.pdf">
+        <title>Chen 2011</title>
+      </leaf>
+      <leaf ID="ID00250893" application-version="PDF 1.7" checksum="538731f5fe0df6ec570decb1e0e3c6a9" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/chudley-2012.pdf">
+        <title>Chudley 2012</title>
+      </leaf>
+      <leaf ID="ID00250894" application-version="PDF 1.7" checksum="4b68149436c483b47509fd425b1d68ba" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/clarenbach-2005.pdf">
+        <title>Clarenbach 2005</title>
+      </leaf>
+      <leaf ID="ID00253704" application-version="PDF 1.7" checksum="1eaaa79e0d763556ac382520f378e4df" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/clayton-2002.pdf">
+        <title>Clayton 2002</title>
+      </leaf>
+      <leaf ID="ID00250895" application-version="PDF 1.7" checksum="f9b7d7843d55b475525d6db574151e7b" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/clemen-2005.pdf">
+        <title>Clemen 2005</title>
+      </leaf>
+      <leaf ID="ID00250896" application-version="PDF 1.7" checksum="05cc9ad20c078f47828f8a1eec02c00c" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/cruysberg-1995.pdf">
+        <title>Cruysberg 1995</title>
+      </leaf>
+      <leaf ID="ID00253666" application-version="PDF 1.7" checksum="305ee148aeae018ac3593d406409bf9b" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/dai-2014.pdf">
+        <title>Dai 2014</title>
+      </leaf>
+      <leaf ID="ID00253702" checksum="ff1602130ae1e05261b9b9b72f819d2c" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/de-aguair-vallim-2013.pdf">
+        <title>De Aguair Vallim 2013</title>
+      </leaf>
+      <leaf ID="ID00250897" application-version="PDF 1.7" checksum="57207f1cf016fded5925e45a8a93cf3f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/desain-vandervelden-2008.pdf">
+        <title>De Sain - Van Der Velden 2008</title>
+      </leaf>
+      <leaf ID="ID00250898" application-version="PDF 1.7" checksum="7f1e6c99d0972c7e74f6fe7dbaa294d2" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/destefano-2001.pdf">
+        <title>De Stefano 2001</title>
+      </leaf>
+      <leaf ID="ID00250899" application-version="PDF 1.7" checksum="40ed62d03612e140b8ba8320dce8c656" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/donaghy-1990.pdf">
+        <title>Donaghy 1990</title>
+      </leaf>
+      <leaf ID="ID00250900" application-version="PDF 1.7" checksum="c85af6bd2aecb63df8e40f1135585e0d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/dotti-2004.pdf">
+        <title>Dotti 2004</title>
+      </leaf>
+      <leaf ID="ID00253705" application-version="PDF 1.7" checksum="25a3a5d5c3c2f2d19b4e6d251cb3cfa8" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/einarsson-2001.pdf">
+        <title>Einarsson 2001</title>
+      </leaf>
+      <leaf ID="ID00250901" application-version="PDF 1.7" checksum="ead3b88dbe833d090fe926f36a5865ba" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/elhusseiny-2010.pdf">
+        <title>Elhusseiny 2010</title>
+      </leaf>
+      <leaf ID="ID00250902" application-version="PDF 1.7" checksum="39a8ad79bcc8fea17fbe971ed7e2ef2f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/elleder-1989.pdf">
+        <title>Elleder 1989</title>
+      </leaf>
+      <leaf ID="ID00253706" application-version="PDF 1.7" checksum="7ab255148ed346c3abc5711e398622ff" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/ellis-2003.pdf">
+        <title>Ellis 2003</title>
+      </leaf>
+      <leaf ID="ID00253686" application-version="PDF 1.7" checksum="acee433f257744d8fa7d6bdbb0ce7037" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/evans-1988.pdf">
+        <title>Evans 1988</title>
+      </leaf>
+      <leaf ID="ID00253677" application-version="PDF 1.7" checksum="9ee7d4b9554b8e8149bee614fc263a48" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/eyskens-2003.pdf">
+        <title>Eyskens 2003</title>
+      </leaf>
+      <leaf ID="ID00253667" application-version="PDF 1.7" checksum="c148e068d61a06bfb7e3812e15f797eb" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/falikzaccai-2008.pdf">
+        <title>Falikzaccai 2008</title>
+      </leaf>
+      <leaf ID="ID00253707" application-version="PDF 1.7" checksum="71b3d09a783b908e354bf232636f8e6f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/federico-1993.pdf">
+        <title>Federico 1993</title>
+      </leaf>
+      <leaf ID="ID00253708" application-version="PDF 1.7" checksum="2b1fa60032de0ba3164f10c75a7d3f4a" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/federico-2001.pdf">
+        <title>Federico 2001</title>
+      </leaf>
+      <leaf ID="ID00250903" application-version="PDF 1.7" checksum="8482f5327801cead768a21271c4df64f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/federico-2003.pdf">
+        <title>Federico 2003</title>
+      </leaf>
+      <leaf ID="ID00253698" checksum="4147f47883d15050e1f1aaa01b2bb85b" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/federico-2013.pdf">
+        <title>Federico 2013</title>
+      </leaf>
+      <leaf ID="ID00250904" application-version="PDF 1.7" checksum="e602373ba4152d9b48eceed4d7ffc39e" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/ferrandiz-pulido-2009.pdf">
+        <title>Ferrandiz - Pulido 2009</title>
+      </leaf>
+      <leaf ID="ID00253678" application-version="PDF 1.7" checksum="d65e3d4cf482ad7351085dffd388ade0" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/fleck-1984.pdf">
+        <title>Fleck 2000</title>
+      </leaf>
+      <leaf ID="ID00250905" checksum="f95ee8a9407e095ec8a4ef92c4df473f" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/fraidakis-2013.pdf">
+        <title>Fraidakis 2013</title>
+      </leaf>
+      <leaf ID="ID00250906" application-version="PDF 1.7" checksum="3be5cb01ddc9f88101d69c57b00b43c0" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/fujiyama-1991.pdf">
+        <title>Fujiyama 1991</title>
+      </leaf>
+      <leaf ID="ID00253688" application-version="PDF 1.7" checksum="7a4b0fc74ca05f0cf27b9096db746d26" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/fujiyama-2001.pdf">
+        <title>Fujiyama 2001</title>
+      </leaf>
+      <leaf ID="ID00250907" application-version="PDF 1.7" checksum="a4b6956ab222d673404029acf2801a9a" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/gallus-2006.pdf">
+        <title>Gallus 2006</title>
+      </leaf>
+      <leaf ID="ID00250908" application-version="PDF 1.7" checksum="c45a6d0c27812be834433a5a731a5e22" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/garuti-1996.pdf">
+        <title>Garuti 1996</title>
+      </leaf>
+      <leaf ID="ID00250909" application-version="PDF 1.7" checksum="225dafc75ec66ab4ecca540384a4382c" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/ginanneschi-2013.pdf">
+        <title>Ginanneschi 2013</title>
+      </leaf>
+      <leaf ID="ID00250910" application-version="PDF 1.7" checksum="fbbd137c0cc9e16522729cbf9baf573d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/gonzales-cuyar-2007.pdf">
+        <title>Gonzales-Cuyar 2007</title>
+      </leaf>
+      <leaf ID="ID00250911" application-version="PDF 1.7" checksum="ad7217304928c83c9f27db159bda94e0" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/guerrera-2010.pdf">
+        <title>Guerrera 2010</title>
+      </leaf>
+      <leaf ID="ID00250912" application-version="PDF 1.7" checksum="1a018ebdc7083eb3f47c312dfe8faac8" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/guyant-marechal-2005.pdf">
+        <title>Guyant-Marechal 2005</title>
+      </leaf>
+      <leaf ID="ID00250913" application-version="PDF 1.7" checksum="87879150a60804f6f888ce6ad0e3e73f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/halder-2013.pdf">
+        <title>Halder 2013</title>
+      </leaf>
+      <leaf ID="ID00253668" application-version="PDF 1.7" checksum="c269e7db9e521b1537ea6728ac8aea55" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/heubi-2007.pdf">
+        <title>Heubi 2007</title>
+      </leaf>
+      <leaf ID="ID00250914" application-version="PDF 1.7" checksum="79ec174dd852d58a44eee90f1581b184" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/honda-2001.pdf">
+        <title>Honda 2001</title>
+      </leaf>
+      <leaf ID="ID00250915" application-version="PDF 1.7" checksum="a92f26ceaeb67fad4bf478dbf7194c1b" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/honda-2005.pdf">
+        <title>Honda 2005</title>
+      </leaf>
+      <leaf ID="ID00253669" application-version="PDF 1.7" checksum="cd2c987ac03a9593a8f0d2d9688dd79d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/horslen-1992.pdf">
+        <title>Horslen 1992</title>
+      </leaf>
+      <leaf ID="ID00250916" application-version="PDF 1.7" checksum="37d5389b7931ffa689fff13eb6300d7a" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/hoshita-1980.pdf">
+        <title>Hoshita 1980</title>
+      </leaf>
+      <leaf ID="ID00253670" application-version="PDF 1.7" checksum="61d7a507db146d84cfe658d848a5ba00" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/huidekoper-2015.pdf">
+        <title>Huidekoper 2015</title>
+      </leaf>
+      <leaf ID="ID00253671" application-version="PDF 1.7" checksum="4f215dfbea7ba5cfde9200f25ccb8933" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/ichimiya-1990.pdf">
+        <title>Ichimiya 1990</title>
+      </leaf>
+      <leaf ID="ID00250917" application-version="PDF 1.7" checksum="420478fbd4083239a3dd487f05709fed" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/inglese-2003.pdf">
+        <title>Inglese 2003</title>
+      </leaf>
+      <leaf ID="ID00253709" application-version="PDF 1.7" checksum="efa7180a0e7a2420b8d7cf4186a3ee82" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/innoue-1999.pdf">
+        <title>Innoue 1999</title>
+      </leaf>
+      <leaf ID="ID00250918" application-version="PDF 1.7" checksum="63ef00b8376a7d999bfd4aa578b04130" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/isenhardt-2005.pdf">
+        <title>Isenhardt 2005</title>
+      </leaf>
+      <leaf ID="ID00253696" checksum="ac00f0339a3caa1c6dc86aa1f23170b6" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/iser-1981.pdf">
+        <title>Iser 1981</title>
+      </leaf>
+      <leaf ID="ID00250919" application-version="PDF 1.7" checksum="a9cce5e9eebd1c91555bef15ca66b30f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/ito-2003.pdf">
+        <title>Ito 2003</title>
+      </leaf>
+      <leaf ID="ID00250920" application-version="PDF 1.7" checksum="890a6bd9f812b1004d327cfa6ebab6b8" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/jain-2013.pdf">
+        <title>Jain 2013</title>
+      </leaf>
+      <leaf ID="ID00250921" application-version="PDF 1.7" checksum="826c0945b9cee212308f9c0039f276ca" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/jayakrishnan-2009.pdf">
+        <title>Jayakrishnan 2009</title>
+      </leaf>
+      <leaf ID="ID00250922" application-version="PDF 1.7" checksum="fb8dcaac39d4e07e7c7e7ffc2d4c4a8b" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/kalina-2011.pdf">
+        <title>Kalina 2011</title>
+      </leaf>
+      <leaf ID="ID00250923" application-version="PDF 1.7" checksum="ebaba069b45a6922c03af588315a30b9" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/kamate-2010.pdf">
+        <title>Kamate 2010</title>
+      </leaf>
+      <leaf ID="ID00253689" application-version="PDF 1.7" checksum="3292b7ab7cf951fba3b89c782e1670be" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/karnebeck-2012.pdf">
+        <title>Karnebeck 2012</title>
+      </leaf>
+      <leaf ID="ID00250924" application-version="PDF 1.7" checksum="7a6cc7e689633661e45c008d6545e993" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/kauffman-2012.pdf">
+        <title>Kauffman 2012</title>
+      </leaf>
+      <leaf ID="ID00250925" application-version="PDF 1.7" checksum="234580d031dea58eaee3220c25bc1782" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/khan-2013.pdf">
+        <title>Khan 2013</title>
+      </leaf>
+      <leaf ID="ID00250926" application-version="PDF 1.7" checksum="869b051a7108562f96ca5eb107e4a9e7" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/kihira-1986.pdf">
+        <title>Kihira 1986</title>
+      </leaf>
+      <leaf ID="ID00250927" application-version="PDF 1.7" checksum="0e0afb9633a5e0935814919980410718" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/kim-1994.pdf">
+        <title>Kim 1994</title>
+      </leaf>
+      <leaf ID="ID00250928" application-version="PDF 1.7" checksum="ca1d080f3a9f838a91d777e5412d4ec2" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/kimura-1982.pdf">
+        <title>Kimura 1982</title>
+      </leaf>
+      <leaf ID="ID00250929" application-version="PDF 1.7" checksum="21d7195f4d112363dfb4f3b4befd14b6" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/kinoshita-2004.pdf">
+        <title>Kinoshita 2004</title>
+      </leaf>
+      <leaf ID="ID00253679" application-version="PDF 1.7" checksum="f5bb14ae36800a9b45196e62cc67e4d6" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/koopman-1983.pdf">
+        <title>Koopman 1983</title>
+      </leaf>
+      <leaf ID="ID00250935" application-version="PDF 1.7" checksum="63ac6d7375ab7400e9cb7f42fe8dc3d4" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/koopman-vandermolen-1984.pdf">
+        <title>Koopman, van der Molen et al 1984</title>
+      </leaf>
+      <leaf ID="ID00250936" application-version="PDF 1.7" checksum="b16f59a9e55373a8853b7d8dd0d84c41" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/koopman-wolthers-1984.pdf">
+        <title>Koopman, Wolthers et al 1984</title>
+      </leaf>
+      <leaf ID="ID00250930" application-version="PDF 1.7" checksum="7682903d7bf2d1df333b86dd5086b894" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/koopman-1985.pdf">
+        <title>Koopman 1985</title>
+      </leaf>
+      <leaf ID="ID00250931" application-version="PDF 1.7" checksum="2bb4bc17d286f0a0bd1b4814622b65e0" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/koopman-1986.pdf">
+        <title>Koopman 1986</title>
+      </leaf>
+      <leaf ID="ID00250932" application-version="PDF 1.7" checksum="eb07bc13b3e62ea48b0b01e9c1ba650f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/koopman-1987-clin-chem.pdf">
+        <title>Koopman 1987 Clin Chem</title>
+      </leaf>
+      <leaf ID="ID00250933" application-version="PDF 1.7" checksum="81c243421df956fbd7212aed5680cc93" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/koopman-1987-clin-neurol.pdf">
+        <title>Koopman 1987 Clin Neurol</title>
+      </leaf>
+      <leaf ID="ID00250937" application-version="PDF 1.7" checksum="b8fe2aabfc677cf27e397f0cc4deff83" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/koopman-wolthers-1987.pdf">
+        <title>Koopman 1987 BBA</title>
+      </leaf>
+      <leaf ID="ID00250934" application-version="PDF 1.7" checksum="a52cc89ab94cf3053663ec84ac02c979" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/koopman-1988.pdf">
+        <title>Koopman 1988</title>
+      </leaf>
+      <leaf ID="ID00250938" application-version="PDF 1.7" checksum="0501a5db0383bb64e663e23d3e08caeb" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/kuriyama-1991-jlipres.pdf">
+        <title>Kuriyama 1991 J.LipRes</title>
+      </leaf>
+      <leaf ID="ID00250939" application-version="PDF 1.7" checksum="d632b6f0c3dd965eedd74292d38269d6" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/kuriyama-1991-jneusci.pdf">
+        <title>Kuriyama 1991 J.NeuSci</title>
+      </leaf>
+      <leaf ID="ID00250940" application-version="PDF 1.7" checksum="5732971791df85aeed3bd7827b64cc16" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/lagarde-2012.pdf">
+        <title>Lagarde 2012</title>
+      </leaf>
+      <leaf ID="ID00250941" application-version="PDF 1.7" checksum="3396cb9952d4c467be4a82d706549a14" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/lamon-fava-2002.pdf">
+        <title>Lamon-Fava 2002</title>
+      </leaf>
+      <leaf ID="ID00250942" application-version="PDF 1.7" checksum="20790138bdf6aa5ad0e2992d183e1a7e" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/lange-2004.pdf">
+        <title>Lange 2004</title>
+      </leaf>
+      <leaf ID="ID00250943" application-version="PDF 1.7" checksum="902889f659d3b4b42f7856c55d8d0894" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/lee-2002.pdf">
+        <title>Lee 2002</title>
+      </leaf>
+      <leaf ID="ID00250944" application-version="PDF 1.7" checksum="f5477417ada1d1671d6b103a805cf243" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/leitersdorf-1993.pdf">
+        <title>Leitersdorf 1993</title>
+      </leaf>
+      <leaf ID="ID00253699" checksum="dde49dc002cabbe92916db62966dbb73" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/leitersdorf-1994.pdf">
+        <title>Leitersdorf 1994</title>
+      </leaf>
+      <leaf ID="ID00253710" application-version="PDF 1.7" checksum="abed3d098011f6dd1d82d42f8acecfaa" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/liu-2014.pdf">
+        <title>Liu 2014</title>
+      </leaf>
+      <leaf ID="ID00253680" application-version="PDF 1.7" checksum="efb94931475ec8d13acf9f5ba77489b0" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/lorincz-2005.pdf">
+        <title>Lorincz 2005</title>
+      </leaf>
+      <leaf ID="ID00250945" application-version="PDF 1.7" checksum="b3568cef72034f27ce2a430ec7a164c8" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/luyckx-2013.pdf">
+        <title>Luyckx 2013</title>
+      </leaf>
+      <leaf ID="ID00250946" application-version="PDF 1.7" checksum="cd032081c8bdbc1de515858d7acbdece" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/martini-2013.pdf">
+        <title>Martini 2013</title>
+      </leaf>
+      <leaf ID="ID00250947" application-version="PDF 1.7" checksum="b6e21412845f620844cf0625138200f9" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/matysik-2011.pdf">
+        <title>Matysik 2011</title>
+      </leaf>
+      <leaf ID="ID00250948" application-version="PDF 1.7" checksum="a5f09858e3b6704190138f7823d9e569" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/mckinnon-2012.pdf">
+        <title>Mckinnon 2012</title>
+      </leaf>
+      <leaf ID="ID00250949" application-version="PDF 1.7" checksum="477b7e323e2b5adb428e52832a292475" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/menkes-1968.pdf">
+        <title>Menkes 1968</title>
+      </leaf>
+      <leaf ID="ID00250950" application-version="PDF 1.7" checksum="29cbde11e3b7c7dd6797baa6557ab2ad" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/metha-2008.pdf">
+        <title>Metha 2008</title>
+      </leaf>
+      <leaf ID="ID00250951" application-version="PDF 1.7" checksum="1a50b2784815dc331a44cd7b2172a43e" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/mignarri-2011.pdf">
+        <title>Mignarri 2011</title>
+      </leaf>
+      <leaf ID="ID00253711" application-version="PDF 1.7" checksum="bc2efc7835a54d44c8c0cf98bab6d12a" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/mignarri-2014.pdf">
+        <title>Mignarri 2014</title>
+      </leaf>
+      <leaf ID="ID00253690" application-version="PDF 1.7" checksum="693820f0aea75ca6e5791461dbcbb0b1" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/mignarri-2015.pdf">
+        <title>Mignarri 2015</title>
+      </leaf>
+      <leaf ID="ID00250952" application-version="PDF 1.7" checksum="01ad04b948e96d51e78360e907ea1c28" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/mimura-1993.pdf">
+        <title>Mimura 1993</title>
+      </leaf>
+      <leaf ID="ID00253712" application-version="PDF 1.7" checksum="738de0ffae74dd98d2c106d94256b444" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/mitro-2007.pdf">
+        <title>Mitro 2007</title>
+      </leaf>
+      <leaf ID="ID00253672" application-version="PDF 1.7" checksum="944381b3603b2665f4382666bec5219f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/mizuochi-2010.pdf">
+        <title>Mizuochi 2010</title>
+      </leaf>
+      <leaf ID="ID00253713" application-version="PDF 1.7" checksum="be48b6a91ef17ed2f9537f3631ec6ab1" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/modica-2010.pdf">
+        <title>Modica 2010</title>
+      </leaf>
+      <leaf ID="ID00253700" checksum="afb3c11ebe581eb00e530cd7b1ce3b92" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/moghadasian-2002.pdf">
+        <title>Moghadasian 2002</title>
+      </leaf>
+      <leaf ID="ID00250953" application-version="PDF 1.7" checksum="6b53602311ec0a63102843eb97eec484" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/mondelli-1992.pdf">
+        <title>Mondelli 1992</title>
+      </leaf>
+      <leaf ID="ID00250954" application-version="PDF 1.7" checksum="890970c31a4b0e2c5b36f35000ed6d79" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/mondelli-2001.pdf">
+        <title>Mondelli 2001</title>
+      </leaf>
+      <leaf ID="ID00250955" checksum="051efe0a75d6a7715672281c8fdcc82b" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/monson-2011.pdf">
+        <title>Monson 2011</title>
+      </leaf>
+      <leaf ID="ID00250956" application-version="PDF 1.7" checksum="3567f752fef8b30b1a76481f6ee72c79" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/morgan-1985.pdf">
+        <title>Morgan 1985</title>
+      </leaf>
+      <leaf ID="ID00250957" application-version="PDF 1.7" checksum="9ef60d8d9e1c45426f5922c869066d1d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/muhammed-2006.pdf">
+        <title>Muhammed 2006</title>
+      </leaf>
+      <leaf ID="ID00250958" application-version="PDF 1.7" checksum="05243e75d7be38782a2a6d24ca3edad9" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/mukherjee-2007.pdf">
+        <title>Mukherjee 2007</title>
+      </leaf>
+      <leaf ID="ID00250959" application-version="PDF 1.7" checksum="05a44bcd9677a196dd7ca2ab22e8ad8d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/nakamura-1991.pdf">
+        <title>Nakamura 1991</title>
+      </leaf>
+      <leaf ID="ID00253673" application-version="PDF 1.7" checksum="89ee3e4108a17767c141d527dd5612ca" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/nie-2014.pdf">
+        <title>Nie 2014</title>
+      </leaf>
+      <leaf ID="ID00250960" application-version="PDF 1.7" checksum="97054a39c88c87c7eaedfffafee902f3" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/nozue-2010.pdf">
+        <title>Nozue 2010</title>
+      </leaf>
+      <leaf ID="ID00250961" application-version="PDF 1.7" checksum="843cc5c99d68596404c363c8e1b783f7" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/o-callaghan-2011.pdf">
+        <title>O'Callaghan 2011</title>
+      </leaf>
+      <leaf ID="ID00250962" application-version="PDF 1.7" checksum="67a772fbd4fbd2a1cc81ffc97a79d1d9" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/oftebro-1980.pdf">
+        <title>Oftebro 1980</title>
+      </leaf>
+      <leaf ID="ID00250963" application-version="PDF 1.7" checksum="914a23f63d5d7bb72a47db6ef204d993" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/ohshima-1994.pdf">
+        <title>Ohshima 1994</title>
+      </leaf>
+      <leaf ID="ID00250964" application-version="PDF 1.7" checksum="81af61a58410dec7de002eb7c5438eef" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/okuyama-1996.pdf">
+        <title>Okuyama 1996</title>
+      </leaf>
+      <leaf ID="ID00250965" application-version="PDF 1.7" checksum="e6e18f55b82ec7110c202c1dbedf2922" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/ostrowska-2011.pdf">
+        <title>Ostrowska 2011</title>
+      </leaf>
+      <leaf ID="ID00250966" application-version="PDF 1.7" checksum="0503fe56bbbc92e620dbe0b36ab1629d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/othman-1990.pdf">
+        <title>Othman 1990</title>
+      </leaf>
+      <leaf ID="ID00250967" application-version="PDF 1.7" checksum="a4181ccec1bf7e1e5964f7a4a72b6140" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/pedley-1985.pdf">
+        <title>Pedley 1985</title>
+      </leaf>
+      <leaf ID="ID00250968" application-version="PDF 1.7" checksum="fc34c5002c2c3a955eb09ce74bd317bb" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/peynet-1991.pdf">
+        <title>Peynet 1991</title>
+      </leaf>
+      <leaf ID="ID00253691" application-version="PDF 1.7" checksum="69d24c1ebc84fc95dc90cc3c60802554" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/philippart-1969.pdf">
+        <title>Philippart 1969</title>
+      </leaf>
+      <leaf ID="ID00250969" application-version="PDF 1.7" checksum="68ad3e8860b83789357a2eceaf731d99" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/pierre-2008.pdf">
+        <title>Pierre 2008</title>
+      </leaf>
+      <leaf ID="ID00250970" application-version="PDF 1.7" checksum="f817b76558efac9930392d7f973c1f1f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/pilodelafuente-2011.pdf">
+        <title>PilodelaFuente 2011</title>
+      </leaf>
+      <leaf ID="ID00253692" application-version="PDF 1.7" checksum="7491df1e262eba2826ce550914df5636" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/pitt-2014.pdf">
+        <title>Pitt 2014</title>
+      </leaf>
+      <leaf ID="ID00252315" application-version="PDF 1.7" checksum="258075701347f97a1fb38fa14afff243" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/ponz-1980.pdf">
+        <title>Ponz 1980</title>
+      </leaf>
+      <leaf ID="ID00250971" application-version="PDF 1.7" checksum="7b1c0ad2e55e263b61a6cbe2108938a5" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/price-evans-2007.pdf">
+        <title>Price Evans 2007</title>
+      </leaf>
+      <leaf ID="ID00250972" application-version="PDF 1.7" checksum="e50fb665c0ff4c6de910d2ac86dd9805" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/pudhiavan-2013.pdf">
+        <title>Pudhiavan 2013</title>
+      </leaf>
+      <leaf ID="ID00250973" application-version="PDF 1.7" checksum="a19aae5b63fc1e31d5b5452e72bf173f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/reshef-1994.pdf">
+        <title>Reshef 1994</title>
+      </leaf>
+      <leaf ID="ID00250974" application-version="PDF 1.7" checksum="994da293868951761a096f56b9e4f96c" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/restuccia-1992.pdf">
+        <title>Restuccia 1992</title>
+      </leaf>
+      <leaf ID="ID00250975" application-version="PDF 1.7" checksum="15725fb6f57d6aa61d9fc994d1b7fc0a" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/rohani-2012.pdf">
+        <title>Rohani 2012</title>
+      </leaf>
+      <leaf ID="ID00253693" application-version="PDF 1.7" checksum="fa607ff38074f9cfdc64cfdf7dabfd8b" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/rosenbery-2015.pdf">
+        <title>Rosenberg's Molecular and Genetic Basis of Neurological and Psychiatric Disease 2015</title>
+      </leaf>
+      <leaf ID="ID00250976" application-version="PDF 1.7" checksum="626180584d9057751aa036b144b643e2" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/rubio-agusti-2012.pdf">
+        <title>Rubio-Agusti 2012</title>
+      </leaf>
+      <leaf ID="ID00253694" application-version="PDF 1.7" checksum="49e91d16679dd7c5a09ab0ff9056dc77" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/russel-1992.pdf">
+        <title>Russel 1992</title>
+      </leaf>
+      <leaf ID="ID00253714" application-version="PDF 1.7" checksum="bc001d33fd9ea64ca1fd27c0ddb2aa8e" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/russel-2003.pdf">
+        <title>Russel 2003</title>
+      </leaf>
+      <leaf ID="ID00250977" application-version="PDF 1.7" checksum="f4f98c31d40df4ae4f3946f4ced4a6f4" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/rystedt-2002.pdf">
+        <title>Rystedt 2002</title>
+      </leaf>
+      <leaf ID="ID00250978" application-version="PDF 1.7" checksum="548a0651534fad809f3647c94c9438fe" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/salen-1971.pdf">
+        <title>Salen 1971</title>
+      </leaf>
+      <leaf ID="ID00250979" application-version="PDF 1.7" checksum="f85a483f0fa16b52ec43ee7be34333e8" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/salen-1973.pdf">
+        <title>Salen 1973</title>
+      </leaf>
+      <leaf ID="ID00250980" application-version="PDF 1.7" checksum="652caf5c7474b5785eb3d4678384d9f2" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/salen-1974.pdf">
+        <title>Salen 1974</title>
+      </leaf>
+      <leaf ID="ID00250981" application-version="PDF 1.7" checksum="abd212cc638a5a3d6fd601d7f88f5e6d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/salen-1975-jcinvest.pdf">
+        <title>Salen 1975 J Clin Invest</title>
+      </leaf>
+      <leaf ID="ID00250982" application-version="PDF 1.7" checksum="3a4b47d7c896e764ce442df5bb52a55c" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/salen-1975.pdf">
+        <title>Salen 1975 Biochemical Medicine</title>
+      </leaf>
+      <leaf ID="ID00250983" application-version="PDF 1.7" checksum="ea4308be17ec950eccfc6c6a1b9fe95a" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/salen-1979-jlipidres.pdf">
+        <title>Salen 1979 J Lip Res</title>
+      </leaf>
+      <leaf ID="ID00250984" application-version="PDF 1.7" checksum="8e40dc7363a679eb787fd553458da66c" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/salen-1979.pdf">
+        <title>Salen 1979 J Clin Invest</title>
+      </leaf>
+      <leaf ID="ID00250985" application-version="PDF 1.7" checksum="050c01b30390bb9f77af3bae915d826a" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/salen-1985.pdf">
+        <title>Salen 1985</title>
+      </leaf>
+      <leaf ID="ID00250986" application-version="PDF 1.7" checksum="3bc1aef1991934e09d7d597d4376ed9d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/salen-1987.pdf">
+        <title>Salen 1987</title>
+      </leaf>
+      <leaf ID="ID00253685" application-version="PDF 1.7" checksum="12d993e73e6f81e5d1ad7ce0ba1f748a" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/salen-1991.pdf">
+        <title>Salen 1991</title>
+      </leaf>
+      <leaf ID="ID00250987" application-version="PDF 1.7" checksum="c1ba49ab7bbc5f14c5aa450c162e66e7" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/salen-1994.pdf">
+        <title>Salen 1994</title>
+      </leaf>
+      <leaf ID="ID00250988" application-version="PDF 1.7" checksum="c4f9c48642db47d25734c22f3675c92f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/schneider-2010.pdf">
+        <title>Schneider 2010</title>
+      </leaf>
+      <leaf ID="ID00253681" application-version="PDF 1.7" checksum="baa9a1c818dc7bbd80299359f3bcbea5" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/schols-2006.pdf">
+        <title>Schols 2006</title>
+      </leaf>
+      <leaf ID="ID00250989" application-version="PDF 1.7" checksum="4f24b065d3cead291c41e17b08823235" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/seibner-1996.pdf">
+        <title>Seibner 1996</title>
+      </leaf>
+      <leaf ID="ID00250990" application-version="PDF 1.7" checksum="36f87c6ff593e54e6471cc0998b19086" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/seidel-2011.pdf">
+        <title>Seidel 2011</title>
+      </leaf>
+      <leaf ID="ID00250991" application-version="PDF 1.7" checksum="5ede88f357de748e095e029081c8b4ca" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/setoguchi-1974.pdf">
+        <title>Setoguchi 1974</title>
+      </leaf>
+      <leaf ID="ID00250992" application-version="PDF 1.7" checksum="1b8fcc668c415fff3931fe794ea61e53" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/shamely-1988.pdf">
+        <title>Shamely 1988</title>
+      </leaf>
+      <leaf ID="ID00250993" application-version="PDF 1.7" checksum="04256fb245a2aba52249e6fb41148c1e" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/shefer-1976.pdf">
+        <title>Shefer 1976</title>
+      </leaf>
+      <leaf ID="ID00250994" application-version="PDF 1.7" checksum="e63381c99f0318e9cf893c63dc7428c6" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/shimazu-1986.pdf">
+        <title>Shimazu 1986</title>
+      </leaf>
+      <leaf ID="ID00250995" application-version="PDF 1.7" checksum="907437902da3e126d65c1bce74854b3c" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/shugaiv-2013.pdf">
+        <title>Shugaiv 2013</title>
+      </leaf>
+      <leaf ID="ID00250996" application-version="PDF 1.7" checksum="7d0c338478fad227e38c5770ea0a8452" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/skrede-1985.pdf">
+        <title>Skrede 1985</title>
+      </leaf>
+      <leaf ID="ID00253695" application-version="PDF 1.7" checksum="5579b866dba23873e145e31dd246d53b" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/stamp-2008.pdf">
+        <title>Stamp 2008</title>
+      </leaf>
+      <leaf ID="ID00250997" application-version="PDF 1.7" checksum="c7d807040862a8105993d46786702969" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/su-2010.pdf">
+        <title>Su 2010</title>
+      </leaf>
+      <leaf ID="ID00253674" application-version="PDF 1.7" checksum="fa443a300a336d48f48eeb293af19b93" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/subramaniam-2010.pdf">
+        <title>Subramaniam 2010</title>
+      </leaf>
+      <leaf ID="ID00250998" application-version="PDF 1.7" checksum="3627ab65d5afcbc001f4276a6d0928ee" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/sugama-2001.pdf">
+        <title>Sugama 2001</title>
+      </leaf>
+      <leaf ID="ID00250999" application-version="PDF 1.7" checksum="d1ae822abb3ab4174778bef07fc58a72" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/suh-2012.pdf">
+        <title>Suh 2012</title>
+      </leaf>
+      <leaf ID="ID00251000" application-version="PDF 1.7" checksum="8a16c02dbd8e16095a623ef8a9eeb914" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/swartz-1982.pdf">
+        <title>Swartz 1982</title>
+      </leaf>
+      <leaf ID="ID00251001" application-version="PDF 1.7" checksum="fb7e15e40ba07d629d9544f4355a8b6d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/szalat-2007.pdf">
+        <title>Szalat 2007</title>
+      </leaf>
+      <leaf ID="ID00251002" application-version="PDF 1.7" checksum="dfd2ca0ef4aa3fadcc46a74a084217e4" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/teszas-2006.pdf">
+        <title>Teszas 2006</title>
+      </leaf>
+      <leaf ID="ID00253715" application-version="PDF 1.7" checksum="a7fa2d1b67b28d21fbdceb0dc61cf70f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/thomas-2008.pdf">
+        <title>Thomas 2008</title>
+      </leaf>
+      <leaf ID="ID00251003" application-version="PDF 1.7" checksum="73c9c353db5969564179ca8565252cd8" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/tint-1984.pdf">
+        <title>Tint 1984</title>
+      </leaf>
+      <leaf ID="ID00251004" application-version="PDF 1.7" checksum="76e9a23a64d091e190c8706e88559cda" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/tint-1989.pdf">
+        <title>Tint 1989</title>
+      </leaf>
+      <leaf ID="ID00251005" application-version="PDF 1.7" checksum="a5f36063129f9ea97a4bc0b8b9837176" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/tokimura-1992.pdf">
+        <title>Tokimura 1992</title>
+      </leaf>
+      <leaf ID="ID00251006" application-version="PDF 1.7" checksum="e2c6cb111f8e24233847669da1396760" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/torres-2010.pdf">
+        <title>Torres 2010</title>
+      </leaf>
+      <leaf ID="ID00251007" application-version="PDF 1.7" checksum="83ef5d550218efce9a54402f70296caa" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/vadapalli-2013.pdf">
+        <title>Vadapalli 2013</title>
+      </leaf>
+      <leaf ID="ID00251008" checksum="ad79adb8e5d3b7df32eaae1fe0136d73" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/valdivielso-2004.pdf">
+        <title>Valdvielso 2004</title>
+      </leaf>
+      <leaf ID="ID00251009" application-version="PDF 1.7" checksum="5e401f82d9293eef5d27b8a70eb55051" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/vanheijst-1996.pdf">
+        <title>Van Heijst 1996</title>
+      </leaf>
+      <leaf ID="ID00251010" application-version="PDF 1.7" checksum="b2d42cc62104617154cfb1670da7b815" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/vanheijst-1998.pdf">
+        <title>Van Heijst 1998</title>
+      </leaf>
+      <leaf ID="ID00253675" application-version="PDF 1.7" checksum="3dedfab922b1122d2c674f17e6a1861c" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/vankarnebeek-2012.pdf">
+        <title>Van Karnebeek 2012</title>
+      </leaf>
+      <leaf ID="ID00251011" application-version="PDF 1.7" checksum="e1e6a8fbe91fb1b5fcfb397950b4aaa2" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/verrips-1999.pdf">
+        <title>Verrips 1999</title>
+      </leaf>
+      <leaf ID="ID00253701" checksum="7ae02567fa365a546996a8a3ab0aad15" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/verrips-2000.pdf">
+        <title>Verrips 2000 Brain</title>
+      </leaf>
+      <leaf ID="ID00251012" application-version="PDF 1.7" checksum="ef636325909130908732f0fee9b409c1" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/verrips-2000-archneurol.pdf">
+        <title>Verrips 2000 Arch Neurol</title>
+      </leaf>
+      <leaf ID="ID00253676" application-version="PDF 1.7" checksum="7a8137bfcd02dfba2a70169d883e8cae" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/vonbahr-2005.pdf">
+        <title>Von Bahr 2005</title>
+      </leaf>
+      <leaf ID="ID00253682" application-version="PDF 1.7" checksum="6a4d5e872be278cea683caf206ac6aa3" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/vrielynck-2012.pdf">
+        <title>Vrielynck 2012</title>
+      </leaf>
+      <leaf ID="ID00251014" application-version="PDF 1.7" checksum="7d39ac027c659fc75195d36def06a9de" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/wakamatsu-1999.pdf">
+        <title>Wakamatsu 1999</title>
+      </leaf>
+      <leaf ID="ID00251015" application-version="PDF 1.7" checksum="ca6a87fff000fe3e6466db650b66e9a0" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/wang-1981.pdf">
+        <title>Wang 1981</title>
+      </leaf>
+      <leaf ID="ID00251016" application-version="PDF 1.7" checksum="2638d52d718bf07d0917f5b23ecf9d3d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/wani-2014.pdf">
+        <title>Wani 2014</title>
+      </leaf>
+      <leaf ID="ID00251017" application-version="PDF 1.7" checksum="8f6757ebb9ebe57d7a2c686bf90868d7" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/waterreus-1987.pdf">
+        <title>Waterreus 1987</title>
+      </leaf>
+      <leaf ID="ID00251018" application-version="PDF 1.7" checksum="814c88737422a6b186adebe45297b9b8" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/watts-1996.pdf">
+        <title>Watts 1996</title>
+      </leaf>
+      <leaf ID="ID00251019" application-version="PDF 1.7" checksum="afc4633ee7d705d647c26e8b18479bfa" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/white-1985.pdf">
+        <title>White 1985</title>
+      </leaf>
+      <leaf ID="ID00251020" application-version="PDF 1.7" checksum="ec1fd6a52287eb91b51173114426fb53" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/wolthers-1990.pdf">
+        <title>Wolthers 1990</title>
+      </leaf>
+      <leaf ID="ID00251021" application-version="PDF 1.7" checksum="947f1b7b0c86a5ddf315e968f4d578fe" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/yahalom-2013.pdf">
+        <title>Yahalom 2013</title>
+      </leaf>
+      <leaf ID="ID00253684" application-version="PDF 1.7" checksum="147e76a7450bdeebb1477e5b14bd991c" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/yoshinaga-2014.pdf">
+        <title>Yoshinaga 2014</title>
+      </leaf>
+    </m5-4-literature-references>
+  </m5-clinical-study-reports>
+
+</ectd:ectd>

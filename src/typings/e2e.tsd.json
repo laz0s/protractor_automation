@@ -1,0 +1,18 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "e2e",
+  "bundle": "e2e/tsd.d.ts",
+  "installed": {
+    "jasmine/jasmine.d.ts": {
+      "commit": "a0ee360d4751aa3fc928159d618442e208fd8b23"
+    },
+    "selenium-webdriver/selenium-webdriver.d.ts": {
+      "commit": "a0ee360d4751aa3fc928159d618442e208fd8b23"
+    },
+    "angular-protractor/angular-protractor.d.ts": {
+      "commit": "a0ee360d4751aa3fc928159d618442e208fd8b23"
+    }
+  }
+}

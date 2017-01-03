@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ectd:ectd SYSTEM "util/dtd/ich-ectd-3-2.dtd">
+<?xml-stylesheet type="text/xsl" href="util/style/ectd-2-0.xsl"?>
+<ectd:ectd xmlns:ectd="http://www.ich.org/ectd" xmlns:xlink="http://www.w3c.org/1999/xlink" dtd-version="3.2">
+  <m1-administrative-information-and-prescribing-information>
+    <leaf operation="new" xlink:href="m1/eu/eu-regional.xml" xlink:type="simple" checksum-type="md5" checksum="c6f407c24a868f9b43b45608edb2c9fb" ID="isieu89324">
+      <title>eu-regional</title>
+    </leaf>
+  </m1-administrative-information-and-prescribing-information>
+  <m2-common-technical-document-summaries>
+    <m2-3-quality-overall-summary>
+      <leaf operation="replace" modified-file="../0029/index.xml#isi-88782-1647584" xlink:href="m2/23-qos/drug-product-renewal.pdf" xlink:type="simple" checksum-type="md5" ID="isi-89324-1658878" application-version="PDF 1.4" checksum="3e5a81b60830d2f1c37fb470ac171988">
+        <title>drug-product-renewal</title>
+      </leaf>
+    </m2-3-quality-overall-summary>
+    <m2-5-clinical-overview>
+      <leaf operation="replace" modified-file="../0029/index.xml#isi-88782-1647587" xlink:href="m2/25-clin-over/clinical-overview-addendum.pdf" xlink:type="simple" checksum-type="md5" ID="isi-89324-1658879" application-version="PDF 1.4" checksum="d6831e017d37271dffba3b1bd7f68527">
+        <title>clinical-overview-addendum</title>
+      </leaf>
+    </m2-5-clinical-overview>
+  </m2-common-technical-document-summaries>
+</ectd:ectd>

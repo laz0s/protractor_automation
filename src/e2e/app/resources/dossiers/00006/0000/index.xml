@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="util/style/ectd-2-0.xsl" type="text/xsl"?>
+<!DOCTYPE ectd:ectd SYSTEM "util/dtd/ich-ectd-3-2.dtd">
+
+<ectd:ectd xmlns:ectd="http://www.ich.org/ectd" xmlns:xlink="http://www.w3c.org/1999/xlink" xml:lang="en" dtd-version="3.2">
+  <m1-administrative-information-and-prescribing-information>
+    <leaf ID="ID1243231" application-version="" version="" operation="new" checksum="f12aed5301392425b9b1a1fd5d3c1e27" checksum-type="MD5" xlink:href="m1/eu/eu-regional.xml">
+      <title>EU Regional Backbone</title>
+    </leaf>
+  </m1-administrative-information-and-prescribing-information>
+  <m2-common-technical-document-summaries>
+    <m2-3-quality-overall-summary>
+      <m2-3-s-drug-substance substance="Autologous Cultured Chondrocytes" manufacturer="Genzyme Biosurgery ApS">
+        <leaf ID="ID1241919" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1227645" checksum="82df7131ffd258551a57fd88e3dabd7d" checksum-type="MD5" xlink:href="m2/23-qos/drug-substance.pdf">
+          <title>Drug Substance</title>
+        </leaf>
+      </m2-3-s-drug-substance>
+      <m2-3-p-drug-product product-name="MACI" dosageform="implant 500 000 to 1 000 000 cells/cm2" manufacturer="Genzyme Biosurgery ApS">
+        <leaf ID="ID1241921" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1227646" checksum="39dcd271acf18fad0cc6a9ccf5635b6d" checksum-type="MD5" xlink:href="m2/23-qos/drug-product.pdf">
+          <title>Drug Product</title>
+        </leaf>
+      </m2-3-p-drug-product>
+    </m2-3-quality-overall-summary>
+    <m2-4-nonclinical-overview>
+      <leaf ID="ID1241890" application-version="PDF 1.4" version="" operation="new" checksum="94cbda0e5098629cdafb7a5177c35630" checksum-type="MD5" xlink:href="m2/24-nonclin-over/nonclinical-overview.pdf">
+        <title>Nonclinical Overview - Addendum</title>
+      </leaf>
+    </m2-4-nonclinical-overview>
+    <m2-5-clinical-overview>
+      <leaf ID="ID1241892" application-version="PDF 1.4" version="" operation="new" checksum="bf0352e8ef9cefff1dc1ffc1797affda" checksum-type="MD5" xlink:href="m2/25-clin-over/clinical-overview.pdf">
+        <title>Clinical Overview - Addendum</title>
+      </leaf>
+    </m2-5-clinical-overview>
+  </m2-common-technical-document-summaries>
+  <m3-quality>
+    <m3-2-body-of-data>
+      <m3-2-s-drug-substance substance="Autologous Cultured Chondrocytes" manufacturer="Genzyme Biosurgery ApS">
+        <m3-2-s-2-manufacture>
+          <m3-2-s-2-1-manufacturer>
+            <leaf ID="ID1241879" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1226795" checksum="f579c23a37aa939fa2a148d82156398d" checksum-type="MD5" xlink:href="m3/32-body-data/32s-drug-sub/autologous-cartilage/32s2-manuf/manufacturer.pdf">
+              <title>Manufacturer</title>
+            </leaf>
+          </m3-2-s-2-1-manufacturer>
+        </m3-2-s-2-manufacture>
+      </m3-2-s-drug-substance>
+      <m3-2-p-drug-product product-name="MACI" dosageform="implant 500 000 to 1 000 000 cells/cm2" manufacturer="Genzyme Biosurgery ApS">
+        <m3-2-p-3-manufacture>
+          <m3-2-p-3-1-manufacturers>
+            <leaf ID="ID1241881" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223954" checksum="e67b94cd1eaddccb9cbfc28165a9794e" checksum-type="MD5" xlink:href="m3/32-body-data/32p-drug-prod/maci/32p3-manuf/manufacturers.pdf">
+              <title>Manufacturers</title>
+            </leaf>
+          </m3-2-p-3-1-manufacturers>
+        </m3-2-p-3-manufacture>
+      </m3-2-p-drug-product>
+      <m3-2-r-regional-information>
+        <leaf ID="ID1241924" application-version="PDF 1.4" version="" operation="replace" modified-file="../0000/index.xml#ID1223765" checksum="76dd8398f0979980263266670a652b6e" checksum-type="MD5" xlink:href="m3/32-body-data/32r-reg-info/reg-info.pdf">
+          <title>Regional Information</title>
+        </leaf>
+      </m3-2-r-regional-information>
+    </m3-2-body-of-data>
+  </m3-quality>
+</ectd:ectd>
+

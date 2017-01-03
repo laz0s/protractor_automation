@@ -1,0 +1,102 @@
+{
+  "url": "http://localhost:3000",
+  "templates": {
+    "module": "app.templates",
+    "standalone": true
+  },
+  "globs": {
+    "all": "**/*.*",
+    "index": "index.html",
+    "js": "**/*.js",
+    "specjs": "**/*.spec.js",
+    "sourcemaps": "**/*.js.map",
+    "styles": "**/*.scss",
+    "stylesheet": "master.scss",
+    "templates": "**/*.tpl.html",
+    "ts": "**/*.ts",
+    "typings": "**/*.d.ts",
+    "translations": "po/*.po"
+  },
+  "sources": {
+    "root": "./src/",
+    "main": "./src/app/",
+    "unit": "./src/unit/",
+    "e2e": "./src/e2e/",
+    "i18n": "./src/i18n/",
+
+    "readme": "README.md"
+  },
+  "typings": {
+    "conf": "./src/typings/",
+    "main": "./src/typings/app/",
+    "unit": "./src/typings/unit/",
+    "e2e": "./src/typings/e2e/"
+  },
+  "assets": {
+    "images": {
+        "sources" : [
+          "./src/app/assets/images/"
+        ],
+        "globs" : [ "**/*.png", "**/*.jpeg", "**/*.jpg", "**/*.gif" ],
+        "destination" : "assets/images/"
+      },
+    "fonts": {
+      "sources": [
+        "./src/app/assets/fonts/"
+      ],
+      "globs": [ "**/*.eot", "**/*.svg", "**/*.ttf", "**/*.woff", "**/*.woff2" ],
+      "destination" : "assets/fonts/"
+    }
+  },
+  "destinations": {
+    "build": "./build/",
+    "docs": "./build/docs/",
+    "karma": "karma.conf.js",
+    "main": "./build/app/",
+    "doneFile": {
+      "name": "build.done",
+      "path": "./build/build.done"
+    },
+    "sourcemaps": "./build/maps/",
+    "reports": "./reports/",
+    "translations": "./build/translations/",
+    "unit": {
+      "build": "./build/unit/",
+      "report": {
+        "root": "./reports/unit/",
+        "coverage": {
+          "root": "./reports/unit/coverage/",
+          "html": "html/",
+          "lcov": "lcov.info",
+          "cobertura": "cobertura.xml"
+        },
+        "summary": {
+          "html": "./reports/unit/summary/html/",
+          "xml": "./reports/unit/summary/xml/"
+        }
+      }
+    },
+    "e2e": {
+      "build": "./build/e2e/",
+      "report": {
+        "root": "./reports/e2e/",
+        "summary": {
+          "html": "./reports/e2e/summary/html/",
+          "xml": "./reports/e2e/summary/xml/"
+        }
+      }
+    },
+    "dist": {
+      "root": "./dist/",
+      "release": "./dist/release/",
+      "ci": "./dist/ci/",
+      "snapshot": "./dist/snapshot/"
+    }
+  },
+  "protractor" : {
+    "framework": "jasmine2",
+    "multiCapabilities": [
+      {"browserName": "chrome"}
+    ]
+  }
+}

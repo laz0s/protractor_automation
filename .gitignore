@@ -1,0 +1,39 @@
+### IDE
+# IntelliJ IDEA
+*.iml
+.idea
+# Eclipse
+.project
+.settings
+.classpath
+# Sublime Text
+.sublime-gulp.cache
+*.sublime-project
+*.sublime-workspace
+# Atom
+atom_build
+tsconfig.json
+# poedit
+*.mo
+
+### dependencies
+# bower
+bower_components
+# node
+node_modules
+npm-debug.log
+
+### build
+# typescript
+.baseDir.ts
+.tscache
+# jasmine
+_SpecRunner.html
+# sonar
+.sonar/
+conf/
+# custom
+/build
+/dist
+/reports
+/env.json

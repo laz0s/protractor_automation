@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE eu:eu-backbone SYSTEM "../../util/dtd/eu-regional.dtd">
+<?xml-stylesheet type="text/xsl" href="../../util/style/eu-regional.xsl"?>
+<eu:eu-backbone xmlns:eu="http://europa.eu.int" xmlns:xlink="http://www.w3c.org/1999/xlink" xml:lang="en" dtd-version="1.3">
+  <eu-envelope>
+    <envelope country="emea">
+      <application>
+        <number>EMEA/H/C/000554</number>
+      </application>
+      <applicant>Novartis Europharm Ltd</applicant>
+      <agency code="EU-EMEA" />
+      <submission type="renewal" />
+      <procedure type="centralised" />
+      <invented-name>Emselex</invented-name>
+      <sequence>0000</sequence>
+      <submission-description>Renewal</submission-description>
+    </envelope>
+  </eu-envelope>
+  <m1-eu>
+    <m1-0-cover>
+      <specific country="emea">
+        <leaf operation="new" xlink:href="10-cover/emea/cover-letter.pdf" xlink:type="simple" checksum-type="md5" checksum="9568c52369bdd2d2bcc544728480206f" ID="isi137791" application-version="PDF 1.4">
+          <title>1.0	Cover Letter</title>
+        </leaf>
+      </specific>
+    </m1-0-cover>
+    <m1-2-form>
+      <specific country="emea">
+        <leaf operation="new" xlink:href="12-form/emea/emea-form-initial.pdf" xlink:type="simple" checksum-type="md5" checksum="203350b674462bfe21f0da2952710cf9" ID="isi137793" application-version="PDF 1.4">
+          <title>1.2	Application form</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/emea-form-authorizedpresentations.pdf" xlink:type="simple" checksum-type="md5" checksum="f38f9811374e7e40c2063cfd58251c75" ID="isi137795" application-version="PDF 1.4">
+          <title>1.2.1 Authorised product presentations</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/emea-form-contactpersons.pdf" xlink:type="simple" checksum-type="md5" checksum="026162c2b68b689ef7d37d66d75ba769" ID="isi137797" application-version="PDF 1.4">
+          <title>1.2.2 Details of contact persons</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/emea-form-countrylist.pdf" xlink:type="simple" checksum-type="md5" checksum="01bace00c6d050a8d6d22c341f2795f0" ID="isi137799" application-version="PDF 1.4">
+          <title>1.2.3 List of countries where Emselex is marketed</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/emea-form-pasubmissions.pdf" xlink:type="simple" checksum-type="md5" checksum="e918f94babfea8215a88d16215f0f160" ID="isi137801" application-version="PDF 1.4">
+          <title>1.2.4a Post-Authorization submissions</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/emea-form-psurlist.pdf" xlink:type="simple" checksum-type="md5" checksum="97eba005343db4297e1fc0d9e643dd44" ID="isi137803" application-version="PDF 1.4">
+          <title>1.2.4b List of PSURs submitted since first authorisation</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/emea-fom-fumsandsos.pdf" xlink:type="simple" checksum-type="md5" checksum="58753e4e592b2ee90893dc443d01887e" ID="isi137805" application-version="PDF 1.4">
+          <title>1.2.5 &amp; 1.2.6 Chronologic list of follow-up measures and Specific Obligations submitted since frist registration and remaining FUMs (merged annexes)</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/emea-lou.pdf" xlink:type="simple" checksum-type="md5" checksum="a3892ebd539785da0e802a8883eed1d6" ID="isi137807" application-version="PDF 1.4">
+          <title>Letter of undertaking</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/emea-lou-20040728.pdf" xlink:type="simple" checksum-type="md5" checksum="53a37efc226547682a9c5c0563803198" ID="isi137809" application-version="PDF 1.4">
+          <title>Letter of undertaking 2004</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/emea-lou-20060623.pdf" xlink:type="simple" checksum-type="md5" checksum="2fa9b738bc7d57985d86d4a54f10484e" ID="isi137811" application-version="PDF 1.4">
+          <title>Letter of undertaking 2006</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/gmp-cert.pdf" xlink:type="simple" checksum-type="md5" checksum="7e8de3e8e3e695f522ca4f17d5c78bf4" ID="isi137813" application-version="PDF 1.4">
+          <title>1.2.7a Certificates of GMP compliance</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/gmp-cert-ringaskiddy-20070815.pdf" xlink:type="simple" checksum-type="md5" checksum="427e57ef68c87f81c2015a834034790c" ID="isi137815" application-version="PDF 1.4">
+          <title>1.2.7b Certificate of GMP Compliance – Novartis Ringaskiddy Ltd. </title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/gmp-cert-stein-20080118.pdf" xlink:type="simple" checksum-type="md5" checksum="f1a5c4305c78dcdfd001246690009b08" ID="isi137817" application-version="PDF 1.4">
+          <title>1.2.7d Certificate of GMP Compliance – Novartis Pharma Stein AG</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/gmp-cert-allpack-20080118.pdf" xlink:type="simple" checksum-type="md5" checksum="e98edd1f178c79d972c4439ef20d4ad9" ID="isi137819" application-version="PDF 1.4">
+          <title>1.2.7e Certificate of GMP Compliance – Allpack Group AG</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/gmp-cert-pharmlog-20080123.pdf" xlink:type="simple" checksum-type="md5" checksum="5a4e4f329af556059cc9e9c30138ad65" ID="isi137821" application-version="PDF 1.4">
+          <title>1.2.7f Certificate of GMP Compliance – PharmLog Pharma Logistik GmbH </title>
+        </leaf>
+        <leaf checksum-type="md5" checksum="33f62a82f40ca59056f11198c6c319d3" ID="isi137823" application-version="PDF 1.4" operation="new" xlink:href="12-form/emea/gmp-cert-iverslee-20070105.pdf" xlink:type="simple">
+          <title>1.2.7g Certificate of GMP Compliance – Ivers Lee AG</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/gmp-cert-konapharm-20060920.pdf" xlink:type="simple" checksum-type="md5" checksum="e63b87aae5331f39dd79986b2ba82843" ID="isi137825" application-version="PDF 1.4">
+          <title>1.2.7h Certificate of GMP Compliance – Konapharma AG</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/emea-form-gmpinspections.pdf" xlink:type="simple" checksum-type="md5" checksum="5c2732accf991c3ee6a0cc3981ceea6a" ID="isi137827" application-version="PDF 1.4">
+          <title>1.2.8 List of most recent GMP inspections</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/qp-decl-emselex.pdf" xlink:type="simple" checksum-type="md5" checksum="2e2184c0c6a2b1e5a07f672836e3ba0e" ID="isi137829" application-version="PDF 1.4">
+          <title>1.2.9a  QP declarations </title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/qp-stein-decl-emselex.pdf" xlink:type="simple" checksum-type="md5" checksum="3df2de235a47acc9583b38b1f87576e8" ID="isi137831" application-version="PDF 1.4">
+          <title>1.2.9c Declaration of QP of each of the manufacturing authorization holders listed in the application form as responsible for batch release</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/emea-form-linguisticqrd.pdf" xlink:type="simple" checksum-type="md5" checksum="2688d1ec4283e18148ee7f868376cfe9" ID="isi137833" application-version="PDF 1.4">
+          <title>1.2.10 Linguistic and QRD related changes</title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/tse-cert-ringaskiddy.pdf" xlink:type="simple" checksum-type="md5" checksum="987ed0082eeba2e423bf78d1abf21558" ID="isi137835" application-version="PDF 1.4">
+          <title>Statement Compliance with TSE Guideline – Novartis Ringaskiddy Ltd. </title>
+        </leaf>
+        <leaf operation="new" xlink:href="12-form/emea/tse-cert-stein.pdf" xlink:type="simple" checksum-type="md5" checksum="b8de80a165ec4933e24983aeab72f5ba" ID="isi137837" application-version="PDF 1.4">
+          <title>Statement Compliance with TSE Guideline – Novartis Pharma Stein AG</title>
+        </leaf>
+      </specific>
+    </m1-2-form>
+    <m1-3-pi>
+      <m1-3-1-pim>
+        <leaf operation="new" xlink:href="13-pi/emea-spcdoc-renewal.pdf" xlink:type="simple" checksum-type="md5" checksum="158dd469bc22eb241641fdc921f4da9f" ID="isi137839" application-version="PDF 1.4">
+          <title>1.3.1	SPC, labeling and package leaflet</title>
+        </leaf>
+      </m1-3-1-pim>
+      <m1-3-3-specimen>
+        <specific country="emea">
+          <leaf operation="new" xlink:href="13-pi/133-specimen/emea/emea-specimen.pdf" xlink:type="simple" checksum-type="md5" checksum="bf346b3f7273f5c7b3eb3789d27f3bda" ID="isi137841" application-version="PDF 1.4">
+            <title>1.3.3	Specimen (specimens are sent separately to the EMEA)</title>
+          </leaf>
+        </specific>
+      </m1-3-3-specimen>
+    </m1-3-pi>
+    <m1-4-expert>
+      <m1-4-1-quality>
+        <leaf operation="new" xlink:href="14-expert/141-quality/quality-sig.pdf" xlink:type="simple" checksum-type="md5" checksum="a64b748965a4b396fdb8f893c0056d92" ID="isi137855" application-version="PDF 1.4">
+          <title>Signature page of the Quality Expert Muriel Schreiner</title>
+        </leaf>
+        <leaf operation="new" xlink:href="14-expert/141-quality/ren-qes-mrt-2009.pdf" xlink:type="simple" checksum-type="md5" checksum="9cb9e04c90b2089cf441d10f4e14dc98" ID="isi137857" application-version="PDF 1.4">
+          <title>Curriculum vitae of the Quality Expert Muriel Schreiner</title>
+        </leaf>
+      </m1-4-1-quality>
+      <m1-4-2-non-clinical>
+        <leaf operation="new" xlink:href="14-expert/142-nonclinical/nonclinical-sp-dugyala.pdf" xlink:type="simple" checksum-type="md5" checksum="46f28261c794c7ba79968fd3e0869081" ID="isi137843" application-version="PDF 1.4">
+          <title>Signature page of the Non-clinical Expert Raviprakash Dugyala</title>
+        </leaf>
+        <leaf operation="new" xlink:href="14-expert/142-nonclinical/nonclinical-cv-dugyala.pdf" xlink:type="simple" checksum-type="md5" checksum="d4c6dc428a04ef61d97848ed2b0455e0" ID="isi137845" application-version="PDF 1.4">
+          <title>Curriculum vitae of the Non-clinical Expert Raviprakash Dugyala</title>
+        </leaf>
+      </m1-4-2-non-clinical>
+      <m1-4-3-clinical>
+        <leaf operation="new" xlink:href="14-expert/143-clinical/clinical-sp-egermark.pdf" xlink:type="simple" checksum-type="md5" checksum="7e375766614e8362fbfd2969f6235c51" ID="isi137847" application-version="PDF 1.4">
+          <title>Signature page of the Clinical Expert Mathias Egermark </title>
+        </leaf>
+        <leaf operation="new" xlink:href="14-expert/143-clinical/clinical-cv-egermark.pdf" xlink:type="simple" checksum-type="md5" checksum="8da3f05ea30dcdd49d6b70d24cd7d545" ID="isi137849" application-version="PDF 1.4">
+          <title>Curriculum vitae of the Clinical Expert Mathias Egermark</title>
+        </leaf>
+        <leaf operation="new" xlink:href="14-expert/143-clinical/clinical-sp-hermann.pdf" xlink:type="simple" checksum-type="md5" checksum="93c6f5ceefcc9be93673fd44f681cadc" ID="isi137851" application-version="PDF 1.4">
+          <title>Signature page of the Clinical Expert Viktoria Hermann </title>
+        </leaf>
+        <leaf operation="new" xlink:href="14-expert/143-clinical/clinical-cv-hermann.pdf" xlink:type="simple" checksum-type="md5" checksum="89b9b71c007a24c6ee7384bdedbdf609" ID="isi137853" application-version="PDF 1.4">
+          <title>Curriculum vitae of the Clinical Expert Viktoria Hermann</title>
+        </leaf>
+      </m1-4-3-clinical>
+    </m1-4-expert>
+  </m1-eu>
+</eu:eu-backbone>

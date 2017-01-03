@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="util/style/ectd-2-0.xsl" type="text/xsl"?>
+<!DOCTYPE ectd:ectd SYSTEM "util/dtd/ich-ectd-3-2.dtd">
+
+<ectd:ectd xmlns:ectd="http://www.ich.org/ectd" xmlns:xlink="http://www.w3c.org/1999/xlink" xml:lang="en" dtd-version="3.2">
+  <m1-administrative-information-and-prescribing-information>
+    <leaf ID="ID1269146" application-version="" version="" operation="new" checksum="77027679c89b371940dea51db80a71fc" checksum-type="MD5" xlink:href="m1/eu/eu-regional.xml">
+      <title>EU Regional Backbone</title>
+    </leaf>
+  </m1-administrative-information-and-prescribing-information>
+</ectd:ectd>
+

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE eu:eu-backbone SYSTEM "../../util/dtd/eu-regional.dtd">
+<?xml-stylesheet type="text/xsl" href="../../util/style/eu-regional.xsl"?>
+<eu:eu-backbone xmlns:eu="http://europa.eu.int" dtd-version="2.0" xmlns:xlink="http://www.w3c.org/1999/xlink">
+
+  <eu-envelope>
+    <envelope country="ema">
+      <submission type="initial-maa">
+        <tracking>
+          <number>H004061</number>
+        </tracking>
+      </submission>
+      <applicant>Sigma-tau Arzneimittel GmbH</applicant>
+      <agency code="EU-EMA"/>
+      <procedure type="centralised"/>
+      <invented-name>Xenbilox</invented-name>
+      <inn>Chenodeoxycholic acid</inn>
+      <sequence>0000</sequence>
+      <submission-description>Initial Marketing Authorisation Application</submission-description>
+    </envelope>
+  </eu-envelope>
+
+  <m1-eu>
+    <m1-0-cover>
+      <specific country="ema">
+        <leaf ID="ID00251947" application-version="PDF 1.7" checksum="72559b1a15047806c8faad0280a11fd0" checksum-type="MD5" operation="new" xlink:href="10-cover/ema/ema-cover-initialmaacdca.pdf">
+          <title>Cover letter - 0000</title>
+        </leaf>
+        <leaf ID="ID00251888" application-version="PDF 1.7" checksum="546e7e8330806939819ee4754c978305" checksum-type="MD5" operation="new" xlink:href="10-cover/ema/ema-cover-trackingtableinitialmaa.pdf">
+          <title>Sequence tracking table - 0000</title>
+        </leaf>
+        <leaf ID="ID00251928" application-version="PDF 1.7" checksum="9453c1b5e26aa586ba60f052d8ae33d4" checksum-type="MD5" operation="new" xlink:href="10-cover/ema/ema-cover-note.pdf">
+          <title>Reviewers guide</title>
+        </leaf>
+      </specific>
+    </m1-0-cover>
+    <m1-2-form>
+      <specific country="ema">
+        <leaf ID="ID00251948" application-version="PDF 1.7" checksum="e56cab49b7507806f594390cf83c9727" checksum-type="MD5" operation="new" xlink:href="12-form/ema/ema-form-initialmaacdca.pdf">
+          <title>Application form - 0000</title>
+        </leaf>
+        <leaf ID="ID00252364" application-version="PDF 1.7" checksum="2d77d837d02f0f9910bcaca53ee62d88" checksum-type="MD5" operation="new" xlink:href="12-form/ema/common-form-establishmentmah.pdf">
+          <title>Proof of establishment of the applicant in the EEA</title>
+        </leaf>
+        <leaf ID="ID00252367" application-version="PDF 1.7" checksum="24bfbb8cec9189f356b170afb53fd176" checksum-type="MD5" operation="new" xlink:href="12-form/ema/ema-form-loacommunicationgamadasilvacdca.pdf">
+          <title>Letter of authorisation for communication on behalf of the applicant or MAH Gama da Silva CDCA</title>
+        </leaf>
+        <leaf ID="ID00252365" application-version="PDF 1.7" checksum="ff0f4d9647da9f6e4758e28ee947a87f" checksum-type="MD5" operation="new" xlink:href="12-form/ema/common-form-manufflowchart.pdf">
+          <title>Flow-chart indicating all sites</title>
+        </leaf>
+        <leaf ID="ID00252366" application-version="PDF 1.7" checksum="da50a13baaf488ea8ffdbdbdd593eb48" checksum-type="MD5" operation="new" xlink:href="12-form/ema/ema-form-loaasmf.pdf">
+          <title>Letter of access to Active Substance Master File</title>
+        </leaf>
+        <leaf ID="ID00253637" application-version="PDF 1.7" checksum="839446dc2d8e97dcf0a5dafa2ed07b45" checksum-type="MD5" operation="new" xlink:href="12-form/ema/ema-form-modmanuf.pdf">
+          <title>Confirmation from AS manufacturer to inform applicant in case of modifications</title>
+        </leaf>
+        <leaf ID="ID00252363" application-version="PDF 1.7" checksum="7ed3c3617de74d6dc938ecfd0ea5255d" checksum-type="MD5" operation="new" xlink:href="12-form/ema/ema-form-costseheadingpage.pdf">
+          <title>Ph. Eur certificate of suitability for TSE Gelatin and Cholic acid - Heading page</title>
+        </leaf>
+        <leaf ID="ID00251943" application-version="PDF 1.7" checksum="75edbaa2279f1d070b2b1208bec3c6da" checksum-type="MD5" operation="new" xlink:href="12-form/ema/ema-form-costse.pdf">
+          <title>Ph. Eur certificate of suitability on Gelatin and Cholic Acid</title>
+        </leaf>
+        <leaf ID="ID00251101" application-version="PDF 1.7" checksum="65d4ca3a2170a63301a853acbd9213be" checksum-type="MD5" operation="new" xlink:href="12-form/ema/ema-form-geldecl.pdf">
+          <title>Gelatin declaration</title>
+        </leaf>
+        <leaf ID="ID00251102" application-version="PDF 1.7" checksum="e100cca74a9c24bb1b2814782acf1be0" checksum-type="MD5" operation="new" xlink:href="12-form/ema/ema-form-mgsteardecl.pdf">
+          <title>Magnesium stearate declaration</title>
+        </leaf>
+        <leaf ID="ID00253638" application-version="PDF 1.7" checksum="0f9740583e4312f74adc511ded4a9d9a" checksum-type="MD5" operation="new" xlink:href="12-form/ema/ema-form.pdf">
+          <title>Manufacturing authorisation Germany</title>
+        </leaf>
+        <leaf ID="ID00252370" application-version="PDF 1.7" checksum="fd74b827afc2ef670d2db8e35427362b" checksum-type="MD5" operation="new" xlink:href="12-form/ema/ema-form-samplesspecimens.pdf">
+          <title>List of mock-ups or samples or specimens sent with the application</title>
+        </leaf>
+        <leaf ID="ID00252368" application-version="PDF 1.7" checksum="daabe83f56dd26a085c225ed24d58a68" checksum-type="MD5" operation="new" xlink:href="12-form/ema/ema-form-odd.pdf">
+          <title>Orphan designation decision</title>
+        </leaf>
+        <leaf ID="ID00252369" application-version="PDF 1.7" checksum="cc14360558c8682fd9d5e2cb8e777894" checksum-type="MD5" operation="new" xlink:href="12-form/ema/ema-form-qpdeclarationordonezaguila.pdf">
+          <title>Declaration from the qualified person Ordonez Aguila</title>
+        </leaf>
+      </specific>
+    </m1-2-form>
+    <m1-3-pi>
+      <m1-3-1-spc-label-pl>
+        <pi-doc country="ema" type="combined" xml:lang="en">
+          <leaf ID="ID00251930" application-version="PDF 1.7" checksum="3e84ee0a6fbd086d8ee693e203d108b7" checksum-type="MD5" operation="new" xlink:href="13-pi/131-spclabelpl/ema/en/ema-combined-h0004061-enclean.pdf">
+            <title>Proposed combined clean English CDCA</title>
+          </leaf>
+        </pi-doc>
+      </m1-3-1-spc-label-pl>
+      <m1-3-2-mockup>
+        <specific country="ema">
+          <leaf ID="ID00251891" application-version="PDF 1.7" checksum="b6a929e907ac0ab8fd54594e95f2a545" checksum-type="MD5" operation="new" xlink:href="13-pi/132-mockup/ema/ema-mockup-mockups.pdf">
+            <title>Mock-up</title>
+          </leaf>
+          <leaf ID="ID00252371" application-version="PDF 1.7" checksum="5a35b6edf51d8097d6fc130814547e9b" checksum-type="MD5" operation="new" xlink:href="13-pi/132-mockup/ema/ema-mockup-pil.pdf">
+            <title>Mock-up leaflet</title>
+          </leaf>
+          <leaf ID="ID00251892" application-version="PDF 1.7" checksum="77a10cd59afeaba4eecdb5feab528743" checksum-type="MD5" operation="new" xlink:href="13-pi/132-mockup/ema/ema-mockup-blister-pack-be.pdf">
+            <title>Mock-up Blister-Pack BE</title>
+          </leaf>
+          <leaf ID="ID00251893" application-version="PDF 1.7" checksum="e379cc9d3bb8e5648ada8d3d3a79ed4e" checksum-type="MD5" operation="new" xlink:href="13-pi/132-mockup/ema/ema-mockup-blister-pack-uk.pdf">
+            <title>Mock-up Blister-Pack UK</title>
+          </leaf>
+          <leaf ID="ID00251894" application-version="PDF 1.7" checksum="c56fb42d66cee42e1686c8736ad2d459" checksum-type="MD5" operation="new" xlink:href="13-pi/132-mockup/ema/ema-mockup-sigmatau-carton-be.pdf">
+            <title>Mock-up Sigma-Tau Carton BE</title>
+          </leaf>
+          <leaf ID="ID00251895" application-version="PDF 1.7" checksum="253f31a72f2ff216b737470366ea31fa" checksum-type="MD5" operation="new" xlink:href="13-pi/132-mockup/ema/ema-mockup-sigmatau-carton-uk.pdf">
+            <title>Mock-up Sigma-Tau Carton UK</title>
+          </leaf>
+        </specific>
+      </m1-3-2-mockup>
+      <m1-3-4-consultation>
+        <specific country="ema">
+          <leaf ID="ID00251905" application-version="PDF 1.7" checksum="7e9e3b01f3de0a52e2411489a66963d4" checksum-type="MD5" operation="new" xlink:href="13-pi/134-consultation/ema/ema-consultation.pdf">
+            <title>Consultation with target patient groups</title>
+          </leaf>
+        </specific>
+      </m1-3-4-consultation>
+      <m1-3-5-approved>
+        <specific country="ema">
+          <leaf ID="ID00251908" application-version="PDF 1.7" checksum="d74e4b1f29198b39f2cd831c18fd14e2" checksum-type="MD5" operation="new" xlink:href="13-pi/135-approved/ema/ema-approved-deen.pdf">
+            <title>Approved product information German and English translation</title>
+          </leaf>
+        </specific>
+      </m1-3-5-approved>
+      <m1-3-6-braille>
+        <leaf ID="ID00251906" application-version="PDF 1.7" checksum="fc2d94c96cf0735bd7c0da6debeb6d1a" checksum-type="MD5" operation="new" xlink:href="13-pi/136-braille/braille.pdf">
+          <title>Braille</title>
+        </leaf>
+      </m1-3-6-braille>
+    </m1-3-pi>
+    <m1-4-expert>
+      <m1-4-1-quality>
+        <leaf ID="ID00251898" application-version="PDF 1.7" checksum="ee6f59ea3516e99409905248611e05cf" checksum-type="MD5" operation="new" xlink:href="14-expert/141-quality/quality-signature-cv-ordonezaguila.pdf">
+          <title>Quality signature and CV Ordonez-Aguila</title>
+        </leaf>
+      </m1-4-1-quality>
+      <m1-4-2-non-clinical>
+        <leaf ID="ID00251897" application-version="PDF 1.7" checksum="7411fc38bffdb41a68e0d128bb27d453" checksum-type="MD5" operation="new" xlink:href="14-expert/142-nonclinical/nonclinical-signature-cv-taylor.pdf">
+          <title>Non-clinical signature and CV Taylor</title>
+        </leaf>
+      </m1-4-2-non-clinical>
+      <m1-4-3-clinical>
+        <leaf ID="ID00251931" application-version="PDF 1.7" checksum="476828bd88b6157fb7662af4bf7f1045" checksum-type="MD5" operation="new" xlink:href="14-expert/143-clinical/clinical-signature-cv-verma.pdf">
+          <title>Clinical signature and CV Verma</title>
+        </leaf>
+      </m1-4-3-clinical>
+    </m1-4-expert>
+    <m1-5-specific>
+      <m1-5-2-generic-hybrid-bio-similar>
+        <leaf ID="ID00251899" application-version="PDF 1.7" checksum="2678c660725fef4772264e2e18d5ad56" checksum-type="MD5" operation="new" xlink:href="15-specific/152-generic-hybrid-bio-similar/hybrid.pdf">
+          <title>Information for Hybrid Application</title>
+        </leaf>
+      </m1-5-2-generic-hybrid-bio-similar>
+    </m1-5-specific>
+    <m1-6-environrisk>
+      <m1-6-1-non-gmo>
+        <leaf ID="ID00251901" application-version="PDF 1.7" checksum="416a8840c03f923ea5e6325f1ec6f52b" checksum-type="MD5" operation="new" xlink:href="16-environrisk/161-nongmo/nongmo.pdf">
+          <title>Non-GMO</title>
+        </leaf>
+      </m1-6-1-non-gmo>
+    </m1-6-environrisk>
+    <m1-8-pharmacovigilance>
+      <m1-8-1-pharmacovigilance-system>
+        <leaf ID="ID00251933" application-version="PDF 1.7" checksum="782c529c7c2d952a06a708fe6ce8f88e" checksum-type="MD5" operation="new" xlink:href="18-pharmacovigilance/181-phvig-system/phvigsystem-summarypsmf.pdf">
+          <title>Summary on PSMF</title>
+        </leaf>
+      </m1-8-1-pharmacovigilance-system>
+      <m1-8-2-risk-management-system>
+        <leaf ID="ID00251932" application-version="PDF 1.7" checksum="3eb3a072f3270807760af8c0a7b2c9a7" checksum-type="MD5" operation="new" xlink:href="18-pharmacovigilance/182-riskmgt-system/riskmgtsystem-cdca250mgcap-1-7sep2015.pdf">
+          <title>Risk management system</title>
+        </leaf>
+      </m1-8-2-risk-management-system>
+    </m1-8-pharmacovigilance>
+    <m1-9-clinical-trials>
+      <leaf ID="ID00251902" application-version="PDF 1.7" checksum="0c3dea58b295b6227cb3d93cf5eafca6" checksum-type="MD5" operation="new" xlink:href="19-clinical-trials/clinicaltrials.pdf">
+        <title>Information relating to clinical trials</title>
+      </leaf>
+    </m1-9-clinical-trials>
+    <m1-10-paediatrics>
+      <leaf ID="ID00251903" application-version="PDF 1.7" checksum="c73d1e77aaed470ffb785e73ace624aa" checksum-type="MD5" operation="new" xlink:href="110-paediatrics/paediatrics-productspecificwaiver.pdf">
+        <title>Product-specific waiver</title>
+      </leaf>
+    </m1-10-paediatrics>
+  </m1-eu>
+
+</eu:eu-backbone>

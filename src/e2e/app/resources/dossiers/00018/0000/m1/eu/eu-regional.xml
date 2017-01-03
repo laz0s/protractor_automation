@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../util/style/eu-regional.xsl"?>
+<!DOCTYPE eu:eu-backbone SYSTEM "../../util/dtd/eu-regional.dtd">
+<eu:eu-backbone xmlns:eu="http://europa.eu.int" xmlns:xlink="http://www.w3c.org/1999/xlink" dtd-version="1.4" xml:lang="en"><eu-envelope><envelope country="emea"><submission type="fum"><tracking><number>EMEA/H/C/002098</number></tracking></submission><applicant>Bristol-Myers Squibb Pharma EEIG</applicant><agency code="EU-EMEA"/><procedure type="centralised"/><invented-name>Nulojix</invented-name><inn>belatacept</inn><sequence>0018</sequence><submission-description>RMP version 7</submission-description></envelope></eu-envelope><m1-eu>
+	<m1-0-cover>
+		
+	<specific country="emea">
+			
+			
+			
+		<leaf ID="ID570e990db60420ad5aff49f3aaca1eba" application-version="pdf-1.4" checksum="a08714df6de2641e644f955aabd3477b" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="10-cover/emea/emea-cover.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>CL - subm - Updated RMP v7</title></leaf><leaf ID="ID3494ba3ef850cc48d5fad52763de87a9" application-version="pdf-1.4" checksum="8b9d88dfdd2176fe8a3df600751eea70" checksum-type="md5" operation="new" xlink:actuate="none" xlink:href="10-cover/emea/emea-cover-reviewerguide.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>Reviewer's Guide - subm - Updated RMP v7</title></leaf></specific></m1-0-cover>
+	
+	
+	
+	
+	
+	
+	<m1-8-pharmacovigilance>
+		
+		<m1-8-2-risk-management-system>
+			
+		<leaf ID="IDed79afb9a8561b0454041badd60e2281" application-version="1.4" checksum="538e2063d0e2e1ab504dcf2ae75a826c" checksum-type="md5" modified-file="../../../0006/m1/eu/eu-regional.xml#ID89d5550cdd21d0ab46d5c289cde853f8" operation="replace" xlink:actuate="none" xlink:href="18-pharmacovigilance/182-riskmgt-system/riskmgtsystem-v7.pdf" xlink:role="none" xlink:show="none" xlink:type="simple" xml:lang="en"><title>RM System - Updated RMP v7 (930057158 v2.0)</title></leaf></m1-8-2-risk-management-system>
+	</m1-8-pharmacovigilance>
+	
+	
+	
+	
+</m1-eu></eu:eu-backbone>

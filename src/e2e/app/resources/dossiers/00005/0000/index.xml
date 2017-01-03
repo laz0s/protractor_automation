@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ectd:ectd SYSTEM "util/dtd/ich-ectd-3-2.dtd">
+<?xml-stylesheet type="text/xsl" href="util/style/ectd-2-0.xsl"?>
+<ectd:ectd xmlns:ectd="http://www.ich.org/ectd" dtd-version="3.2" xmlns:xlink="http://www.w3c.org/1999/xlink">
+
+  <m1-administrative-information-and-prescribing-information>
+    <leaf ID="ID00001281" checksum="bd86e2a96974e33019b5bbea5ed1f942" checksum-type="MD5" operation="new" xlink:href="m1/eu/eu-regional.xml">
+      <title>eu-regional.xml</title>
+    </leaf>
+  </m1-administrative-information-and-prescribing-information>
+
+  <m2-common-technical-document-summaries>
+    <m2-2-introduction>
+      <leaf ID="ID00001420" application-version="PDF 1.4" checksum="de61529fdc48f4ca1f0a563fad678435" checksum-type="MD5" operation="new" xlink:href="m2/22-intro/introduction.pdf">
+        <title>Introduction</title>
+      </leaf>
+    </m2-2-introduction>
+    <m2-3-quality-overall-summary>
+      <leaf ID="ID00001422" application-version="PDF 1.4" checksum="9ffc5dbaec76679c3fdd8ce4ea4efa50" checksum-type="MD5" operation="new" xlink:href="m2/23-qos/qos.pdf">
+        <title>Quality Overall Summary</title>
+      </leaf>
+    </m2-3-quality-overall-summary>
+    <m2-4-nonclinical-overview>
+      <leaf ID="ID00001429" application-version="PDF 1.4" checksum="e9f4a0126fe2f023a9d982f5a6f02240" checksum-type="MD5" operation="new" xlink:href="m2/24-nonclin-over/nonclinical-overview.pdf">
+        <title>Non-clinical Overview</title>
+      </leaf>
+    </m2-4-nonclinical-overview>
+    <m2-5-clinical-overview>
+      <leaf ID="ID00001431" application-version="PDF 1.4" checksum="e95ef9a637d2af8f86ff1d0bbb2c8f10" checksum-type="MD5" operation="new" xlink:href="m2/25-clin-over/clinical-overview-1.pdf">
+        <title>Clinical Overview</title>
+      </leaf>
+      <leaf ID="ID00001432" application-version="PDF 1.4" checksum="ae7e0929bc536422885ff8beb61dbbfb" checksum-type="MD5" operation="new" xlink:href="m2/25-clin-over/clinical-overview-2.pdf">
+        <title>Clinical Overview - Appendix 2</title>
+      </leaf>
+    </m2-5-clinical-overview>
+    <m2-7-clinical-summary>
+      <m2-7-6-synopses-of-individual-studies>
+        <leaf ID="ID00001451" application-version="PDF 1.4" checksum="bc056090a218708f4c7114c04b3c20e0" checksum-type="MD5" operation="new" xlink:href="m2/27-clin-sum/synopses-indiv-studies-1.pdf">
+          <title>PAS1TSR</title>
+        </leaf>
+        <leaf ID="ID00001452" application-version="PDF 1.4" checksum="6090a77d8bda1cb4c44ca4c42158db18" checksum-type="MD5" operation="new" xlink:href="m2/27-clin-sum/synopses-indiv-studies-2.pdf">
+          <title>PAS2TSR</title>
+        </leaf>
+        <leaf ID="ID00001453" application-version="PDF 1.4" checksum="50cc15c9302ac0bb9b05143ced24d6f1" checksum-type="MD5" operation="new" xlink:href="m2/27-clin-sum/synopses-indiv-studies-3.pdf">
+          <title>PAS3TSR</title>
+        </leaf>
+        <leaf ID="ID00001454" application-version="PDF 1.4" checksum="d9ab59f87ea2e6ee3cf6be0b6311c991" checksum-type="MD5" operation="new" xlink:href="m2/27-clin-sum/synopses-indiv-studies-4.pdf">
+          <title>PAS4TSR</title>
+        </leaf>
+        <leaf ID="ID00001455" application-version="PDF 1.4" checksum="3f965306fec454d730031a49ef703581" checksum-type="MD5" operation="new" xlink:href="m2/27-clin-sum/synopses-indiv-studies-5.pdf">
+          <title>PAS5TSR</title>
+        </leaf>
+      </m2-7-6-synopses-of-individual-studies>
+    </m2-7-clinical-summary>
+  </m2-common-technical-document-summaries>
+
+  <m3-quality>
+    <m3-2-body-of-data>
+      <m3-2-s-drug-substance manufacturer="Manufacturer" substance="Para-aminosalicylic acid" xml:lang="en">
+        <m3-2-s-1-general-information>
+          <m3-2-s-1-1-nomenclature>
+            <leaf ID="ID00001488" application-version="PDF 1.4" checksum="55be60c5c66266195c02aada097b241a" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s1-gen-info/nomenclature.pdf">
+              <title>Nomenclature</title>
+            </leaf>
+          </m3-2-s-1-1-nomenclature>
+          <m3-2-s-1-2-structure>
+            <leaf ID="ID00000468" application-version="PDF 1.4" checksum="9c377d267951814bde44a9d3fb0b9297" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s1-gen-info/structure.pdf">
+              <title>Structure</title>
+            </leaf>
+          </m3-2-s-1-2-structure>
+          <m3-2-s-1-3-general-properties>
+            <leaf ID="ID00000469" application-version="PDF 1.4" checksum="517447f7128191491ed3a0bd4a8278ee" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s1-gen-info/general-properties.pdf">
+              <title>General properties</title>
+            </leaf>
+          </m3-2-s-1-3-general-properties>
+        </m3-2-s-1-general-information>
+        <m3-2-s-2-manufacture>
+          <m3-2-s-2-1-manufacturer>
+            <leaf ID="ID00000470" application-version="PDF 1.4" checksum="ba220419089077b05d3e0462fcb501de" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s2-manuf/manufacturer.pdf">
+              <title>Manufacturer(s)</title>
+            </leaf>
+          </m3-2-s-2-1-manufacturer>
+          <m3-2-s-2-2-description-of-manufacturing-process-and-process-controls>
+            <leaf ID="ID00000471" application-version="PDF 1.4" checksum="59b517e2572632a08ef8654a9a1c60c6" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s2-manuf/manuf-process-and-controls.pdf">
+              <title>Description of Manufacturing Process and Process Controls</title>
+            </leaf>
+          </m3-2-s-2-2-description-of-manufacturing-process-and-process-controls>
+          <m3-2-s-2-3-control-of-materials>
+            <leaf ID="ID00000472" application-version="PDF 1.4" checksum="c5e1a35c6f873194487768dc632292c9" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s2-manuf/control-of-materials-1.pdf">
+              <title>Control of Materials</title>
+            </leaf>
+            <leaf ID="ID00000473" application-version="PDF 1.4" checksum="e47496d06324f31d22013791da52f0f4" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s2-manuf/control-of-materials-2.pdf">
+              <title>3.2.S.2.3.1 Control of sodium para-aminosalicylic acid</title>
+            </leaf>
+            <leaf ID="ID00000474" application-version="PDF 1.4" checksum="dcc064eec7683f1b5a0de0765c90d59e" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s2-manuf/control-of-materials-3.pdf">
+              <title>3.2.S.2.3.2 Control of water system</title>
+            </leaf>
+          </m3-2-s-2-3-control-of-materials>
+          <m3-2-s-2-4-controls-of-critical-steps-and-intermediates>
+            <leaf ID="ID00000475" application-version="PDF 1.4" checksum="f7a37eab0c53d1614f72cd33300cfbcd" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s2-manuf/control-critical-steps.pdf">
+              <title>Controls of Critical Steps and Intermediates</title>
+            </leaf>
+          </m3-2-s-2-4-controls-of-critical-steps-and-intermediates>
+          <m3-2-s-2-5-process-validation-and-or-evaluation>
+            <leaf ID="ID00000476" application-version="PDF 1.4" checksum="071d3e1d154e7462ab413ba212048f9c" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s2-manuf/process-validation-1.pdf">
+              <title>Process Validation and/or Evaluation</title>
+            </leaf>
+            <leaf ID="ID00000477" application-version="PDF 1.4" checksum="3963af3e1a79e3bb399746a88b403637" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s2-manuf/process-validation-2.pdf">
+              <title>Process Validation and/or Evaluation - Appendix: Manufacturing Validation Overview</title>
+            </leaf>
+          </m3-2-s-2-5-process-validation-and-or-evaluation>
+          <m3-2-s-2-6-manufacturing-process-development>
+            <leaf ID="ID00000478" application-version="PDF 1.4" checksum="f76334703ff218f4281469990e45d517" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s2-manuf/manuf-process-development-1.pdf">
+              <title>Manufacturing Process Development</title>
+            </leaf>
+            <leaf ID="ID00000479" application-version="PDF 1.4" checksum="889c679b17dc1af020815da93bac35a5" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s2-manuf/manuf-process-development-2.pdf">
+              <title>Manufacturing Process Development - Appendix: API Process Development Report</title>
+            </leaf>
+          </m3-2-s-2-6-manufacturing-process-development>
+        </m3-2-s-2-manufacture>
+        <m3-2-s-3-characterisation>
+          <m3-2-s-3-1-elucidation-of-structure-and-other-characteristics>
+            <leaf ID="ID00000480" application-version="PDF 1.4" checksum="e4d4fbe55ff3d3e76013084c0e14c752" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s3-charac/elucidation-of-structure.pdf">
+              <title>Elucidation of Structure and Other Characteristics</title>
+            </leaf>
+          </m3-2-s-3-1-elucidation-of-structure-and-other-characteristics>
+          <m3-2-s-3-2-impurities>
+            <leaf ID="ID00000481" application-version="PDF 1.4" checksum="225a457be82f091a8e61c32ccaabf1ac" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s3-charac/impurities.pdf">
+              <title>Impurities</title>
+            </leaf>
+          </m3-2-s-3-2-impurities>
+        </m3-2-s-3-characterisation>
+        <m3-2-s-4-control-of-drug-substance>
+          <m3-2-s-4-1-specification>
+            <leaf ID="ID00000482" application-version="PDF 1.4" checksum="011b1b7ec979b6e4ddfa45884d391b7d" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s4-contr-drug-sub/32s41-spec/specification.pdf">
+              <title>Specification</title>
+            </leaf>
+          </m3-2-s-4-1-specification>
+          <m3-2-s-4-2-analytical-procedures>
+            <leaf ID="ID00000489" application-version="PDF 1.4" checksum="974e25dc56029a0871ebec217cd9beab" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s4-contr-drug-sub/32s42-analyt-proc/analytical-procedure-1.pdf">
+              <title>Analytical Procedures</title>
+            </leaf>
+            <leaf ID="ID00000493" application-version="PDF 1.4" checksum="95b35daf5ffb1f3c0535fe4dee1d7862" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s4-contr-drug-sub/32s42-analyt-proc/analytical-procedure-2.pdf">
+              <title>RM-PAS-LC-1 analytical method</title>
+            </leaf>
+            <leaf ID="ID00000491" application-version="PDF 1.4" checksum="e95a10dc830e1d3491f7179de004bde7" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s4-contr-drug-sub/32s42-analyt-proc/analytical-procedure-3.pdf">
+              <title>RM-AP-LC-1 analytical method</title>
+            </leaf>
+            <leaf ID="ID00000494" application-version="PDF 1.4" checksum="f638f511cfc3de793077f78357fd9466" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s4-contr-drug-sub/32s42-analyt-proc/analytical-procedure-4.pdf">
+              <title>RM-PAS-OI-LC-1 analytical method</title>
+            </leaf>
+            <leaf ID="ID00000516" application-version="PDF 1.4" checksum="ab85443da4ca1aff00533bc53ec0fa4b" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s4-contr-drug-sub/32s42-analyt-proc/analytical-procedure-5.pdf">
+              <title>UV Spectra: Para-aminosalicylic acid - Identification Test</title>
+            </leaf>
+            <leaf ID="ID00000490" application-version="PDF 1.4" checksum="2c6ba4917cf28982ff2ffb35a270fdb1" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s4-contr-drug-sub/32s42-analyt-proc/analytical-procedure-6.pdf">
+              <title>Raw Materials HPLC Chromatograms</title>
+            </leaf>
+            <leaf ID="ID00000492" application-version="PDF 1.4" checksum="56c52d683de1d248e45209a4ee863aa3" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s4-contr-drug-sub/32s42-analyt-proc/analytical-procedure-7.pdf">
+              <title>RM-PAS-USP reference standard</title>
+            </leaf>
+          </m3-2-s-4-2-analytical-procedures>
+          <m3-2-s-4-3-validation-of-analytical-procedures>
+            <leaf ID="ID00001527" application-version="PDF 1.4" checksum="c492cf1c0e8b1f79d39b38755da6656c" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s4-contr-drug-sub/32s43-val-analyt-proc/validation-analyt-procedure-1.pdf">
+              <title>Validation of Analytical Procedures</title>
+            </leaf>
+            <leaf ID="ID00000496" application-version="PDF 1.4" checksum="26befc04ef20e2899c0b09ff36255769" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s4-contr-drug-sub/32s43-val-analyt-proc/validation-analyt-procedure-2.pdf">
+              <title>RM-PAS-OI-LC-1 method</title>
+            </leaf>
+          </m3-2-s-4-3-validation-of-analytical-procedures>
+          <m3-2-s-4-4-batch-analyses>
+            <leaf ID="ID00000497" application-version="PDF 1.4" checksum="023d23aa4659ef7814e14816ea4ff551" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s4-contr-drug-sub/32s44-batch-analys/batch-analyses.pdf">
+              <title>Batch Analyses</title>
+            </leaf>
+          </m3-2-s-4-4-batch-analyses>
+          <m3-2-s-4-5-justification-of-specification>
+            <leaf ID="ID00000498" application-version="PDF 1.4" checksum="b4c5b508ca953c8a6dde847081bcfa31" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s4-contr-drug-sub/32s45-justif-spec/justification-of-specification.pdf">
+              <title>Justification of Specification</title>
+            </leaf>
+          </m3-2-s-4-5-justification-of-specification>
+        </m3-2-s-4-control-of-drug-substance>
+        <m3-2-s-5-reference-standards-or-materials>
+          <leaf ID="ID00000500" application-version="PDF 1.4" checksum="3a0a0b195da90865ac5aba8933979568" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s5-ref-stand/reference-standards-1.pdf">
+            <title>Reference Standards or Materials</title>
+          </leaf>
+          <leaf ID="ID00000499" application-version="PDF 1.4" checksum="5a835d81227c82062ccbdcc34df6deec" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s5-ref-stand/reference-standards-2.pdf">
+            <title>PAS Reference Standard - part 1</title>
+          </leaf>
+          <leaf ID="ID00000501" application-version="PDF 1.4" checksum="80491423ee4f07326848390fc7a73043" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s5-ref-stand/reference-standards-3.pdf">
+            <title>PAS Reference Standard - HPLC part</title>
+          </leaf>
+        </m3-2-s-5-reference-standards-or-materials>
+        <m3-2-s-6-container-closure-system>
+          <leaf ID="ID00000502" application-version="PDF 1.4" checksum="a0585f2955ce3ad64b76fea2ea2b5bcf" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s6-cont-closure-sys/container-closure-system.pdf">
+            <title>Container Closure System</title>
+          </leaf>
+        </m3-2-s-6-container-closure-system>
+        <m3-2-s-7-stability>
+          <m3-2-s-7-1-stability-summary-and-conclusions>
+            <leaf ID="ID00000514" application-version="PDF 1.4" checksum="64c7581f090baf175dc2c2ad6904b206" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s7-stab/stability-summary-1.pdf">
+              <title>Stability Protocol</title>
+            </leaf>
+            <leaf ID="ID00000503" application-version="PDF 1.4" checksum="f387cb969b78590918288f1d7349d690" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s7-stab/stability-summary-2.pdf">
+              <title>Stability Summary and Conclusions</title>
+            </leaf>
+          </m3-2-s-7-1-stability-summary-and-conclusions>
+          <m3-2-s-7-2-post-approval-stability-protocol-and-stability-commitment>
+            <leaf ID="ID00000504" application-version="PDF 1.4" checksum="7a9ee29215928ce6bd7a2ba633cd74a5" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s7-stab/postapproval-stability.pdf">
+              <title>Post-approval Stability Protocol and Stability Commitment</title>
+            </leaf>
+          </m3-2-s-7-2-post-approval-stability-protocol-and-stability-commitment>
+          <m3-2-s-7-3-stability-data>
+            <leaf ID="ID00000505" application-version="PDF 1.4" checksum="21cba5c142ad27e44718ea060f369cbd" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s7-stab/stability-data-1.pdf">
+              <title>Stability Data</title>
+            </leaf>
+            <leaf ID="ID00000511" application-version="PDF 1.4" checksum="42bd8337a59f2e06fd910a0975001210" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s7-stab/stability-data-2.pdf">
+              <title>Stability Data on Jacobus lots - 15°C</title>
+            </leaf>
+            <leaf ID="ID00000508" application-version="PDF 1.4" checksum="a959b645e38205b96d64e151a63bfca6" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s7-stab/stability-data-3.pdf">
+              <title>Certificates of Analysis on Jacobus lots - 15°C</title>
+            </leaf>
+            <leaf ID="ID00000510" application-version="PDF 1.4" checksum="5e191ac202e00b567a83282e49b47737" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s7-stab/stability-data-4.pdf">
+              <title>Stability Data on Jacobus lots - 60°C</title>
+            </leaf>
+            <leaf ID="ID00000506" application-version="PDF 1.4" checksum="9e2a6217ab60730879d99c414a093f3b" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s7-stab/stability-data-5.pdf">
+              <title>Stability Data on Zeeland lots - 15°C</title>
+            </leaf>
+            <leaf ID="ID00000509" application-version="PDF 1.4" checksum="64c4fcb463870b8b79b5e6ea5c3b8abb" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s7-stab/stability-data-6.pdf">
+              <title>Certificates of Analysis for Zeeland lots - 15°C</title>
+            </leaf>
+            <leaf ID="ID00000507" application-version="PDF 1.4" checksum="873c1bfea8ca5619b07c7dfed5ca0ac1" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32s-drug-sub/paraaminosalicylicacid-manufacturer/32s7-stab/stability-data-7.pdf">
+              <title>Stability Data on Zeeland lots - 30°C</title>
+            </leaf>
+          </m3-2-s-7-3-stability-data>
+        </m3-2-s-7-stability>
+      </m3-2-s-drug-substance>
+      <m3-2-p-drug-product dosageform="4g Gastro-resistant granules" manufacturer="Manufacturer" product-name="PAS-GR" xml:lang="en">
+        <m3-2-p-1-description-and-composition-of-the-drug-product>
+          <leaf ID="ID00000399" application-version="PDF 1.4" checksum="98c2a481771ca5eca00957215f945d7a" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p1-desc-comp/description-and-composition.pdf">
+            <title>Description and Composition of the Drug Product</title>
+          </leaf>
+        </m3-2-p-1-description-and-composition-of-the-drug-product>
+        <m3-2-p-2-pharmaceutical-development>
+          <leaf ID="ID00000400" application-version="PDF 1.4" checksum="f5351c5325b8ec0f7eee444258d7a35c" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p2-pharm-dev/pharmaceutical-development-1.pdf">
+            <title>Pharmaceutical Development - Introduction</title>
+          </leaf>
+          <leaf ID="ID00000401" application-version="PDF 1.4" checksum="e6359fbd2dce8e33cdf53cf0b2f0d9c9" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p2-pharm-dev/pharmaceutical-development-2.pdf">
+            <title>3.2.P.2.1 Components of the Drug Product</title>
+          </leaf>
+          <leaf ID="ID00000402" application-version="PDF 1.4" checksum="44fb70e24152140708813ed744bbd2b5" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p2-pharm-dev/pharmaceutical-development-3.pdf">
+            <title>3.2.P.2.2 Pharmaceutical Development</title>
+          </leaf>
+          <leaf ID="ID00000403" application-version="PDF 1.4" checksum="5c83ca74bc8672884fcea7c1004f03ab" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p2-pharm-dev/pharmaceutical-development-4.pdf">
+            <title>3.2.P.2.3 Manufacturing Process Development</title>
+          </leaf>
+          <leaf ID="ID00001590" application-version="PDF 1.4" checksum="e16f3cb46652464a4e50e82200718716" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p2-pharm-dev/pharmaceutical-development-5.pdf">
+            <title>3.2.P.2.4 Container Closure System</title>
+          </leaf>
+          <leaf ID="ID00000405" application-version="PDF 1.4" checksum="71a74fc693067786961df40bd8fedbd7" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p2-pharm-dev/pharmaceutical-development-6.pdf">
+            <title>3.2.P.2.4 Container Closure System - Device PS Crystal 1540 - Food contact certificate</title>
+          </leaf>
+          <leaf ID="ID00000406" application-version="PDF 1.4" checksum="536b9cd77673f3934bd8c4d6060eeca7" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p2-pharm-dev/pharmaceutical-development-7.pdf">
+            <title>3.2.P.2.4 Container Closure System - Device STYRON678E - Food contact certificate</title>
+          </leaf>
+          <leaf ID="ID00000407" application-version="PDF 1.4" checksum="ada0fc21763b3e00b8d894c723169525" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p2-pharm-dev/pharmaceutical-development-8.pdf">
+            <title>3.2.P.2.5 Microbiological Attributes</title>
+          </leaf>
+        </m3-2-p-2-pharmaceutical-development>
+        <m3-2-p-3-manufacture>
+          <m3-2-p-3-1-manufacturers>
+            <leaf ID="ID00001596" application-version="PDF 1.4" checksum="95ff970f51cb6a608d2aa32615370664" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p3-manuf/manufacturers.pdf">
+              <title>Manufacturer(s)</title>
+            </leaf>
+          </m3-2-p-3-1-manufacturers>
+          <m3-2-p-3-2-batch-formula>
+            <leaf ID="ID00000410" application-version="PDF 1.4" checksum="a6e9769fd13fa8baad706578ba0b39e9" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p3-manuf/batch-formula.pdf">
+              <title>Batch Formula</title>
+            </leaf>
+          </m3-2-p-3-2-batch-formula>
+          <m3-2-p-3-3-description-of-manufacturing-process-and-process-controls>
+            <leaf ID="ID00000411" application-version="PDF 1.4" checksum="1b7895f8e7053ff6c73e9960fae43150" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p3-manuf/manuf-process-and-controls.pdf">
+              <title>Description of Manufacturing Process and Process Controls</title>
+            </leaf>
+          </m3-2-p-3-3-description-of-manufacturing-process-and-process-controls>
+          <m3-2-p-3-4-controls-of-critical-steps-and-intermediates>
+            <leaf ID="ID00000412" application-version="PDF 1.4" checksum="271d8f44b875aab8dc7bb6b30df3ab40" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p3-manuf/control-critical-steps.pdf">
+              <title>Controls of Critical Steps and Intermediates</title>
+            </leaf>
+          </m3-2-p-3-4-controls-of-critical-steps-and-intermediates>
+          <m3-2-p-3-5-process-validation-and-or-evaluation>
+            <leaf ID="ID00000413" application-version="PDF 1.4" checksum="97e41582ee3195f1de8c76b6e214a613" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p3-manuf/process-validation.pdf">
+              <title>Process Validation and/or Evaluation</title>
+            </leaf>
+          </m3-2-p-3-5-process-validation-and-or-evaluation>
+        </m3-2-p-3-manufacture>
+        <m3-2-p-4-control-of-excipients excipient="All Excipients" xml:lang="en">
+          <m3-2-p-4-1-specifications>
+            <leaf ID="ID00000426" application-version="PDF 1.4" checksum="910dc44324b44621e49d73663d1efeff" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p4-contr-excip/allexcipients/specifications-1.pdf">
+              <title>Introduction</title>
+            </leaf>
+            <leaf ID="ID00000421" application-version="PDF 1.4" checksum="85489d38ee6bb7c0e0a7d86ca86c78a2" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p4-contr-excip/allexcipients/specifications-2.pdf">
+              <title>Specifications</title>
+            </leaf>
+          </m3-2-p-4-1-specifications>
+          <m3-2-p-4-2-analytical-procedures>
+            <leaf ID="ID00001617" application-version="PDF 1.4" checksum="e638dad17c14053024cbe88f3a6dc5d9" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p4-contr-excip/allexcipients/analytical-procedures.pdf">
+              <title>Analytical Procedures</title>
+            </leaf>
+          </m3-2-p-4-2-analytical-procedures>
+          <m3-2-p-4-3-validation-of-analytical-procedures>
+            <leaf ID="ID00001619" application-version="PDF 1.4" checksum="5b081117e31fd617b4087eebc94b7586" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p4-contr-excip/allexcipients/validation-analyt-procedures.pdf">
+              <title>Validation of Analytical Procedures</title>
+            </leaf>
+          </m3-2-p-4-3-validation-of-analytical-procedures>
+          <m3-2-p-4-4-justification-of-specifications>
+            <leaf ID="ID00000424" application-version="PDF 1.4" checksum="741c64416ef09d2a482c42f6297eb161" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p4-contr-excip/allexcipients/justification-of-specifications.pdf">
+              <title>Justification of Specifications</title>
+            </leaf>
+          </m3-2-p-4-4-justification-of-specifications>
+        </m3-2-p-4-control-of-excipients>
+        <m3-2-p-5-control-of-drug-product>
+          <m3-2-p-5-1-specifications>
+            <leaf ID="ID00001626" application-version="PDF 1.4" checksum="7b8c82d2a982cba71b7d6a1cfdb43956" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p51-spec/specifications-1.pdf">
+              <title>Specifications</title>
+            </leaf>
+            <leaf ID="ID00000515" application-version="PDF 1.4" checksum="48793f2a631bce66c85906b1e6d770f7" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p51-spec/specifications-2.pdf">
+              <title>Specifications - Jacobus Drug Product</title>
+            </leaf>
+          </m3-2-p-5-1-specifications>
+          <m3-2-p-5-2-analytical-procedures>
+            <leaf ID="ID00000440" application-version="PDF 1.4" checksum="fd1965e1a4565891c351b295eef43bb8" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p52-analyt-proc/analytical-procedures-1.pdf">
+              <title>Introduction</title>
+            </leaf>
+            <leaf ID="ID00000441" application-version="PDF 1.4" checksum="92b0eafb2acf3603a217bf19937c6495" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p52-analyt-proc/analytical-procedures-2.pdf">
+              <title>3.2.P.5.2.1 Appearance</title>
+            </leaf>
+            <leaf ID="ID00000443" application-version="PDF 1.4" checksum="6bf6f095c4abb669dceec3712b8c5de4" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p52-analyt-proc/analytical-procedures-3.pdf">
+              <title>3.2.P.5.2.2 Identification</title>
+            </leaf>
+            <leaf ID="ID00000444" application-version="PDF 1.4" checksum="65d9a92d3f35df8996be3f047e9172b0" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p52-analyt-proc/analytical-procedures-4.pdf">
+              <title>3.2.P.5.2.2 Identification - DF-PAS-LC-1 Analytical Method</title>
+            </leaf>
+            <leaf ID="ID00000445" application-version="PDF 1.4" checksum="ffff1bae399b3a561a4b0b0ec6f399f9" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p52-analyt-proc/analytical-procedures-5.pdf">
+              <title>3.2.P.5.2.3 Water content</title>
+            </leaf>
+            <leaf ID="ID00000446" application-version="PDF 1.4" checksum="b8fec87a50c578edbb7e4bd1e6144ecc" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p52-analyt-proc/analytical-procedures-6.pdf">
+              <title>3.2.P.5.2.4 Dissolution</title>
+            </leaf>
+            <leaf ID="ID00000447" application-version="PDF 1.4" checksum="47c6bc7ca441254ada44e66aa60a87b5" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p52-analyt-proc/analytical-procedures-7.pdf">
+              <title>3.2.P.5.2.4 Dissolution - DF-PAS-DI-2 Analytical Method</title>
+            </leaf>
+            <leaf ID="ID00000449" application-version="PDF 1.4" checksum="4409191015354a2e5f43a8a9ff86c02c" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p52-analyt-proc/analytical-procedures-8.pdf">
+              <title>3.2.P.5.2.5 Assay &amp; related substances</title>
+            </leaf>
+            <leaf ID="ID00000442" application-version="PDF 1.4" checksum="75c0ae1ded8ee7cba7032e75bea3ea3b" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p52-analyt-proc/analytical-procedures-9.pdf">
+              <title>3.2.P.5.2.5 Assay &amp; related substances - DF-PAS-LC-1 Analytical Method</title>
+            </leaf>
+            <leaf ID="ID00000448" application-version="PDF 1.4" checksum="ec4e7700203349562f9afdb032c2e5bb" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p52-analyt-proc/analytical-procedures-10.pdf">
+              <title>3.2.P.5.2.5 Assay &amp; related substances - DF-AP-LC-1 Analytical Method</title>
+            </leaf>
+            <leaf ID="ID00000450" application-version="PDF 1.4" checksum="4778ae82b9914af1036b877699f861ed" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p52-analyt-proc/analytical-procedures-11.pdf">
+              <title>3.2.P.5.2.6 Content uniformity</title>
+            </leaf>
+            <leaf ID="ID00000451" application-version="PDF 1.4" checksum="05f6a1eb7893fc08f9316074f00b6ea4" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p52-analyt-proc/analytical-procedures-12.pdf">
+              <title>3.2.P.5.2.7 Microbial limit tests</title>
+            </leaf>
+          </m3-2-p-5-2-analytical-procedures>
+          <m3-2-p-5-3-validation-of-analytical-procedures>
+            <leaf ID="ID00000452" application-version="PDF 1.4" checksum="351c6bd4c2c9e4a2f146d609dee8a669" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p53-val-analyt-proc/validation-analytical-procedures-1.pdf">
+              <title>Introduction</title>
+            </leaf>
+            <leaf ID="ID00000453" application-version="PDF 1.4" checksum="0ebe112d93e1103ec1722e01d62b5275" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p53-val-analyt-proc/validation-analytical-procedures-2.pdf">
+              <title>3.2.P.5.3.1 HPLC Identification</title>
+            </leaf>
+            <leaf ID="ID00000458" application-version="PDF 1.4" checksum="790ad7e515df343be16382d88440132f" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p53-val-analyt-proc/validation-analytical-procedures-3.pdf">
+              <title>3.2.P.5.3.1 HPLC Identification - DF-PAS-LC-1 Method Validation</title>
+            </leaf>
+            <leaf ID="ID00000454" application-version="PDF 1.4" checksum="3226e389ae09000ae582c4236d795e5a" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p53-val-analyt-proc/validation-analytical-procedures-4.pdf">
+              <title>3.2.P.5.3.2 Dissolution</title>
+            </leaf>
+            <leaf ID="ID00000456" application-version="PDF 1.4" checksum="9dc784d53330b9cd22d95218b6fcc990" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p53-val-analyt-proc/validation-analytical-procedures-5.pdf">
+              <title>3.2.P.5.3.2 Dissolution - DF-PAS-DI-2 Method Validation</title>
+            </leaf>
+            <leaf ID="ID00000455" application-version="PDF 1.4" checksum="bd209764acb4b4d29cb5293e8bd8e680" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p53-val-analyt-proc/validation-analytical-procedures-6.pdf">
+              <title>3.2.P.5.3.3 Related substances by HPLC</title>
+            </leaf>
+            <leaf ID="ID00000457" application-version="PDF 1.4" checksum="aa313b6e27a1e8a223e13f26c64d38ab" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p53-val-analyt-proc/validation-analytical-procedures-7.pdf">
+              <title>3.2.P.5.3.3 Related substances by HPLC - DF-AP-LC-1 Method Validation</title>
+            </leaf>
+          </m3-2-p-5-3-validation-of-analytical-procedures>
+          <m3-2-p-5-4-batch-analyses>
+            <leaf ID="ID00000459" application-version="PDF 1.4" checksum="16ca138f17b678bc5fc70028de103206" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p54-batch-analys/batch-analyses.pdf">
+              <title>Batch Analyses</title>
+            </leaf>
+          </m3-2-p-5-4-batch-analyses>
+          <m3-2-p-5-5-characterisation-of-impurities>
+            <leaf ID="ID00000460" application-version="PDF 1.4" checksum="a3a42c143bfc78fa55d88c005cf185e8" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p55-charac-imp/characterisation-impurities.pdf">
+              <title>Characterisation of Impurities</title>
+            </leaf>
+          </m3-2-p-5-5-characterisation-of-impurities>
+          <m3-2-p-5-6-justification-of-specifications>
+            <leaf ID="ID00000461" application-version="PDF 1.4" checksum="d0dfedabf80769a9abc75fcbdddcc650" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p5-contr-drug-prod/32p56-justif-spec/justification-of-specifications.pdf">
+              <title>Justification of Specifications</title>
+            </leaf>
+          </m3-2-p-5-6-justification-of-specifications>
+        </m3-2-p-5-control-of-drug-product>
+        <m3-2-p-6-reference-standards-or-materials>
+          <leaf ID="ID00000462" application-version="PDF 1.4" checksum="dafb3af56fba79e312010d6a8ec6d1a2" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p6-ref-stand/reference-standards.pdf">
+            <title>Reference Standards or Materials</title>
+          </leaf>
+        </m3-2-p-6-reference-standards-or-materials>
+        <m3-2-p-7-container-closure-system>
+          <leaf ID="ID00001658" application-version="PDF 1.4" checksum="917dc2c28854f306c97e21ee34e0182b" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p7-cont-closure-sys/container-closure-system.pdf">
+            <title>Container Closure System</title>
+          </leaf>
+        </m3-2-p-7-container-closure-system>
+        <m3-2-p-8-stability>
+          <m3-2-p-8-1-stability-summary-and-conclusion>
+            <leaf ID="ID00000513" application-version="PDF 1.4" checksum="bb804dff84e982df844a8abaedf8d20b" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p8-stab/stability-summary-1.pdf">
+              <title>Stability Protocol</title>
+            </leaf>
+            <leaf ID="ID00001662" application-version="PDF 1.4" checksum="befe6690db29a10f320e86102dc67dd3" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p8-stab/stability-summary-2.pdf">
+              <title>Stability Summary and Conclusion</title>
+            </leaf>
+          </m3-2-p-8-1-stability-summary-and-conclusion>
+          <m3-2-p-8-2-post-approval-stability-protocol-and-stability-commitment>
+            <leaf ID="ID00001664" application-version="PDF 1.4" checksum="84613449a763462e394a90873b2640d1" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p8-stab/postapproval-stability.pdf">
+              <title>Post-approval Stability Protocol and Stability Commitment</title>
+            </leaf>
+          </m3-2-p-8-2-post-approval-stability-protocol-and-stability-commitment>
+          <m3-2-p-8-3-stability-data>
+            <leaf ID="ID00001666" application-version="PDF 1.4" checksum="216ab2cbe66cf8173ec6d708e62f87d5" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32p-drug-prod/pasgr-a4ggastroresistantgranules/32p8-stab/stability-data.pdf">
+              <title>Stability Data</title>
+            </leaf>
+          </m3-2-p-8-3-stability-data>
+        </m3-2-p-8-stability>
+      </m3-2-p-drug-product>
+      <m3-2-r-regional-information>
+        <leaf ID="ID00000587" application-version="PDF 1.4" checksum="b87c0aaa2983896f2cb9b98da88de834" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32r-reg-info/regional-information.pdf">
+          <title>Regional Information</title>
+        </leaf>
+        <leaf ID="ID00000582" application-version="PDF 1.4" checksum="49427896ee7433585c038350bacd913e" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32r-reg-info/regional-ce.pdf">
+          <title>Spoon EC Certificate</title>
+        </leaf>
+        <leaf ID="ID00000586" application-version="PDF 1.4" checksum="855866910f80297f13df33cf9ba25683" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32r-reg-info/regional-spoonspecs.pdf">
+          <title>Spoon specifications</title>
+        </leaf>
+        <leaf ID="ID00000589" application-version="PDF 1.4" checksum="46f673e2cb6cabbd208a0f15342b0a61" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32r-reg-info/regional-psfoodcontact.pdf">
+          <title>Device PS Crystal 1540 - Food contact certificate</title>
+        </leaf>
+        <leaf ID="ID00000585" application-version="PDF 1.4" checksum="3e628e461baba5209be789177f4fa1f0" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32r-reg-info/regional-fdastyron.pdf">
+          <title>Styron 678E Clear Polystyrene - FDA Compliance</title>
+        </leaf>
+        <leaf ID="ID00000590" application-version="PDF 1.4" checksum="63b378ea5477c5ebfb2bc32fa4ae9836" checksum-type="MD5" operation="new" xlink:href="m3/32-body-data/32r-reg-info/regional-styronfoodcontact.pdf">
+          <title>Device Styron 678E - Food contact certificate</title>
+        </leaf>
+      </m3-2-r-regional-information>
+    </m3-2-body-of-data>
+  </m3-quality>
+
+  <m4-nonclinical-study-reports>
+    <m4-3-literature-references>
+      <leaf ID="ID00000225" application-version="PDF 1.4" checksum="07043de706696ad05913726795a2c76f" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/ames-et-al-1975.pdf">
+        <title>Ames et al 1975</title>
+      </leaf>
+      <leaf ID="ID00000226" application-version="PDF 1.4" checksum="83720f38e6724a4bdb6fe8f7dbe41be8" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/bennett-et-al-1987.pdf">
+        <title>Bennett et al 1987</title>
+      </leaf>
+      <leaf ID="ID00000227" application-version="PDF 1.4" checksum="1c4c1c8ac2e06dfccbcff6fb44038c77" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/bernheim-1940.pdf">
+        <title>Bernheim 1940</title>
+      </leaf>
+      <leaf ID="ID00000228" application-version="PDF 1.4" checksum="ee461562e0a05a121923ef18967df704" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/bray-et-al-1951.pdf">
+        <title>Bray et al 1951</title>
+      </leaf>
+      <leaf ID="ID00000229" application-version="PDF 1.4" checksum="7d20e99e03d5c64e3aedebee0bbac35e" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/brown-and-ratledge-1972.pdf">
+        <title>Brown and Ratledge 1972</title>
+      </leaf>
+      <leaf ID="ID00000230" application-version="PDF 1.4" checksum="e7acfd1f6dd1c4123c572709531bd16d" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/brown-and-ratledge-1975.pdf">
+        <title>Brown and Ratledge 1975</title>
+      </leaf>
+      <leaf ID="ID00000231" application-version="PDF 1.4" checksum="0971441459874a9277632438e6c1e31b" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/buckley-et-al-1959.pdf">
+        <title>Buckley et al 1959</title>
+      </leaf>
+      <leaf ID="ID00000232" application-version="PDF 1.4" checksum="553cfac1d507d6f8ed78c3af5fbdceb4" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/coyne-et-al-2009.pdf">
+        <title>Coyne et al 2009</title>
+      </leaf>
+      <leaf ID="ID00000233" application-version="PDF 1.4" checksum="24faee49a614c5883ed09d41053d65ad" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/de-voss-et-al-2000.pdf">
+        <title>De Voss et al 2000</title>
+      </leaf>
+      <leaf ID="ID00000234" application-version="PDF 1.4" checksum="b1b068f6eb3dd252962cb5d5f0a32223" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/dubovsky-1991.pdf">
+        <title>Dubovsky 1991</title>
+      </leaf>
+      <leaf ID="ID00000235" application-version="PDF 1.4" checksum="84d99ba2f980f4a77c9204d17a92b33c" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/gichner-et-al-1991.pdf">
+        <title>Gichner et al 1991</title>
+      </leaf>
+      <leaf ID="ID00000236" application-version="PDF 1.4" checksum="97e6d2a6013be0c676d91f0f3227eb9d" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/goodman-and-gilman-1956.pdf">
+        <title>Goodman and Gilman 1956</title>
+      </leaf>
+      <leaf ID="ID00000238" application-version="PDF 1.4" checksum="a170450b9ed8874ed6dc70fd3c3c1fe5" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/gunderson-and-bietti-1949.pdf">
+        <title>Gunderson and Bietti 1949</title>
+      </leaf>
+      <leaf ID="ID00000239" application-version="PDF 1.4" checksum="a897059be0c699b57b33413a64f5ea7b" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/hano-1971.pdf">
+        <title>Hano 1971</title>
+      </leaf>
+      <leaf ID="ID00000240" application-version="PDF 1.4" checksum="d52fdc308bf31d4330adce0fbc0bd40b" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/heifets-and-iseman-1990.pdf">
+        <title>Heifets and Iseman 1990</title>
+      </leaf>
+      <leaf ID="ID00000241" application-version="PDF 1.4" checksum="81c5b16fc2cc67b941b129ae17496816" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/heifets-1991.pdf">
+        <title>Heifets, 1991 (pages 13, 26 and 47 only)</title>
+      </leaf>
+      <leaf ID="ID00000242" application-version="PDF 1.4" checksum="e8f8af9b65b717404f81eecae7fa00e6" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/heller-et-al-1957.pdf">
+        <title>Heller et al 1957</title>
+      </leaf>
+      <leaf ID="ID00000243" application-version="PDF 1.4" checksum="9d4c8a72a56d0e5e06ba072197dd7d72" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/lehmann-1949.pdf">
+        <title>Lehmann 1949</title>
+      </leaf>
+      <leaf ID="ID00000244" application-version="PDF 1.4" checksum="ea66abbce3e48d0814958d848cf02be7" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/lindholm-levy-and-heifets-1992.pdf">
+        <title>Lindholm-Levy and Heifets 1992</title>
+      </leaf>
+      <leaf ID="ID00000245" application-version="PDF 1.4" checksum="c504d824a492f84abf9a2b8412c52dd8" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/martindale-36th-edition.pdf">
+        <title>Martindale 36th edition</title>
+      </leaf>
+      <leaf ID="ID00000246" application-version="PDF 1.4" checksum="675cb0dcee2937f7a92dfab3edf6a067" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/nopponpunth-et-al-1999.pdf">
+        <title>Nopponpunth et al 1999</title>
+      </leaf>
+      <leaf ID="ID00000247" application-version="PDF 1.4" checksum="71cc66cb77820ca43b4a042d97a7c1f0" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/obe-et-al-1973.pdf">
+        <title>Obe et al 1973</title>
+      </leaf>
+      <leaf ID="ID00000248" application-version="PDF 1.4" checksum="5cf3a96328ad17a975b1606fcf17e516" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/palva-and-heinivaara-1966.pdf">
+        <title>Palva and Heinivaara 1966</title>
+      </leaf>
+      <leaf ID="ID00000249" application-version="PDF 1.4" checksum="724bf24db372940cb3fa4cab2b1193ee" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/paser-spc.pdf">
+        <title>PASER® SPC</title>
+      </leaf>
+      <leaf ID="ID00000250" application-version="PDF 1.4" checksum="460e500dcfc476ea1ad244271c8906e9" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/rengarajan-et-al-2004.pdf">
+        <title>Rengarajan et al 2004</title>
+      </leaf>
+      <leaf ID="ID00000251" application-version="PDF 1.4" checksum="0c075c6f8c2ce3003f5cc067c1ce9d18" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/roman-and-georgian-1977.pdf">
+        <title>Roman and Georgian 1977</title>
+      </leaf>
+      <leaf ID="ID00000252" application-version="PDF 1.4" checksum="4b5e044f07204a2bb68f006d8616af26" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/selkon-et-al-1960.pdf">
+        <title>Selkon et al 1960</title>
+      </leaf>
+      <leaf ID="ID00000253" application-version="PDF 1.4" checksum="0fcab36dc6e390af741de8d5a8abc489" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/selkon-et-al-1964.pdf">
+        <title>Selkon et al 1964</title>
+      </leaf>
+      <leaf ID="ID00000254" application-version="PDF 1.4" checksum="54fd7e3c3f600a08fce7d64963f26a3e" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/singh-and-mitchison-1955.pdf">
+        <title>Singh and Mitchison 1955</title>
+      </leaf>
+      <leaf ID="ID00000255" application-version="PDF 1.4" checksum="89da321cc73d5312e2f673f87ab2f4d7" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/spector-and-lorenzo-1973.pdf">
+        <title>Spector and Lorenzo 1973</title>
+      </leaf>
+      <leaf ID="ID00000256" application-version="PDF 1.4" checksum="87a9cb2ba506d6e4822214a3be4f0069" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/swedburg-and-skold-1980.pdf">
+        <title>Swedberg and Skold 1980</title>
+      </leaf>
+      <leaf ID="ID00000257" application-version="PDF 1.4" checksum="22427226cc2ebfcd7cd09f15b5e41de8" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/tb-chemo-centre-bull-who-1960.pdf">
+        <title>TB Chemo Centre Bull. WHO 1960</title>
+      </leaf>
+      <leaf ID="ID00000258" application-version="PDF 1.4" checksum="58a6ecc06bdf460097844a90e09dff7a" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/tb-chemo-centre-tubercle-1973.pdf">
+        <title>TB Chemo Centre Tubercle 1973</title>
+      </leaf>
+      <leaf ID="ID00000259" application-version="PDF 1.4" checksum="4dec2661f3f4a1893d6ce7a529e6cb04" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/way-et-al-1948.pdf">
+        <title>Way et al 1948</title>
+      </leaf>
+      <leaf ID="ID00000260" application-version="PDF 1.4" checksum="6e6a58673c4a541becc8436627c4caea" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/way-et-al-1955.pdf">
+        <title>Way et al 1955</title>
+      </leaf>
+      <leaf ID="ID00000261" application-version="PDF 1.4" checksum="61bb3f7a12e150ed2bd618248e9efb38" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/who-2008.pdf">
+        <title>WHO 2008</title>
+      </leaf>
+      <leaf ID="ID00000262" application-version="PDF 1.4" checksum="64bc653bb414b95c1be46d233fc95640" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/winder-1964.pdf">
+        <title>Winder 1964</title>
+      </leaf>
+      <leaf ID="ID00000263" application-version="PDF 1.4" checksum="dec35eea321a43d69ffd13443cbedf76" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/yahagi-et-al-1977.pdf">
+        <title>Yahagi et al, 1977</title>
+      </leaf>
+      <leaf ID="ID00000264" application-version="PDF 1.4" checksum="7bd99257e00fca70962b1f37cf6a404e" checksum-type="MD5" operation="new" xlink:href="m4/43-lit-ref/youmans-et-al-1947.pdf">
+        <title>Youmans et al 1947</title>
+      </leaf>
+    </m4-3-literature-references>
+  </m4-nonclinical-study-reports>
+
+  <m5-clinical-study-reports>
+    <m5-4-literature-references>
+      <leaf ID="ID00001799" application-version="PDF 1.4" checksum="6fd93ff4e0927f955f0d79eab4367873" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/anger-et-al-2010.pdf">
+        <title>Anger et al 2010</title>
+      </leaf>
+      <leaf ID="ID00001800" application-version="PDF 1.4" checksum="a9b9d24c9b835315ea71611c2cc947fe" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/arbex-et-all-2011.pdf">
+        <title>Arbex et al 2011</title>
+      </leaf>
+      <leaf ID="ID00001802" application-version="PDF 1.4" checksum="5d50ae89602689dbbaafba353f1e70f7" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/avenda-o-and-goldstein-2000.pdf">
+        <title>Avendaño and Goldstein 2000</title>
+      </leaf>
+      <leaf ID="ID00001803" application-version="PDF 1.4" checksum="44a3128738e5d0dfc23afe0e1d309bff" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/banerjee-2008.pdf">
+        <title>Banerjee 2008</title>
+      </leaf>
+      <leaf ID="ID00001901" application-version="PDF 1.4" checksum="79d06eeccc3cf8cd4b636136bcde5fb0" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bignall-1971.pdf">
+        <title>Bignall 1971</title>
+      </leaf>
+      <leaf ID="ID00000271" application-version="PDF 1.4" checksum="0cf25351777ab45198e2ce592c4fddb2" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bloss-et-al-2010.pdf">
+        <title>Bloss et al 2010</title>
+      </leaf>
+      <leaf ID="ID00001807" application-version="PDF 1.4" checksum="badc059309e83c7d9d825798e1ba30df" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/blower-2004.pdf">
+        <title>Blower 2004</title>
+      </leaf>
+      <leaf ID="ID00001808" application-version="PDF 1.4" checksum="271ca6c0442612d77b3881182174a06a" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/boman-et-al-1971.pdf">
+        <title>Boman et al 1971</title>
+      </leaf>
+      <leaf ID="ID00001809" application-version="PDF 1.4" checksum="817c1b600747842fc780c9f5c79de488" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/boman-et-al-1975.pdf">
+        <title>Boman et al 1975</title>
+      </leaf>
+      <leaf ID="ID00001810" application-version="PDF 1.4" checksum="71d0427e5696afb301379a84c744c379" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bonilla-et-al-2008.pdf">
+        <title>Bonilla et al 2008</title>
+      </leaf>
+      <leaf ID="ID00000270" application-version="PDF 1.4" checksum="54f8dfc3c3717dd6b690e03c27198a09" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/bignall-et-al-1950.pdf">
+        <title>British Medical Research Council 1950</title>
+      </leaf>
+      <leaf ID="ID00000272" application-version="PDF 1.4" checksum="25354d9443a744e6e4028f1de2230b30" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/british-medical-research-council-tubercle-1973.pdf">
+        <title>British Medical Research Council Tubercle 1973</title>
+      </leaf>
+      <leaf ID="ID00000273" application-version="PDF 1.4" checksum="eff5c8fd790e27114f11fe78136d5fb4" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/brown-and-ratledge-1972.pdf">
+        <title>Brown and Ratledge 1972</title>
+      </leaf>
+      <leaf ID="ID00000274" application-version="PDF 1.4" checksum="8e7ebe9a635fa444bb964ed31f83ccc7" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/brown-and-ratledge-1975.pdf">
+        <title>Brown and Ratledge 1975</title>
+      </leaf>
+      <leaf ID="ID00001811" application-version="PDF 1.4" checksum="fb6451342d6d8d64ebafee21e6007602" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/brown-et-al-1978.pdf">
+        <title>Brown et al 1978</title>
+      </leaf>
+      <leaf ID="ID00000275" application-version="PDF 1.4" checksum="b1e05360c433980916f99726d4e8a25d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/budha-et-al-2008.pdf">
+        <title>Budha et al 2008</title>
+      </leaf>
+      <leaf ID="ID00001816" application-version="PDF 1.4" checksum="e987bd51d3bf0526fdd6ec027876bf6e" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/caminero-et-al-2005.pdf">
+        <title>Caminero et al 2005</title>
+      </leaf>
+      <leaf ID="ID00000526" application-version="PDF 1.4" checksum="dd8d217afc89bf6bb8d4466904813989" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/capstick-et-al-2011.pdf">
+        <title>Capstick et al 2011</title>
+      </leaf>
+      <leaf ID="ID00000276" application-version="PDF 1.4" checksum="a04d811c719a13a5f3fc4fe7d4230500" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/cdc-tb-report-2009.pdf">
+        <title>CDC TB report 2009</title>
+      </leaf>
+      <leaf ID="ID00000277" application-version="PDF 1.4" checksum="894b338a5c8c8b30106f73976a4802ce" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/cohen-et-al-1958.pdf">
+        <title>Cohen et al 1958</title>
+      </leaf>
+      <leaf ID="ID00001820" application-version="PDF 1.4" checksum="ea9374e5a693a65f4597d03a88eccb37" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/cox-et-al-2007.pdf">
+        <title>Cox et al 2007</title>
+      </leaf>
+      <leaf ID="ID00000278" application-version="PDF 1.4" checksum="77d8d1e9e278bacfc602bf93ac24bded" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/coyne-et-al-2009.pdf">
+        <title>Coyne et al 2009</title>
+      </leaf>
+      <leaf ID="ID00000279" application-version="PDF 1.4" checksum="e2d4f0a6af09d8150454670d97b43530" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/cpmp-2000.pdf">
+        <title>CPMP 2000</title>
+      </leaf>
+      <leaf ID="ID00000280" application-version="PDF 1.4" checksum="4f13ee4c5addee2eefa44cb441abc167" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/dartois-and-barry-2010.pdf">
+        <title>Dartois and Barry 2010</title>
+      </leaf>
+      <leaf ID="ID00001825" application-version="PDF 1.4" checksum="74f08400a5f8f0f0995d8f272d49b1ae" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/david-et-al-1989.pdf">
+        <title>David et al 1989</title>
+      </leaf>
+      <leaf ID="ID00000281" application-version="PDF 1.4" checksum="544f6bda24b20cb2d836dde0939960d0" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/dawson-et-al-1966.pdf">
+        <title>Dawson et al 1966</title>
+      </leaf>
+      <leaf ID="ID00000282" application-version="PDF 1.4" checksum="d6615835304f5ca7a08f7aef75f7175e" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/deeb-et-al-1955.pdf">
+        <title>Deeb et al 1955</title>
+      </leaf>
+      <leaf ID="ID00000283" application-version="PDF 1.4" checksum="d9f66cf3580a5fcf768dad8c3ba3626b" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/dravniece-et-al-2009.pdf">
+        <title>Dravniece et al 2009</title>
+      </leaf>
+      <leaf ID="ID00000284" application-version="PDF 1.4" checksum="b63a4ddc3d7b42a3854d0fea8fe08392" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/drobac-et-al-2006.pdf">
+        <title>Drobac et al 2006</title>
+      </leaf>
+      <leaf ID="ID00001830" application-version="PDF 1.4" checksum="68a244bd9f2c37a8152f28741be693b6" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/drucker-et-al-1964.pdf">
+        <title>Drucker et al 1964</title>
+      </leaf>
+      <leaf ID="ID00001831" application-version="PDF 1.4" checksum="c32663dd1d9e8d32d4e283a27e2195c2" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/duncan-1951.pdf">
+        <title>Duncan 1951</title>
+      </leaf>
+      <leaf ID="ID00000319" application-version="PDF 1.4" checksum="8a76b3afa9a52a5fc7310c7c6ae78124" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/ecdc-stockholm-may-2011.pdf">
+        <title>ECDC Stockholm May 2011</title>
+      </leaf>
+      <leaf ID="ID00001833" application-version="PDF 1.4" checksum="b0a823958383afb67d75d16e6c3ea837" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/edwards-1954.pdf">
+        <title>Edwards 1954</title>
+      </leaf>
+      <leaf ID="ID00001834" application-version="PDF 1.4" checksum="42bcfb00bd4857c04bd0be8b6e960221" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/eker-et-al-2008.pdf">
+        <title>Eker et al 2008</title>
+      </leaf>
+      <leaf ID="ID00001835" application-version="PDF 1.4" checksum="08846c3fe23de5670c90b7918452130e" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/falzon-2011.pdf">
+        <title>Falzon 2011</title>
+      </leaf>
+      <leaf ID="ID00001837" application-version="PDF 1.4" checksum="784d5ba72c4bbc2888a69dd0373003a0" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/flament-saillour-1999.pdf">
+        <title>Flament-Saillour 1999</title>
+      </leaf>
+      <leaf ID="ID00001838" application-version="PDF 1.4" checksum="027318195486f5b130a563e2f29a29cc" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/goble-1993.pdf">
+        <title>Goble 1993</title>
+      </leaf>
+      <leaf ID="ID00000286" application-version="PDF 1.4" checksum="b4f6e99c8a818c25ce8f23158850f18d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/goodman-and-gilman-1956.pdf">
+        <title>Goodman and Gilman 1956</title>
+      </leaf>
+      <leaf ID="ID00000287" application-version="PDF 1.4" checksum="b219289ef514cdb6271d0aa7b8290171" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/hedgecock-1965.pdf">
+        <title>Hedgecock 1965</title>
+      </leaf>
+      <leaf ID="ID00001841" application-version="PDF 1.4" checksum="ffc84c364f4c7d1adae6de495837cf85" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/heifets-1991.pdf">
+        <title>Heifets 1991</title>
+      </leaf>
+      <leaf ID="ID00001842" application-version="PDF 1.4" checksum="2b3ce7f5656f3ae296b65385011c6ee6" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/heinivaara-et-al-1965.pdf">
+        <title>Heinivaara et al 1965</title>
+      </leaf>
+      <leaf ID="ID00001843" application-version="PDF 1.4" checksum="f359878485cd02e50a5192a6f693e7a9" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/held-h-et-al-1977.pdf">
+        <title>Held H et al 1977</title>
+      </leaf>
+      <leaf ID="ID00001844" application-version="PDF 1.4" checksum="77eda969e8bba9c3362df2ccceadb157" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/herbert-1968.pdf">
+        <title>Herbert 1968</title>
+      </leaf>
+      <leaf ID="ID00000288" application-version="PDF 1.4" checksum="7413fbb967d293f02a5a6c89f024dfb7" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/hollander-1955.pdf">
+        <title>Hollander 1955</title>
+      </leaf>
+      <leaf ID="ID00000289" application-version="PDF 1.4" checksum="0c4824dd353e4dc9a4858f46955f1019" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/kaniwa-et-al-1988.pdf">
+        <title>Kaniwa et al 1988</title>
+      </leaf>
+      <leaf ID="ID00000290" application-version="PDF 1.4" checksum="d0b85dba82e99bde2494dd11a4de99d6" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/keshavee-et-al-2008.pdf">
+        <title>Keshavee et al 2008</title>
+      </leaf>
+      <leaf ID="ID00000291" application-version="PDF 1.4" checksum="7f31ea7813763a9552ffc18870682545" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/kiliman-and-altraja-2009.pdf">
+        <title>Kiliman and Altraja 2009</title>
+      </leaf>
+      <leaf ID="ID00000292" application-version="PDF 1.4" checksum="e239387096221e6dfe6ef1ef4a73a0d8" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/kodmon-et-al-2010.pdf">
+        <title>Kodmon et al 2010</title>
+      </leaf>
+      <leaf ID="ID00000293" application-version="PDF 1.4" checksum="25c002d8c95d59a3d772cee0bf9e3e1d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/kruijshaar-et-al-2008.pdf">
+        <title>Kruijshaar et al 2008</title>
+      </leaf>
+      <leaf ID="ID00000294" application-version="PDF 1.4" checksum="0d8febfcfc9f8794eb61d7cb1cb7177f" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/la-tuberculose-fr-2000.pdf">
+        <title>La tuberculose fr 2000</title>
+      </leaf>
+      <leaf ID="ID00001853" application-version="PDF 1.4" checksum="06dfb7de35b0db670768082e028d3aae" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/liu-et-al-2011.pdf">
+        <title>Liu et al 2011</title>
+      </leaf>
+      <leaf ID="ID00001854" application-version="PDF 1.4" checksum="667d579906e4bdd8f615b568216e8878" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/longstreth-et-al-1975.pdf">
+        <title>Longstreth et al 1975</title>
+      </leaf>
+      <leaf ID="ID00001855" application-version="PDF 1.4" checksum="2c8677ea3c6f0ef94315e1b37d12fc05" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/mandel-1959.pdf">
+        <title>Mandel 1959</title>
+      </leaf>
+      <leaf ID="ID00001856" application-version="PDF 1.4" checksum="9c5fc2f7e32a958968e1b74696e20506" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/maranetra-1996.pdf">
+        <title>Maranetra 1996</title>
+      </leaf>
+      <leaf ID="ID00001857" application-version="PDF 1.4" checksum="38525e3be29ad1bca870a9b35161859c" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/matilla-1969.pdf">
+        <title>Matilla 1969</title>
+      </leaf>
+      <leaf ID="ID00001858" application-version="PDF 1.4" checksum="8709c98a584a8d17468c1d9063fa5387" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/migliori-et-al-2008.pdf">
+        <title>Migliori et al 2008</title>
+      </leaf>
+      <leaf ID="ID00000296" application-version="PDF 1.4" checksum="857c2c299b983153cce22b7f7c3feae9" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/nhs-tuberculosis-2006.pdf">
+        <title>NHS Tuberculosis 2006</title>
+      </leaf>
+      <leaf ID="ID00001860" application-version="PDF 1.4" checksum="9da9373931d247946f06c88e3fc82a15" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/ormerod-2005.pdf">
+        <title>Ormerod 2005</title>
+      </leaf>
+      <leaf ID="ID00001861" application-version="PDF 1.4" checksum="25b747d6354dde8568126b935f8fc394" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/palva-1966.pdf">
+        <title>Palva 1966</title>
+      </leaf>
+      <leaf ID="ID00001862" application-version="PDF 1.4" checksum="69547078521e04331470eb3ac792379c" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/palva-et-al-1972.pdf">
+        <title>Palva et al 1972</title>
+      </leaf>
+      <leaf ID="ID00000265" application-version="PDF 1.4" checksum="5abf782da4b168a030bee1ac484358dd" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/peloquin-at-al-pharmacokinetic-1994.pdf">
+        <title>Peloquin at al 1994</title>
+      </leaf>
+      <leaf ID="ID00000267" application-version="PDF 1.4" checksum="da2c876fd2d4cd18aad0421a269e9841" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/peloquin-et-al-1999.pdf">
+        <title>Peloquin et al 1999</title>
+      </leaf>
+      <leaf ID="ID00000266" application-version="PDF 1.4" checksum="01cd2a62ad2a4dde7c1a23d393748a6b" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/peloquin-et-al-pharmacokinetics-2001.pdf">
+        <title>Peloquin et al 2001</title>
+      </leaf>
+      <leaf ID="ID00000298" application-version="PDF 1.4" checksum="4c3d2e61f005007c1c13dafa06b430ca" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/peloquin-2002-therapeutic-drug-monitoring.pdf">
+        <title>Peloquin 2002</title>
+      </leaf>
+      <leaf ID="ID00000299" application-version="PDF 1.4" checksum="ab0c72c30a3cfb9c9272aaa856c1c634" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/pentikainen-et-al-1973.pdf">
+        <title>Pentikainen et al 1973</title>
+      </leaf>
+      <leaf ID="ID00000300" application-version="PDF 1.4" checksum="8ef8a70b71d183f7b1ac2e02a83a2cbf" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/prasad-et-al-2006.pdf">
+        <title>Prasad et al 2006</title>
+      </leaf>
+      <leaf ID="ID00001867" application-version="PDF 1.4" checksum="398dfeb3cd4556efbee67a4e8028deff" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/ramakrishnan-1969.pdf">
+        <title>Ramakrishnan 1969</title>
+      </leaf>
+      <leaf ID="ID00000301" application-version="PDF 1.4" checksum="7f285859dc7d3b48dd4b9d56c366171a" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/rcp-guidelines.pdf">
+        <title>RCP Guidelines</title>
+      </leaf>
+      <leaf ID="ID00000302" application-version="PDF 1.4" checksum="1104cdc0952c682930e12a950585f2cc" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/rezipas-desi-1969.pdf">
+        <title>Rezipas DESI 1969</title>
+      </leaf>
+      <leaf ID="ID00001870" application-version="PDF 1.4" checksum="33cb1d85029867a9b1f822ac10ff9e55" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/rossouw-et-al-1975.pdf">
+        <title>Rossouw et al 1975</title>
+      </leaf>
+      <leaf ID="ID00001871" application-version="PDF 1.4" checksum="ed12f5a9dad62921ede44d5a66d1d078" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/schless-1966.pdf">
+        <title>Schless 1966</title>
+      </leaf>
+      <leaf ID="ID00001872" application-version="PDF 1.4" checksum="a67e4a9e2cc7506d7810d07b9c3caed8" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/selkon-1964.pdf">
+        <title>Selkon 1964</title>
+      </leaf>
+      <leaf ID="ID00001873" application-version="PDF 1.4" checksum="09580b69e7713937e30019ba39126613" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/simpson-1960.pdf">
+        <title>Simpson 1960</title>
+      </leaf>
+      <leaf ID="ID00000303" application-version="PDF 1.4" checksum="8fca8f4e447cf9564694d27edf241df0" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/small-et-al-1958.pdf">
+        <title>Small et al 1958</title>
+      </leaf>
+      <leaf ID="ID00000304" application-version="PDF 1.4" checksum="ab248ae7db8244fdd64873e423ceba59" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/snider-1997.pdf">
+        <title>Snider 1997</title>
+      </leaf>
+      <leaf ID="ID00001876" application-version="PDF 1.4" checksum="6899c3df7ada11570b5b496dc638f4cb" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/soderhjelm-1949.pdf">
+        <title>Soderhjelm 1949</title>
+      </leaf>
+      <leaf ID="ID00000305" application-version="PDF 1.4" checksum="eb72ba8fdd63d41f6a7e071744dbec5a" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/sotgiu-et-al-2009.pdf">
+        <title>Sotgiu et al 2009</title>
+      </leaf>
+      <leaf ID="ID00000307" application-version="PDF 1.4" checksum="6628a5de227b81ec72505b7d53d87b2e" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/tb-chemo-centre-bull-who-1960.pdf">
+        <title>TB Chemo Centre Bull. WHO 1960</title>
+      </leaf>
+      <leaf ID="ID00000308" application-version="PDF 1.4" checksum="98da08997448160c59671289295a4b09" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/tb-chemo-centre-bull-who-1964.pdf">
+        <title>TB Chemo Centre Bull. WHO 1964</title>
+      </leaf>
+      <leaf ID="ID00000309" application-version="PDF 1.4" checksum="f390c62c9314b556ac9063e9b9210970" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/tb-chemo-centre-bull-who-1966.pdf">
+        <title>TB Chemo Centre Bull. WHO 1966</title>
+      </leaf>
+      <leaf ID="ID00000310" application-version="PDF 1.4" checksum="235498f850ddcd3cddc579cc740e076d" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/tb-chemo-centre-tubercle-1973.pdf">
+        <title>TB Chemo Centre Tubercle 1973</title>
+      </leaf>
+      <leaf ID="ID00000306" application-version="PDF 1.4" checksum="130a87baea7c98dd81685341b06f94c5" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/tb-chemo-centre-brit-med-j-1973.pdf">
+        <title>TB Chemo Centre Brit Med J 1973</title>
+      </leaf>
+      <leaf ID="ID00001884" application-version="PDF 1.4" checksum="bf6f721275df472108f920e8c84ea961" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/tiitinen-1969.pdf">
+        <title>Tiitinen 1969</title>
+      </leaf>
+      <leaf ID="ID00000311" application-version="PDF 1.4" checksum="ece7990cf0d29cb00badb1ec209a444b" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/us-spc-paser-.pdf">
+        <title>US SPC Paser®</title>
+      </leaf>
+      <leaf ID="ID00000312" application-version="PDF 1.4" checksum="4d1c82a70abffb77e7d115d617cc2338" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/van-ingen-et-al-2008.pdf">
+        <title>Van Ingen et al 2008</title>
+      </leaf>
+      <leaf ID="ID00001887" application-version="PDF 1.4" checksum="bc6dcf6eef6b3f1b20a20806951dcf36" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/viskum-kok-jensen-1997.pdf">
+        <title>Viskum Kok-Jensen 1997</title>
+      </leaf>
+      <leaf ID="ID00000314" application-version="PDF 1.4" checksum="165bf42edb5293a5973636ebc044c907" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/wan-et-al-1974.pdf">
+        <title>Wan et al 1974</title>
+      </leaf>
+      <leaf ID="ID00001890" application-version="PDF 1.4" checksum="9817537e4155503a1b212f2ec06427a1" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/wan-1974b.pdf">
+        <title>Wan 1974b</title>
+      </leaf>
+      <leaf ID="ID00001891" application-version="PDF 1.4" checksum="abe438231afa7e6ad0ca268b8407e51a" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/warner-2006.pdf">
+        <title>Warner 2006</title>
+      </leaf>
+      <leaf ID="ID00001892" application-version="PDF 1.4" checksum="eb259e2d83d890a5b1548317fd372595" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/way-et-al-1948.pdf">
+        <title>Way et al. 1948</title>
+      </leaf>
+      <leaf ID="ID00001893" application-version="PDF 1.4" checksum="7c4a91e8eef50d419d87a5542e8adc46" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/who-1996.pdf">
+        <title>WHO 1996</title>
+      </leaf>
+      <leaf ID="ID00001894" application-version="PDF 1.4" checksum="dcf96d545038e9aaef50b24712addd57" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/who-1997.pdf">
+        <title>WHO 1997</title>
+      </leaf>
+      <leaf ID="ID00000315" application-version="PDF 1.4" checksum="e705ddaef959869d1bb311b621755fec" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/who-2008.pdf">
+        <title>WHO 2008</title>
+      </leaf>
+      <leaf ID="ID00000316" application-version="PDF 1.4" checksum="f8a7913e1608807ad4cb1747898e0674" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/who-2009.pdf">
+        <title>WHO 2009</title>
+      </leaf>
+      <leaf ID="ID00000317" application-version="PDF 1.4" checksum="558fd110fc003f89c791c967038037c1" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/who-2010.pdf">
+        <title>WHO 2010</title>
+      </leaf>
+      <leaf ID="ID00001898" application-version="PDF 1.4" checksum="c1b6c2e41ce0c2943db16dfc78960957" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/who-2011.pdf">
+        <title>WHO 2011</title>
+      </leaf>
+      <leaf ID="ID00000318" application-version="PDF 1.4" checksum="d593b4f55e78f69c71f9c15560499ff1" checksum-type="MD5" operation="new" xlink:href="m5/54-lit-ref/yue-and-cohen-1966.pdf">
+        <title>Yue and Cohen 1966</title>
+      </leaf>
+    </m5-4-literature-references>
+  </m5-clinical-study-reports>
+
+</ectd:ectd>

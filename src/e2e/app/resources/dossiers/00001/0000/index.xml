@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ectd:ectd SYSTEM "util/dtd/ich-ectd-3-2.dtd">
+<?xml-stylesheet href="util/style/ectd-2-0.xsl"  type="text/xsl"?>
+<ectd:ectd dtd-version="3.2" xmlns:ectd="http://www.ich.org/ectd" xmlns:xlink="http://www.w3c.org/1999/xlink">
+    <m1-administrative-information-and-prescribing-information>
+        <leaf ID="aaf3b956a4ab7685f00ded651fdfe83df" checksum="fe55faf9171e76aecfc2bb4fe28c690b" checksum-type="md5" operation="new" xlink:href="m1/eu/eu-regional.xml" xlink:type="simple" xmlns:xlink="http://www.w3c.org/1999/xlink">
+            <title>Administrative Information and Prescribing Information</title>
+        </leaf>
+    </m1-administrative-information-and-prescribing-information>
+    <m2-common-technical-document-summaries>
+        <m2-4-nonclinical-overview>
+            <leaf ID="aee07aba6fdf346d40a764dffeaccb09e" checksum="9295dde101dfea749fb8c8e998a0fa74" checksum-type="md5" modified-file="../0000/index.xml#abd0e6ceaafe2f642505e33d33aaf2a48" operation="replace" xlink:href="m2/24-nonclin-over/nonclinical-overview.pdf" xlink:type="simple" xmlns:xlink="http://www.w3c.org/1999/xlink">
+                <title>Nonclinical Overview</title>
+            </leaf>
+        </m2-4-nonclinical-overview>
+        <m2-5-clinical-overview>
+            <leaf ID="af1bc6bb71482fb5d2c63037eb5ae5e0e" checksum="180a814bcdf65cb975a4b6a3f8acf433" checksum-type="md5" modified-file="../0000/index.xml#a1d9213484d624fd6e8c761378434a1d3" operation="replace" xlink:href="m2/25-clin-over/clinical-overview.pdf" xlink:type="simple" xmlns:xlink="http://www.w3c.org/1999/xlink">
+                <title>Clinical Overview</title>
+            </leaf>
+        </m2-5-clinical-overview>
+    </m2-common-technical-document-summaries>
+    <m5-clinical-study-reports>
+        <m5-3-clinical-study-reports>
+            <m5-3-5-reports-of-efficacy-and-safety-studies indication="pmo">
+                <m5-3-5-1-study-reports-of-controlled-clinical-studies-pertinent-to-the-claimed-indication>
+                    <leaf ID="a79e37f626a70ec4398657673742a6671" checksum="470aafa7f34117624b9ecfa7dc8fef41" checksum-type="md5" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/pmo/5351-stud-rep-contr/20030216/csr-20030216-pi-signature.pdf" xlink:type="simple" xmlns:xlink="http://www.w3c.org/1999/xlink">
+                        <title>csr-20030216-pi-signature</title>
+                    </leaf>
+                </m5-3-5-1-study-reports-of-controlled-clinical-studies-pertinent-to-the-claimed-indication>
+            </m5-3-5-reports-of-efficacy-and-safety-studies>
+        </m5-3-clinical-study-reports>
+    </m5-clinical-study-reports>
+</ectd:ectd>

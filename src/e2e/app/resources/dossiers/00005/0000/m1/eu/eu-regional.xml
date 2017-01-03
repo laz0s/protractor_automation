@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE eu:eu-backbone SYSTEM "../../util/dtd/eu-regional.dtd">
+<?xml-stylesheet type="text/xsl" href="../../util/style/eu-regional.xsl"?>
+<eu:eu-backbone xmlns:eu="http://europa.eu.int" dtd-version="1.4" xmlns:xlink="http://www.w3c.org/1999/xlink">
+
+  <eu-envelope>
+    <envelope country="emea">
+      <submission type="initial-maa">
+        <tracking>
+          <number>EMA/H/C/2709</number>
+        </tracking>
+      </submission>
+      <applicant>Lucane Pharma</applicant>
+      <agency code="EU-EMEA"/>
+      <procedure type="centralised"/>
+      <invented-name>PAS-GR</invented-name>
+      <inn>Para-aminosalicylic acid</inn>
+      <sequence>0000</sequence>
+      <submission-description>Initial Marketing Authorisation Application</submission-description>
+    </envelope>
+  </eu-envelope>
+
+  <m1-eu>
+    <m1-0-cover>
+      <specific country="emea">
+        <leaf ID="ID00001315" application-version="PDF 1.4" checksum="17aabafb9b75df1c5f0277d3d7cfeed2" checksum-type="MD5" operation="new" xlink:href="10-cover/emea/emea-cover-weu.pdf">
+          <title>Cover letter (0000) - Initial MAA</title>
+        </leaf>
+      </specific>
+    </m1-0-cover>
+    <m1-2-form>
+      <specific country="emea">
+        <leaf ID="ID00001319" application-version="PDF 1.4" checksum="78aa5df49343e3f3a58406cf5e605465" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-pasgr.pdf">
+          <title>Application Form</title>
+        </leaf>
+        <leaf ID="ID00000528" application-version="PDF 1.4" checksum="369500d088b00c08a7aa92a898d3881a" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex51.pdf">
+          <title>Annex 5.1 - Proof of payment</title>
+        </leaf>
+        <leaf ID="ID00001321" application-version="PDF 1.4" checksum="909549efa3ac82e361db4463b64a74f8" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex53proofofestablishmentlucane.pdf">
+          <title>Annex 5.3 - Proof of establishment in EEA</title>
+        </leaf>
+        <leaf ID="ID00001322" application-version="PDF 1.4" checksum="797c31169731110e640667b4f9cfcc9f" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex54letterofauthorisation.pdf">
+          <title>Annex 5.4 - Letter of authorisation</title>
+        </leaf>
+        <leaf ID="ID00000543" application-version="PDF 1.4" checksum="022dd8b0b5d997fb88bd4cc244be2995" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex55.pdf">
+          <title>Annex 5.5 - CV of the Qualified Person for Pharmacovigilance</title>
+        </leaf>
+        <leaf ID="ID00000544" application-version="PDF 1.4" checksum="89df0d195e2eb3e706b3220d04b00644" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex56.pdf">
+          <title>Annex 5.6 - Manufacturing Authorisation - BTT</title>
+        </leaf>
+        <leaf ID="ID00000545" application-version="PDF 1.4" checksum="ed3b0bceaaa5949f13742b95e1fba349" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex56coatingplace.pdf">
+          <title>Annex 5.6 - Manufacturing Authorisation - Coating Place</title>
+        </leaf>
+        <leaf ID="ID00000546" application-version="PDF 1.4" checksum="c7a946db3ba5da5d6f712829963dc6db" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex56futurepack.pdf">
+          <title>Annex 5.6 - Manufacturing Authorisation - Future Pack</title>
+        </leaf>
+        <leaf ID="ID00000547" application-version="PDF 1.4" checksum="5a0137132ced36fbd3805b3282317e0f" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex56jacobus.pdf">
+          <title>Annex 5.6 - Manufacturing Authorisation - Jacobus</title>
+        </leaf>
+        <leaf ID="ID00001328" application-version="PDF 1.4" checksum="a2e5c0736422d94b0fe996abb167b134" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex56sciencexmanufacturingauthorisation.pdf">
+          <title>Annex 5.6 - Manufacturing authorisation - Sciencex</title>
+        </leaf>
+        <leaf ID="ID00000548" application-version="PDF 1.4" checksum="4ee3aa1299fbffe409735c4f29d35a20" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex57.pdf">
+          <title>Annex 5.7 - Qualification of SME Status</title>
+        </leaf>
+        <leaf ID="ID00001330" application-version="PDF 1.4" checksum="347c17fbd802508961822558bc89ac14" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex58flowchartv2.pdf">
+          <title>Annex 5.8 - Manufacturing flow-chart</title>
+        </leaf>
+        <leaf ID="ID00001331" application-version="PDF 1.4" checksum="cfbbceb0b2bf70faf3cfdb14a0ee236e" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex59coatingplacegmpcertificate2011.pdf">
+          <title>Annex 5.9 - GMP Certificate - Coating Place</title>
+        </leaf>
+        <leaf ID="ID00001332" application-version="PDF 1.4" checksum="1af2a2e021ce8e925a77dc79b6fac28a" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex59futurepackgmpcertificate2011.pdf">
+          <title>Annex 5.9 - GMP Certificate - Future Pack</title>
+        </leaf>
+        <leaf ID="ID00001333" application-version="PDF 1.4" checksum="930529e2b2f3754ee9c670e245979fa2" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex59jacobusgmpcertificate.pdf">
+          <title>Annex 5.9 - GMP Certificate - Jacobus</title>
+        </leaf>
+        <leaf ID="ID00000552" application-version="PDF 1.4" checksum="e5b60354c06d74b13a7beb003de633e8" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex59sciencex1.pdf">
+          <title>Annex 5.9 - GMP Certificate - Sciencex (1)</title>
+        </leaf>
+        <leaf ID="ID00000551" application-version="PDF 1.4" checksum="242f74995f67802df9738ee433fb3097" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex59sciencex2.pdf">
+          <title>Annex 5.9 - GMP Certificate - Sciencex (2)</title>
+        </leaf>
+        <leaf ID="ID00001336" application-version="PDF 1.4" checksum="23ef8b9ccfa4370a3a20ee100ccff9d1" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-lettersofaccess.pdf">
+          <title>Annex 5.10 - Letters of Access to EDMF</title>
+        </leaf>
+        <leaf ID="ID00000530" application-version="PDF 1.4" checksum="4f7d58666ce7bc6ca84a96a898fceded" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex511.pdf">
+          <title>Annex 5.11 - Confirmation from the manufacturer of the active substance</title>
+        </leaf>
+        <leaf ID="ID00000531" application-version="PDF 1.4" checksum="6838ff7832188a9e0f90dfcd3ed92aed" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex512.pdf">
+          <title>Annex 5.12 - Ph. Eur. Certificate(s) of suitability for TSE</title>
+        </leaf>
+        <leaf ID="ID00000535" application-version="PDF 1.4" checksum="40abdff603a06639c5a05b5efe19a3ba" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex515fda.pdf">
+          <title>Annex 5.15 - Copy of Marketing Authorization - FDA</title>
+        </leaf>
+        <leaf ID="ID00000536" application-version="PDF 1.4" checksum="74d844a721d3306b7a8b04563f9eb4ff" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex515russia.pdf">
+          <title>Annex 5.15 - Copy of Marketing Authorization - Russia</title>
+        </leaf>
+        <leaf ID="ID00001344" application-version="PDF 1.4" checksum="08a35fa058873d705751d975c0e8cac2" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex515safricama.pdf">
+          <title>Annex 5.15 - Copy of Marketing Authorization - South Africa</title>
+        </leaf>
+        <leaf ID="ID00000529" application-version="PDF 1.4" checksum="1898e9c5f712b0fa48f915b4b220d5e4" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex517listofmockups.pdf">
+          <title>Annex 5.17 - List of mock-ups</title>
+        </leaf>
+        <leaf ID="ID00001347" application-version="PDF 1.4" checksum="8569c12751ea8b613b6b2b8b7a77dc9e" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex518euorphandrugdecision.pdf">
+          <title>Annex 5.18 - Orphan Drug Designation - Signed</title>
+        </leaf>
+        <leaf ID="ID00001350" application-version="PDF 1.4" checksum="c96e370db64132727459979cbd241e9b" checksum-type="MD5" operation="new" xlink:href="12-form/emea/emea-form-annex522sciencexqpdeclaration.pdf">
+          <title>Annex 5.22 - Declaration from QP</title>
+        </leaf>
+      </specific>
+    </m1-2-form>
+    <m1-3-pi>
+      <m1-3-1-spc-label-pl>
+        <pi-doc country="emea" type="combined" xml:lang="en">
+          <leaf ID="ID00001355" application-version="PDF 1.4" checksum="cbad98bb406ae0820dd376ea921c5835" checksum-type="MD5" operation="new" xlink:href="13-pi/131-spclabelpl/emea/en/emea-combined.pdf">
+            <title>Labelling</title>
+          </leaf>
+        </pi-doc>
+        <pi-doc country="emea" type="pl" xml:lang="en">
+          <leaf ID="ID00001357" application-version="PDF 1.4" checksum="b4cf90f203d469687010230f07600676" checksum-type="MD5" operation="new" xlink:href="13-pi/131-spclabelpl/emea/en/emea-pl-pilpasgrversion4.pdf">
+            <title>Package Leaflet</title>
+          </leaf>
+        </pi-doc>
+        <pi-doc country="emea" type="spc" xml:lang="en">
+          <leaf ID="ID00001359" application-version="PDF 1.4" checksum="bae16a2573626b743693f66e8a596292" checksum-type="MD5" operation="new" xlink:href="13-pi/131-spclabelpl/emea/en/emea-spc.pdf">
+            <title>Summary of Product Characteristics</title>
+          </leaf>
+        </pi-doc>
+      </m1-3-1-spc-label-pl>
+      <m1-3-2-mockup>
+        <specific country="emea">
+          <leaf ID="ID00001364" application-version="PDF 1.4" checksum="58f90dbb8e94dfd84b9fad5ceae05b8d" checksum-type="MD5" operation="new" xlink:href="13-pi/132-mockup/emea/emea-mockup-lucanepasgrcarton.pdf">
+            <title>Carton</title>
+          </leaf>
+          <leaf ID="ID00001365" application-version="PDF 1.4" checksum="37fd6f916efa3f1cc030f89f459b0409" checksum-type="MD5" operation="new" xlink:href="13-pi/132-mockup/emea/emea-mockup-lucanesachet.pdf">
+            <title>Sachet</title>
+          </leaf>
+        </specific>
+      </m1-3-2-mockup>
+      <m1-3-4-consultation>
+        <specific country="emea">
+          <leaf ID="ID00000563" application-version="PDF 1.4" checksum="78fd2e36146f329da4975bfff36324a5" checksum-type="MD5" operation="new" xlink:href="13-pi/134-consultation/emea/emea-consultation-a134usertesting.pdf">
+            <title>Package Leaflet User Testing Report</title>
+          </leaf>
+        </specific>
+      </m1-3-4-consultation>
+      <m1-3-5-approved>
+        <specific country="emea">
+          <leaf ID="ID00000565" application-version="PDF 1.4" checksum="f3f432eea350b98e225912261d5181d5" checksum-type="MD5" operation="new" xlink:href="13-pi/135-approved/emea/emea-approved-a135spcatuc.pdf">
+            <title>French SPC (ATU Cohort)</title>
+          </leaf>
+        </specific>
+      </m1-3-5-approved>
+      <m1-3-6-braille>
+        <leaf ID="ID00001379" application-version="PDF 1.4" checksum="3ad1e50bff4cadfbd2fc93d3b592a32b" checksum-type="MD5" operation="new" xlink:href="13-pi/136-braille/braille-a136braille.pdf">
+          <title>Braille</title>
+        </leaf>
+      </m1-3-6-braille>
+    </m1-3-pi>
+    <m1-4-expert>
+      <m1-4-1-quality>
+        <leaf ID="ID00000571" application-version="PDF 1.4" checksum="7ac1280d0ef42a83bf60333a2a157321" checksum-type="MD5" operation="new" xlink:href="14-expert/141-quality/quality-declaration.pdf">
+          <title>Expert Declaration - Quality</title>
+        </leaf>
+        <leaf ID="ID00000572" application-version="PDF 1.4" checksum="0e8a8d5187e7c720c36acf580124bd69" checksum-type="MD5" operation="new" xlink:href="14-expert/141-quality/quality-cv.pdf">
+          <title>Expert CV - Quality</title>
+        </leaf>
+      </m1-4-1-quality>
+      <m1-4-2-non-clinical>
+        <leaf ID="ID00000574" application-version="PDF 1.4" checksum="de8edc21b6c08e14cdb6314d87f0174e" checksum-type="MD5" operation="new" xlink:href="14-expert/142-nonclinical/nonclinical-declaration.pdf">
+          <title>Expert Declaration - Non-clinical</title>
+        </leaf>
+        <leaf ID="ID00000573" application-version="PDF 1.4" checksum="f922cb92126cb4d19ed33af0027e9e14" checksum-type="MD5" operation="new" xlink:href="14-expert/142-nonclinical/nonclinical-cv.pdf">
+          <title>Expert CV - Non-clinical</title>
+        </leaf>
+        <leaf ID="ID00001387" application-version="PDF 1.4" checksum="4e56b2886f704505dd4e4f89bf38562b" checksum-type="MD5" operation="new" xlink:href="14-expert/142-nonclinical/nonclinical-cvisabellebousquie.pdf">
+          <title>Expert CV - Isabelle Bousquié</title>
+        </leaf>
+      </m1-4-2-non-clinical>
+      <m1-4-3-clinical>
+        <leaf ID="ID00000576" application-version="PDF 1.4" checksum="a66a29cb6f17b5f301ec9bb23877c189" checksum-type="MD5" operation="new" xlink:href="14-expert/143-clinical/clinical-declaration.pdf">
+          <title>Expert Declaration - Clinical</title>
+        </leaf>
+        <leaf ID="ID00000575" application-version="PDF 1.4" checksum="700ac577b6bd6a816055b74164feacd3" checksum-type="MD5" operation="new" xlink:href="14-expert/143-clinical/clinical-cv.pdf">
+          <title>Expert CV - Clinical</title>
+        </leaf>
+      </m1-4-3-clinical>
+    </m1-4-expert>
+    <m1-5-specific>
+      <m1-5-1-bibliographic>
+        <leaf ID="ID00001393" application-version="PDF 1.4" checksum="e22edb2bfd87f387463f7bc4c1aab13b" checksum-type="MD5" operation="new" xlink:href="15-specific/151-bibliographic/bibliographic-m151final.pdf">
+          <title>Information for Bibliographical Applications</title>
+        </leaf>
+      </m1-5-1-bibliographic>
+    </m1-5-specific>
+    <m1-6-environrisk>
+      <m1-6-1-non-gmo>
+        <leaf ID="ID00001401" application-version="PDF 1.4" checksum="dbeb426df16a7b21b5a684316d359d6f" checksum-type="MD5" operation="new" xlink:href="16-environrisk/161-nongmo/nongmo.pdf">
+          <title>Environmental Risk Assessment</title>
+        </leaf>
+      </m1-6-1-non-gmo>
+    </m1-6-environrisk>
+    <m1-8-pharmacovigilance>
+      <m1-8-1-pharmacovigilance-system>
+        <leaf ID="ID00000580" application-version="PDF 1.4" checksum="9dce81940b05f1478b1a489f4a8af39a" checksum-type="MD5" operation="new" xlink:href="18-pharmacovigilance/181-phvig-system/phvigsystem-ddps.pdf">
+          <title>Detailed Description of Pharmacovigilance System</title>
+        </leaf>
+      </m1-8-1-pharmacovigilance-system>
+      <m1-8-2-risk-management-system>
+        <leaf ID="ID00001411" application-version="PDF 1.4" checksum="0e522bee1c37e129e99505d3b9f59cad" checksum-type="MD5" operation="new" xlink:href="18-pharmacovigilance/182-riskmgt-system/riskmgtsystem-a182.pdf">
+          <title>Risk-management System</title>
+        </leaf>
+      </m1-8-2-risk-management-system>
+    </m1-8-pharmacovigilance>
+  </m1-eu>
+
+</eu:eu-backbone>

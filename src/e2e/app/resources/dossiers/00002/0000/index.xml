@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="util/style/ectd-2-0.xsl"?>
+<!DOCTYPE ectd:ectd SYSTEM "util/dtd/ich-ectd-3-2.dtd">
+<ectd:ectd xmlns:ectd="http://www.ich.org/ectd" xmlns:xlink="http://www.w3c.org/1999/xlink" dtd-version="3.2">
+	<m1-administrative-information-and-prescribing-information>
+		<leaf ID="NBSIEFE7CECD01CC1C67" operation="new" xlink:href="m1/eu/eu-regional.xml" checksum-type="md5" checksum="99ccd7ee52215834a01726384804c589">
+			<title>European Union</title>
+		</leaf>
+	</m1-administrative-information-and-prescribing-information>
+	<m2-common-technical-document-summaries>
+		<m2-5-clinical-overview>
+			<leaf ID="NBSI2B937B5101CC1C68" operation="replace" xlink:href="m2/25-clin-over/clinical-overview.pdf" modified-file="../0000/index.xml#NBSAA4A48DA601CBD717" checksum-type="md5" checksum="538f7b5fce504b3c0ae88982705c14a6">
+				<title>2.5 Clinical Overview 0001</title>
+			</leaf>
+		</m2-5-clinical-overview>
+		<m2-7-clinical-summary>
+			<m2-7-3-summary-of-clinical-efficacy indication="AMD">
+				<leaf ID="NBSI2DE0621601CC1C68" operation="replace" xlink:href="m2/27-clin-sum/summary-clin-efficacy-amd.pdf" modified-file="../0000/index.xml#NBSAA63782FC01CBD717" checksum-type="md5" checksum="a4de1040bbb495d1fba01effeb9b729f">
+					<title>2.7.3 Summary of Clinical Efficacy 0001</title>
+				</leaf>
+			</m2-7-3-summary-of-clinical-efficacy>
+			<m2-7-4-summary-of-clinical-safety>
+				<leaf ID="NBSI0641ED4F01CC1C68" operation="replace" xlink:href="m2/27-clin-sum/summary-clin-safety.pdf" modified-file="../0000/index.xml#NBSAA68AF6EF01CBD717" checksum-type="md5" checksum="e63ad1bc334c3b06d29263edf2b256ae">
+					<title>2.7.4 Summary of Clinical Safety 0001</title>
+				</leaf>
+			</m2-7-4-summary-of-clinical-safety>
+		</m2-7-clinical-summary>
+	</m2-common-technical-document-summaries>
+	<m3-quality>
+		<m3-2-body-of-data>
+			<m3-2-a-appendices>
+				<m3-2-a-2-adventitious-agents-safety-evaluation manufacturer="Bayer" substance="Aflibercept" dosageform="vial" product-name="Eylea">
+					<leaf ID="NBSI212528D101CC1C68" operation="replace" xlink:href="m3/32-body-data/32a-app/32a2-advent-agent/aflibercept-eylea-bayer-vial/adventitious-agents-report-1.pdf" modified-file="../0000/index.xml#NBSA9EBA7AA501CBD717" checksum-type="md5" checksum="0b09226888926e31169e22ed7f86987a">
+						<title>3.2.A.2.1 Adventitious Agents Safety Evaluation Report</title>
+					</leaf>
+				</m3-2-a-2-adventitious-agents-safety-evaluation>
+			</m3-2-a-appendices>
+			<m3-2-r-regional-information>
+				<leaf ID="NBSID882F2B101CC1C69" operation="replace" xlink:href="m3/32-body-data/32r-reg-info/regional-information.pdf" modified-file="../0000/index.xml#NBSAF556A9E601CBD718" checksum-type="md5" checksum="5058df357a989e9f05e045d345c64eb8">
+					<title>3.2.R Regional Information</title>
+				</leaf>
+			</m3-2-r-regional-information>
+		</m3-2-body-of-data>
+	</m3-quality>
+	<m4-nonclinical-study-reports>
+		<m4-2-study-reports>
+			<m4-2-2-pharmacokinetics>
+				<m4-2-2-4-metabolism>
+					<leaf ID="NBSI50BA698101CC1C6A" operation="new" xlink:href="m4/42-stud-rep/422-pk/4224-metab/justification4224.pdf" checksum-type="md5" checksum="2ab188734262bc1c0e01b30879e0245f">
+						<title>4.2.2.4.1 Justification_4.2.2.4</title>
+					</leaf>
+				</m4-2-2-4-metabolism>
+				<m4-2-2-6-pharmacokinetic-drug-interactions>
+					<leaf ID="NBSI52BB04C501CC1C6A" operation="new" xlink:href="m4/42-stud-rep/422-pk/4226-pk-drug-interact/justification4226.pdf" checksum-type="md5" checksum="def9b00a3bd4742b960962cff428cba1">
+						<title>4.2.2.6.1 Justification_4.2.2.6</title>
+					</leaf>
+				</m4-2-2-6-pharmacokinetic-drug-interactions>
+			</m4-2-2-pharmacokinetics>
+			<m4-2-3-toxicology>
+				<m4-2-3-4-carcinogenicity>
+					<m4-2-3-4-1-long-term-studies>
+						<leaf ID="NBSIFBC48B6D01CC1C6A" operation="new" xlink:href="m4/42-stud-rep/423-tox/4234-carcigen/42341-lt-stud/justification42340001.pdf" checksum-type="md5" checksum="c0926edd3aea1d6d5c72a98b0d1283ed">
+							<title>4.2.3.4.1.1 Justification_4.2.3.4_0001</title>
+						</leaf>
+					</m4-2-3-4-1-long-term-studies>
+					<m4-2-3-4-2-short-or-medium-term-studies>
+						<leaf ID="NBSIFBE84ED101CC1C6A" operation="new" xlink:href="m4/42-stud-rep/423-tox/4234-carcigen/42342-smt-stud/justification42340001.pdf" checksum-type="md5" checksum="cea0846c70b96e7146575af3f6dda35d">
+							<title>4.2.3.4.2.1 Justification_4.2.3.4_0001</title>
+						</leaf>
+					</m4-2-3-4-2-short-or-medium-term-studies>
+				</m4-2-3-4-carcinogenicity>
+				<m4-2-3-5-reproductive-and-developmental-toxicity>
+					<m4-2-3-5-3-prenatal-and-postnatal-development-including-maternal-function>
+						<leaf ID="NBSI0E18AEAD01CC1C6B" operation="new" xlink:href="m4/42-stud-rep/423-tox/4235-repro-dev-tox/42353-pre-postnatal-dev/justification423530001.pdf" checksum-type="md5" checksum="0fb929361492b39b741ea702db3f2d82">
+							<title>4.2.3.5.3.1 Justification_4.2.3.5.3_0001</title>
+						</leaf>
+					</m4-2-3-5-3-prenatal-and-postnatal-development-including-maternal-function>
+					<m4-2-3-5-4-studies-in-which-the-offspring-juvenile-animals-are-dosed-and-or-further-evaluated>
+						<leaf ID="NBSI0E249A7901CC1C6B" operation="new" xlink:href="m4/42-stud-rep/423-tox/4235-repro-dev-tox/42354-juv/justification423540001.pdf" checksum-type="md5" checksum="77654e13c962fd27b86d8a6174cefd32">
+							<title>4.2.3.5.4.1 Justification_4.2.3.5.4_0001</title>
+						</leaf>
+					</m4-2-3-5-4-studies-in-which-the-offspring-juvenile-animals-are-dosed-and-or-further-evaluated>
+				</m4-2-3-5-reproductive-and-developmental-toxicity>
+			</m4-2-3-toxicology>
+		</m4-2-study-reports>
+	</m4-nonclinical-study-reports>
+	<m5-clinical-study-reports>
+		<m5-3-clinical-study-reports>
+			<m5-3-1-reports-of-biopharmaceutic-studies>
+				<m5-3-1-1-bioavailability-study-reports>
+					<leaf ID="NBSI2652076901CC1C6B" operation="new" xlink:href="m5/53-clin-stud-rep/531-rep-biopharm-stud/5311-ba-stud-rep/justification/justification-53110001.pdf" checksum-type="md5" checksum="f90614100c69716a595e2733bd88741f">
+						<title>5.3.1.1.1 Justification 5.3.1.1_0001</title>
+					</leaf>
+				</m5-3-1-1-bioavailability-study-reports>
+				<m5-3-1-2-comparative-ba-and-bioequivalence-study-reports>
+					<leaf ID="NBSI26867B5101CC1C6B" operation="new" xlink:href="m5/53-clin-stud-rep/531-rep-biopharm-stud/5312-compar-ba-be-stud-rep/justification/justification-53120001.pdf" checksum-type="md5" checksum="7682cdf3dfc959187e9ec69b37a2bd6a">
+						<title>5.3.1.2.1 Justification 5.3.1.2_0001</title>
+					</leaf>
+				</m5-3-1-2-comparative-ba-and-bioequivalence-study-reports>
+				<m5-3-1-3-in-vitro-in-vivo-correlation-study-reports>
+					<leaf ID="NBSI269BF08D01CC1C6B" operation="new" xlink:href="m5/53-clin-stud-rep/531-rep-biopharm-stud/5313-in-vitro-in-vivo-corr-stud-rep/justification/justification-53130001.pdf" checksum-type="md5" checksum="179830640b16796991946c4aa6f6583f">
+						<title>5.3.1.3.1 Justification 5.3.1.3_0001</title>
+					</leaf>
+				</m5-3-1-3-in-vitro-in-vivo-correlation-study-reports>
+			</m5-3-1-reports-of-biopharmaceutic-studies>
+			<m5-3-2-reports-of-studies-pertinent-to-pharmacokinetics-using-human-biomaterials>
+				<m5-3-2-1-plasma-protein-binding-study-reports>
+					<leaf ID="NBSI3B14727501CC1C6B" operation="new" xlink:href="m5/53-clin-stud-rep/532-rep-stud-pk-human-biomat/5321-plasma-prot-bind-stud-rep/justification/justification-53210001.pdf" checksum-type="md5" checksum="06c836c97fd26d27968774b7f48456f4">
+						<title>5.3.2.1.1 Justification 5.3.2.1_0001</title>
+					</leaf>
+				</m5-3-2-1-plasma-protein-binding-study-reports>
+				<m5-3-2-2-reports-of-hepatic-metabolism-and-drug-interaction-studies>
+					<leaf ID="NBSI3B33712101CC1C6B" operation="new" xlink:href="m5/53-clin-stud-rep/532-rep-stud-pk-human-biomat/5322-rep-hep-metab-interact-stud/justification/justification-53220001.pdf" checksum-type="md5" checksum="130fb2346737a039977cf6b3206581d5">
+						<title>5.3.2.2.1 Justification 5.3.2.2_0001</title>
+					</leaf>
+				</m5-3-2-2-reports-of-hepatic-metabolism-and-drug-interaction-studies>
+			</m5-3-2-reports-of-studies-pertinent-to-pharmacokinetics-using-human-biomaterials>
+			<m5-3-3-reports-of-human-pharmacokinetics-pk-studies>
+				<m5-3-3-1-healthy-subject-pk-and-initial-tolerability-study-reports>
+					<leaf ID="NBSI3B716E7901CC1C6B" operation="new" xlink:href="m5/53-clin-stud-rep/533-rep-human-pk-stud/5331-healthy-subj-pk-init-tol-stud-rep/justification/justification-53310001.pdf" checksum-type="md5" checksum="eff07ad9ce497a50f34dcdfe7a1adf8c">
+						<title>5.3.3.1.1 Justification 5.3.3.1_0001</title>
+					</leaf>
+				</m5-3-3-1-healthy-subject-pk-and-initial-tolerability-study-reports>
+				<m5-3-3-3-intrinsic-factor-pk-study-reports>
+					<leaf ID="NBSIFBDDB98501CC1C6B" operation="new" xlink:href="m5/53-clin-stud-rep/533-rep-human-pk-stud/5333-intrin-factor-pk-stud-rep/justification/justification-53330001.pdf" checksum-type="md5" checksum="30721509c75e7b64db89998a5ae26f56">
+						<title>5.3.3.3.1 Justification 5.3.3.3_0001</title>
+					</leaf>
+				</m5-3-3-3-intrinsic-factor-pk-study-reports>
+				<m5-3-3-4-extrinsic-factor-pk-study-reports>
+					<leaf ID="NBSIFBEE6A0901CC1C6B" operation="new" xlink:href="m5/53-clin-stud-rep/533-rep-human-pk-stud/5334-extrin-factor-pk-stud-rep/justification/justification-53340001.pdf" checksum-type="md5" checksum="95dc97d24b0d3ac28b45534bf7c3e513">
+						<title>5.3.3.4.1 Justification 5.3.3.4_0001</title>
+					</leaf>
+				</m5-3-3-4-extrinsic-factor-pk-study-reports>
+				<m5-3-3-5-population-pk-study-reports>
+					<leaf ID="NBSIFC08A3FD01CC1C6B" operation="new" xlink:href="m5/53-clin-stud-rep/533-rep-human-pk-stud/5335-popul-pk-stud-rep/justification/justification-53350001.pdf" checksum-type="md5" checksum="17d980364137df6922108286a903c126">
+						<title>5.3.3.5.1 Justification 5.3.3.5_0001</title>
+					</leaf>
+				</m5-3-3-5-population-pk-study-reports>
+			</m5-3-3-reports-of-human-pharmacokinetics-pk-studies>
+			<m5-3-4-reports-of-human-pharmacodynamics-pd-studies>
+				<m5-3-4-2-patient-pd-and-pk-pd-study-reports>
+					<leaf ID="NBSI339DA4BD01CC1C6C" operation="new" xlink:href="m5/53-clin-stud-rep/534-rep-human-pd-stud/5342-patient-pd-stud-rep/justification/justification-53420001.pdf" checksum-type="md5" checksum="1b73a8de97fe6fbc378f3fc23e5188d9">
+						<title>5.3.4.2.1 Justification 5.3.4.2_0001</title>
+					</leaf>
+				</m5-3-4-2-patient-pd-and-pk-pd-study-reports>
+			</m5-3-4-reports-of-human-pharmacodynamics-pd-studies>
+			<m5-3-5-reports-of-efficacy-and-safety-studies indication="AMD">
+				<m5-3-5-1-study-reports-of-controlled-clinical-studies-pertinent-to-the-claimed-indication>
+					<node-extension>
+						<title>5.3.5.1.3 311523 (VIEW2) A36355 A randomized, double masked, active controlled, phase 3 study of the efficacy, safety, and tolerability of repeated doses of intravitreal VEGF Trap-Eye in subjects with neovascular age-related macular degeneration (AMD)</title>
+						<leaf ID="NBSI063863DD01CC1C68" operation="replace" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/amd/5351-stud-rep-contr/311523/a36355-synopsis-amended.pdf" modified-file="../0000/index.xml#NBSAE3D1604A01CBD717" checksum-type="md5" checksum="92a9df68ff91ae95f825f343c71067bd">
+							<title>5.3.5.1.3 A36355 Synopsis - amended</title>
+						</leaf>
+						<leaf ID="NBSI27D7693501CC1C68" operation="replace" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/amd/5351-stud-rep-contr/311523/a36355-report-section-amended.pdf" modified-file="../0000/index.xml#NBSAA220C61201CBD717" checksum-type="md5" checksum="d6c2fdf510907d1aa2f05510941b2a1a">
+							<title>5.3.5.1.3 A36355 Report Section - amended</title>
+						</leaf>
+						<leaf ID="NBSIC9C65CF101CC1C6C" operation="replace" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/amd/5351-stud-rep-contr/311523/a36355-15-signature-of-sponsors-responsi.pdf" modified-file="../0000/index.xml#NBSA62B3AB3801CBD71B" checksum-type="md5" checksum="8fbcf0cc6d8c4eeae6922fa052fc97cd">
+							<title>5.3.5.1.3 A36355 1.5 Signature of Sponsor&apos;s Responsible Medical Officer</title>
+						</leaf>
+					</node-extension>
+				</m5-3-5-1-study-reports-of-controlled-clinical-studies-pertinent-to-the-claimed-indication>
+				<m5-3-5-2-study-reports-of-uncontrolled-clinical-studies>
+					<leaf ID="NBSI11AEE5AD01CC1C6D" operation="new" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/amd/5352-stud-rep-uncontr/justification/justification-53520001.pdf" checksum-type="md5" checksum="36fa70f60502f312ed427b006758c496">
+						<title>5.3.5.2.1 Justification 5.3.5.2_0001</title>
+					</leaf>
+				</m5-3-5-2-study-reports-of-uncontrolled-clinical-studies>
+				<m5-3-5-3-reports-of-analyses-of-data-from-more-than-one-study>
+					<leaf ID="NBSI2DFA9C0901CC1C68" operation="replace" xlink:href="m5/53-clin-stud-rep/535-rep-effic-safety-stud/amd/5353-rep-analys-data-more-one-stud/ias/integrated-analysis-of-efficacy-and-safe.pdf" modified-file="../0000/index.xml#NBSAA651BD5E01CBD717" checksum-type="md5" checksum="5625cff271e8f5d1ab4adc635b167e54">
+						<title>5.3.5.3.1 Integrated analysis of efficacy and safety_0001</title>
+					</leaf>
+				</m5-3-5-3-reports-of-analyses-of-data-from-more-than-one-study>
+			</m5-3-5-reports-of-efficacy-and-safety-studies>
+			<m5-3-6-reports-of-postmarketing-experience>
+				<leaf ID="NBSIA18BE2F101CC1C6D" operation="new" xlink:href="m5/53-clin-stud-rep/536-postmark-exp/justification-5360001.pdf" checksum-type="md5" checksum="acad487a5f7c486ba038459c6b1e7b10">
+					<title>5.3.6.1 Justification 5.3.6_0001</title>
+				</leaf>
+			</m5-3-6-reports-of-postmarketing-experience>
+			<m5-3-7-case-report-forms-and-individual-patient-listings>
+				<leaf ID="NBSIA1A87F4101CC1C6D" operation="new" xlink:href="m5/53-clin-stud-rep/537-crf-ipl/justification/justification-5370001.pdf" checksum-type="md5" checksum="b9af8c0fe9cfcab8d408ce31677e97b7">
+					<title>5.3.7.1 Justification 5.3.7_0001</title>
+				</leaf>
+			</m5-3-7-case-report-forms-and-individual-patient-listings>
+		</m5-3-clinical-study-reports>
+	</m5-clinical-study-reports>
+</ectd:ectd>
